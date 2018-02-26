@@ -1,0 +1,79 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "이수혁",
+        "lang:en_US": "Lee Soo-hyuck"
+      },
+      "id": "Q22974711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22974711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "심기준",
+        "lang:en_US": "Shim Ki-joon"
+      },
+      "id": "Q30093075",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30093075"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "대한민국 국회",
+        "lang:en_US": "National Assembly"
+      },
+      "id": "Q494162",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q494162"
+        }
+      ],
+      "area_id": "Q884"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22974711-a95844ae-44b0-d855-37e0-5c81bf1aafc0",
+      "person_id": "Q22974711",
+      "organization_id": "Q494162",
+      "start_date": "2017-06-01",
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko_KR": "대한민국의 국회의원",
+        "lang:en_US": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30093075-21955e80-4b61-95ec-bd31-1093dec5c3d1",
+      "person_id": "Q30093075",
+      "organization_id": "Q494162",
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko_KR": "대한민국의 국회의원",
+        "lang:en_US": "Member of National Assembly of South Korea"
+      }
+    }
+  ]
+}
