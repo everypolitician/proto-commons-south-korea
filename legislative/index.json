@@ -5,7 +5,195 @@
     "position_item_id": "Q14850694",
     "terms": [
       {
+        "comment": "20th Legislative Assembly",
         "term_item_id": "Q22971549"
+      }
+    ]
+  },
+  {
+    "comment": "Seoul municipal council",
+    "house_item_id": "Q12601388",
+    "position_item_id": "Q50257366",
+    "terms": [
+      {
+        "comment": "9th Councilor in Seoul",
+        "term_item_id": "Q50798355"
+      }
+    ]
+  },
+  {
+    "comment": "Gangwon Province municipal council",
+    "house_item_id": "Q16093243",
+    "position_item_id": "Q50559021",
+    "terms": [
+      {
+        "comment": "9th Councilor in Gangwon Province",
+        "term_item_id": "Q50798392"
+      }
+    ]
+  },
+  {
+    "comment": "North Gyeongsang Province municipal council",
+    "house_item_id": "Q16093885",
+    "position_item_id": "Q50559328",
+    "terms": [
+      {
+        "comment": "10th Councilor in North Gyeongsang Province",
+        "term_item_id": "Q50798239"
+      }
+    ]
+  },
+  {
+    "comment": "Gwangju municipal council",
+    "house_item_id": "Q16094335",
+    "position_item_id": "Q50277114",
+    "terms": [
+      {
+        "comment": "7th Councilor in Gwangju",
+        "term_item_id": "Q50798291"
+      }
+    ]
+  },
+  {
+    "comment": "South Gyeongsang Province municipal council",
+    "house_item_id": "Q16094835",
+    "position_item_id": "Q50559353",
+    "terms": [
+      {
+        "comment": "10th Councilor in South Gyeongsang Province",
+        "term_item_id": "Q50798277"
+      }
+    ]
+  },
+  {
+    "comment": "Daegu municipal council",
+    "house_item_id": "Q16095349",
+    "position_item_id": "Q50559494",
+    "terms": [
+      {
+        "comment": "7th Councilor in Daegu",
+        "term_item_id": "Q50798372"
+      }
+    ]
+  },
+  {
+    "comment": "Daejeon municipal council",
+    "house_item_id": "Q16095510",
+    "position_item_id": "Q50559446",
+    "terms": [
+      {
+        "comment": "7th Councilor in Daejeon",
+        "term_item_id": "Q50797896"
+      }
+    ]
+  },
+  {
+    "comment": "Busan municipal council",
+    "house_item_id": "Q16096697",
+    "position_item_id": "Q50279057",
+    "terms": [
+      {
+        "comment": "7th Councilor in Busan",
+        "term_item_id": "Q50798199"
+      }
+    ]
+  },
+  {
+    "comment": "Sejong City municipal council",
+    "house_item_id": "Q16097908",
+    "position_item_id": "Q50559074",
+    "terms": [
+      {
+        "comment": "2nd Councilor in Sejong City",
+        "term_item_id": "Q50798215"
+      }
+    ]
+  },
+  {
+    "comment": "Ulsan municipal council",
+    "house_item_id": "Q16099049",
+    "position_item_id": "Q50558615",
+    "terms": [
+      {
+        "comment": "6th Councilor in Ulsan",
+        "term_item_id": "Q50798406"
+      }
+    ]
+  },
+  {
+    "comment": "Incheon municipal council",
+    "house_item_id": "Q16099448",
+    "position_item_id": "Q50559472",
+    "terms": [
+      {
+        "comment": "7th Councilor in Incheon",
+        "term_item_id": "Q50798182"
+      }
+    ]
+  },
+  {
+    "comment": "South Jeolla Province municipal council",
+    "house_item_id": "Q16099669",
+    "position_item_id": "Q50559426",
+    "terms": [
+      {
+        "comment": "10th Councilor in South Jeolla Province",
+        "term_item_id": "Q50798313"
+      }
+    ]
+  },
+  {
+    "comment": "South Chungcheong Province municipal council",
+    "house_item_id": "Q16100275",
+    "position_item_id": "Q50558073",
+    "terms": [
+      {
+        "comment": "10th Councilor in South Chungcheong Province",
+        "term_item_id": "Q50798329"
+      }
+    ]
+  },
+  {
+    "comment": "North Chungcheong Province municipal council",
+    "house_item_id": "Q16100304",
+    "position_item_id": "Q50559246",
+    "terms": [
+      {
+        "comment": "10th Councilor in North Chungcheong Province",
+        "term_item_id": "Q50798260"
+      }
+    ]
+  },
+  {
+    "comment": "Jeju municipal council",
+    "house_item_id": "Q16100817",
+    "position_item_id": "Q50559384",
+    "terms": [
+      {
+        "comment": "10th Councilor in Jeju",
+        "term_item_id": "Q50798465"
+      }
+    ]
+  },
+  {
+    "comment": "Gyeonggi Province municipal council",
+    "house_item_id": "Q20779829",
+    "position_item_id": "Q50559168",
+    "terms": [
+      {
+        "comment": "9th Councilor in Gyeonggi Province",
+        "term_item_id": "Q50798444"
+      }
+    ]
+  },
+  {
+    "comment": "North Jeolla Province municipal council",
+    "house_item_id": "Q21060148",
+    "position_item_id": "Q50559371",
+    "terms": [
+      {
+        "comment": "10th Councilor in North Jeolla Province",
+        "term_item_id": "Q50798429"
       }
     ]
   }
