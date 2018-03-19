@@ -1,0 +1,5 @@
+WARNING: the district 제주특별자치도 제주시갑 (Q50249398) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
+WARNING: the district 경기도 고양시갑 (Q50242265) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
+WARNING: the district 서울특별시 종로구 (Q50241354) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
+WARNING: the district 부산광역시 금정구 (Q50242833) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
+WARNING: the district 세종특별자치시 (Q50243082) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
