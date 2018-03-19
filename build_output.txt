@@ -3,3 +3,8 @@ WARNING: the district 경기도 고양시갑 (Q50242265) wasn't found in the bou
 WARNING: the district 서울특별시 종로구 (Q50241354) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
 WARNING: the district 부산광역시 금정구 (Q50242833) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
 WARNING: the district 세종특별자치시 (Q50243082) wasn't found in the boundary data for position 대한민국의 국회의원 (Q14850694)
+WARNING: the district 북구제1선거구 (Q50277264) wasn't found in the boundary data for position 광주광역시의원동정 (Q50277114)
+WARNING: the district 북구제2선거구 (Q50277504) wasn't found in the boundary data for position 광주광역시의원동정 (Q50277114)
+WARNING: the district 북구제3선거구 (Q50277669) wasn't found in the boundary data for position 광주광역시의원동정 (Q50277114)
+WARNING: the district 북구제4선거구 (Q50277851) wasn't found in the boundary data for position 광주광역시의원동정 (Q50277114)
+WARNING: the district 광주광역시북구제5선거구 (Q50277904) wasn't found in the boundary data for position 광주광역시의원동정 (Q50277114)

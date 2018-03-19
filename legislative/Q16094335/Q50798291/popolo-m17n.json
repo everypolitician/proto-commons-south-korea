@@ -1,0 +1,220 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "반재신"
+      },
+      "id": "Q50277134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277134"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100006206583535"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조오섭"
+      },
+      "id": "Q50277387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277387"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hanaking7979"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "문상필"
+      },
+      "id": "Q50277603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277603"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/msp0613"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "전진숙"
+      },
+      "id": "Q50277742",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277742"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jeonjinsook"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김동찬"
+      },
+      "id": "Q50277958",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277958"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "광주광역시의회",
+        "lang:en_US": "Gwangju municipal council"
+      },
+      "id": "Q16094335",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16094335"
+        }
+      ],
+      "area_id": "Q41283",
+      "seat_counts": {
+        "Q50277114": "22"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50277134-8cd303b0-4339-c201-3f82-2c60e7b68059",
+      "person_id": "Q50277134",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16094335",
+      "area_id": "Q50277264",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50277114",
+      "role": {
+        "lang:ko_KR": "광주광역시의원동정",
+        "lang:en_US": "Gwangju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50277387-6b3c898c-4a92-6cfb-d3ae-6df10489ceb8",
+      "person_id": "Q50277387",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16094335",
+      "area_id": "Q50277504",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50277114",
+      "role": {
+        "lang:ko_KR": "광주광역시의원동정",
+        "lang:en_US": "Gwangju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50277603-b989791a-49fe-1df1-2ff4-149a9ce0e990",
+      "person_id": "Q50277603",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16094335",
+      "area_id": "Q50277669",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50277114",
+      "role": {
+        "lang:ko_KR": "광주광역시의원동정",
+        "lang:en_US": "Gwangju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50277742-b4f67f33-418a-584a-e6e7-415eecfb0be2",
+      "person_id": "Q50277742",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16094335",
+      "area_id": "Q50277851",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50277114",
+      "role": {
+        "lang:ko_KR": "광주광역시의원동정",
+        "lang:en_US": "Gwangju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50277958-ab63c69f-4ded-772a-a16a-cd2c128a08db",
+      "person_id": "Q50277958",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16094335",
+      "area_id": "Q50277904",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50277114",
+      "role": {
+        "lang:ko_KR": "광주광역시의원동정",
+        "lang:en_US": "Gwangju councilor"
+      }
+    }
+  ]
+}
