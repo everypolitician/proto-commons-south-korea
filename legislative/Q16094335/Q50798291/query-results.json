@@ -1,0 +1,489 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_ko", "name_en", "party", "party_name_ko", "party_name_en", "district", "district_name_ko", "district_name_en", "role", "role_ko", "role_en", "role_superclass", "role_superclass_ko", "role_superclass_en", "start", "end", "facebook", "org", "org_ko", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50277134-8cd303b0-4339-c201-3f82-2c60e7b68059"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277264"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "북구제1선거구"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277134"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "반재신"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "100006206583535"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50277387-6b3c898c-4a92-6cfb-d3ae-6df10489ceb8"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277504"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "북구제2선거구"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277387"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "조오섭"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "hanaking7979"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50277603-b989791a-49fe-1df1-2ff4-149a9ce0e990"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277669"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "북구제3선거구"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277603"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "문상필"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "msp0613"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50277742-b4f67f33-418a-584a-e6e7-415eecfb0be2"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277851"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "북구제4선거구"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277742"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전진숙"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jeonjinsook"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50277958-ab63c69f-4ded-772a-a16a-cd2c128a08db"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277904"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시북구제5선거구"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277958"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "김동찬"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      }
+    } ]
+  }
+}
