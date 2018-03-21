@@ -1,0 +1,77 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "문재인",
+        "lang:en_US": "Moon Jae-in"
+      },
+      "id": "Q21001",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21001"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/moonbyun1"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "대한민국의 헌법기관",
+        "lang:en_US": "Constitutional institution in South Korea"
+      },
+      "id": "Q26318539",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26318539"
+        }
+      ],
+      "area_id": "Q884"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21001-9fa17aa3-4fbf-2c0c-a109-4534270c54dd",
+      "person_id": "Q21001",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q26318539",
+      "area_id": "Q884",
+      "start_date": "2017-05-10",
+      "role_superclass_code": "Q6296418",
+      "role_superclass": {
+        "lang:ko_KR": "대한민국의 대통령",
+        "lang:en_US": "President of South Korea"
+      },
+      "role_code": "Q6296418",
+      "role": {
+        "lang:ko_KR": "대한민국의 대통령",
+        "lang:en_US": "President of South Korea"
+      }
+    }
+  ]
+}

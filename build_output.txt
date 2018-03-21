@@ -180,3 +180,4 @@ WARNING: the district 무주군선거구 (Q50572343) wasn't found in the boundar
 WARNING: the district 진안군선거구 (Q50572373) wasn't found in the boundary data for position 전라북도의원동정 (Q50559371)
 WARNING: the district 완주군제1선거구 (Q50572356) wasn't found in the boundary data for position 전라북도의원동정 (Q50559371)
 WARNING: the district 전라북도 비례대표 선거구 (Q50739972) wasn't found in the boundary data for position 전라북도의원동정 (Q50559371)
+WARNING: the district 대한민국 (Q884) wasn't found in the boundary data for position 대한민국의 대통령 (Q6296418)
