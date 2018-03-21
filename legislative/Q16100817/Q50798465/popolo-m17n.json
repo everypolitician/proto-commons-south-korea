@@ -1,14 +1,459 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "김천문"
+      },
+      "id": "Q16095030",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16095030"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "위성곤",
+        "lang:en_US": "Wi Seong-gon"
+      },
+      "id": "Q24000515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24000515"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/wisg1128"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "위성곤",
+        "lang:en_US": "Wi Seong-gon"
+      },
+      "id": "Q24000515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24000515"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/seogwipowsg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "허창옥"
+      },
+      "id": "Q28700267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28700267"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100015370624735"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김용범"
+      },
+      "id": "Q50809255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809255"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이경용"
+      },
+      "id": "Q50809258",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809258"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lkywin1007"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "현정화"
+      },
+      "id": "Q50809261",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809261"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100001315921844"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "현우범"
+      },
+      "id": "Q50809275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "고용호"
+      },
+      "id": "Q50809277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809277"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100007569368758"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "구성지"
+      },
+      "id": "Q50809278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809278"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/sjk212"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "강연호"
+      },
+      "id": "Q50809280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "유진의"
+      },
+      "id": "Q50809900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809900"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100022017561769"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "제주특별자치도의회",
+        "lang:en_US": "Jeju municipal council"
+      },
+      "id": "Q16100817",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16100817"
+        }
+      ],
+      "area_id": "Q41164",
+      "seat_counts": {
+        "Q50559384": "36"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16095030-89F54544-8A48-40C4-8592-6DF12076CADC",
+      "person_id": "Q16095030",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572826",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24000515-D5231DA7-4DC8-48EA-A5D6-7B26B0DA5471",
+      "person_id": "Q24000515",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572868",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28700267-F44A7AEF-7AAB-434B-957E-3B1DCEE0046A",
+      "person_id": "Q28700267",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572877",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809255-9579A8D0-8799-45C4-A2C9-1FD19A1983B6",
+      "person_id": "Q50809255",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572831",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809258-B37721F4-2912-4F0D-A55A-0CE40CF98788",
+      "person_id": "Q50809258",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572839",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809261-1803D2B9-4BEA-4D61-A4AB-B14888633A34",
+      "person_id": "Q50809261",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572870",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809275-59F682F5-CDE6-41F8-B9A7-C626E2E6E80F",
+      "person_id": "Q50809275",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572822",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809277-CFA47AFA-D4D7-4212-AE80-D59866D59C8A",
+      "person_id": "Q50809277",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572874",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809278-EDBDAF9E-F6B3-4AC6-9FD9-B5337D9111DA",
+      "person_id": "Q50809278",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572824",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809280-5BC5551F-2D8E-452E-BDC0-400515656DBD",
+      "person_id": "Q50809280",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100817",
+      "area_id": "Q50572835",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809900-D7125A99-A020-43CB-8156-15A4BC804C4D",
+      "person_id": "Q50809900",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100817",
+      "area_id": "Q50738033",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559384",
+      "role": {
+        "lang:ko_KR": "제주특별자치도의원동정",
+        "lang:en_US": "Jeju councilor"
+      }
+    }
   ]
 }

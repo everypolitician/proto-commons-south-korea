@@ -1,14 +1,423 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "이명희의 랄랄라"
+      },
+      "id": "Q21059873",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21059873"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "강감창"
+      },
+      "id": "Q21824767",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21824767"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kc3005"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이정훈"
+      },
+      "id": "Q50809802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809802"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "송재형"
+      },
+      "id": "Q50809805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "양준욱"
+      },
+      "id": "Q50809808",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809808"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박호근"
+      },
+      "id": "Q50809827",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809827"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "주찬식"
+      },
+      "id": "Q50809829",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809829"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "남창진"
+      },
+      "id": "Q50809831",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809831"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "진두생"
+      },
+      "id": "Q50809833",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809833"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김영한"
+      },
+      "id": "Q50809865",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809865"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최조웅"
+      },
+      "id": "Q50809866",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809866"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "서울특별시의회",
+        "lang:en_US": "Seoul municipal council"
+      },
+      "id": "Q12601388",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12601388"
+        }
+      ],
+      "area_id": "Q8684",
+      "seat_counts": {
+        "Q50257366": "106"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21059873-F7901815-6B09-4D25-9287-CC52F8C0C2F5",
+      "person_id": "Q21059873",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50739120",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21824767-EF09D801-81FA-4950-9004-CC08DB618252",
+      "person_id": "Q21824767",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573469",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809802-EF2A36AB-9FC3-4519-B288-2454376181B5",
+      "person_id": "Q50809802",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573689",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809805-A1CE0B38-A270-405B-A01E-B8C27B114AEE",
+      "person_id": "Q50809805",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573712",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809808-1312A533-CF6F-406E-9B79-22353E70B5EF",
+      "person_id": "Q50809808",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573642",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809827-D6E08080-0CB7-41A8-AC5C-C8170035436C",
+      "person_id": "Q50809827",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573950",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809829-5CB9B371-1C58-4563-8A4A-A055BC6D2B81",
+      "person_id": "Q50809829",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573484",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809831-2924FD3C-FDB2-4BC8-95DD-40225F951771",
+      "person_id": "Q50809831",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573476",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809833-95E4466C-E14B-47F9-97A7-C8049B5C9C69",
+      "person_id": "Q50809833",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573630",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809865-5C92979F-B665-42DD-8AE0-687DC6E83680",
+      "person_id": "Q50809865",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573551",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809866-E754915F-7E05-4A12-BC5D-1F5B3258088A",
+      "person_id": "Q50809866",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12601388",
+      "area_id": "Q50573461",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50257366",
+      "role": {
+        "lang:ko_KR": "서울특별시의원동정",
+        "lang:en_US": "Seoul councilor"
+      }
+    }
   ]
 }

@@ -1,14 +1,428 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "서금택"
+      },
+      "id": "Q50809479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809479"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100009898266242"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이태환"
+      },
+      "id": "Q50809480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809480"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박영송"
+      },
+      "id": "Q50809483",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809483"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ysong71"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김원식"
+      },
+      "id": "Q50809485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809485"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "장승업"
+      },
+      "id": "Q50809487",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809487"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김정봉"
+      },
+      "id": "Q50809488",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809488"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "임상전"
+      },
+      "id": "Q50809490",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809490"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이충열"
+      },
+      "id": "Q50809491",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809491"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김선무"
+      },
+      "id": "Q50809492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이경대"
+      },
+      "id": "Q50809493",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809493"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김복렬"
+      },
+      "id": "Q50809901",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809901"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100001822815963"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "세종특별자치시의회",
+        "lang:en_US": "Sejong City municipal council"
+      },
+      "id": "Q16097908",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16097908"
+        }
+      ],
+      "area_id": "Q20929",
+      "seat_counts": {
+        "Q50559074": "15"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809479-92CBFD8D-F5FE-4F7A-983D-8C40CA406853",
+      "person_id": "Q50809479",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573313",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809480-83122175-2BB6-4A4C-BFFE-E50D10610FE5",
+      "person_id": "Q50809480",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573293",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809483-26AD4BA8-B7D1-47B5-8927-09E69AE07C55",
+      "person_id": "Q50809483",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573316",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809485-2AB5CBD0-0836-4CC6-8047-FBBF3D8ACC51",
+      "person_id": "Q50809485",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573290",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809487-2E9977A3-8240-476B-AEDC-F733AE7B048A",
+      "person_id": "Q50809487",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573304",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809488-0C092957-46F7-4923-BFB3-F81FCE0AEE47",
+      "person_id": "Q50809488",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573310",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809490-8D73E550-C9F3-4AB1-A52B-EF333FB1FCC7",
+      "person_id": "Q50809490",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573301",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809491-B4E84ECE-8FB3-4ED3-84F3-278CFA02062E",
+      "person_id": "Q50809491",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573307",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809492-63991CF1-34AD-4433-BDF4-20B79F27D332",
+      "person_id": "Q50809492",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573287",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809493-8C03FF3C-70A6-4F8C-8952-69CA81E9C6AF",
+      "person_id": "Q50809493",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097908",
+      "area_id": "Q50573319",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809901-4EC10CB0-7824-4C5B-B860-798878E6321E",
+      "person_id": "Q50809901",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097908",
+      "area_id": "Q50736686",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559074",
+      "role": {
+        "lang:ko_KR": "세종특별자치시의원동정",
+        "lang:en_US": "Sejong City councilor"
+      }
+    }
   ]
 }

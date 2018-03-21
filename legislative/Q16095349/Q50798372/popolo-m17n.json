@@ -1,14 +1,421 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "오철환"
+      },
+      "id": "Q16090356",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16090356"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hwany1212"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최재훈"
+      },
+      "id": "Q31178236",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31178236"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조성제"
+      },
+      "id": "Q50809624",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809624"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이귀화"
+      },
+      "id": "Q50809628",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809628"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조홍철"
+      },
+      "id": "Q50809630",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809630"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김재관"
+      },
+      "id": "Q50809631",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809631"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박상태"
+      },
+      "id": "Q50809761",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809761"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/pst.6099"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김원구"
+      },
+      "id": "Q50809762",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809762"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "배지숙"
+      },
+      "id": "Q50809764",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809764"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/catarina2328"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "정순천"
+      },
+      "id": "Q50809765",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809765"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jungsoonchun3388"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "차순자"
+      },
+      "id": "Q50809872",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809872"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/soonja.cha"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "대구광역시의회",
+        "lang:en_US": "Daegu municipal council"
+      },
+      "id": "Q16095349",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16095349"
+        }
+      ],
+      "area_id": "Q20927",
+      "seat_counts": {
+        "Q50559494": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16090356-77D35B6D-EE1A-4252-B4AD-5B190C1E5EC9",
+      "person_id": "Q16090356",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572907",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31178236-4E0104B8-6B08-4DF2-ADB3-2D580DECD7D6",
+      "person_id": "Q31178236",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572933",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809624-1BDA4201-8B05-4849-90EB-467116B1A1A5",
+      "person_id": "Q50809624",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572935",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809628-F7BE3547-E55D-434C-AD1A-2777DAECCA3F",
+      "person_id": "Q50809628",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572918",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809630-45C5392B-C8F1-49BC-A84E-9B8E384ABC3C",
+      "person_id": "Q50809630",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572926",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809631-11788E6F-3D36-4F59-BD7B-D45F776B298B",
+      "person_id": "Q50809631",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572929",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809761-B3F6EE12-47E0-4F0C-A01C-2E875AFA187F",
+      "person_id": "Q50809761",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572909",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809762-9C76C55F-68E1-4E85-90B7-4C3388277C3D",
+      "person_id": "Q50809762",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572934",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809764-E634D6B2-019C-46F6-AA2F-81DE63E920E5",
+      "person_id": "Q50809764",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572916",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809765-70FD64C7-606E-46A1-8D7F-ED2EBC8E2FE3",
+      "person_id": "Q50809765",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50572910",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809872-37217AD8-36C9-4507-86EC-B9A1CACBEA90",
+      "person_id": "Q50809872",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095349",
+      "area_id": "Q50737937",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559494",
+      "role": {
+        "lang:ko_KR": "대구광역시의원동정",
+        "lang:en_US": "Daegu councilor"
+      }
+    }
   ]
 }

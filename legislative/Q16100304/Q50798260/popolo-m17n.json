@@ -1,14 +1,421 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "정영수"
+      },
+      "id": "Q16907607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16907607"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박병진",
+        "lang:en_US": "B. J. Pak"
+      },
+      "id": "Q28840361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28840361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "윤은희"
+      },
+      "id": "Q50809217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김봉회"
+      },
+      "id": "Q50809399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "임회무"
+      },
+      "id": "Q50809401",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809401"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이양섭"
+      },
+      "id": "Q50809404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최병윤"
+      },
+      "id": "Q50809405",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809405"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이광진"
+      },
+      "id": "Q50809422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809422"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박한범"
+      },
+      "id": "Q50809424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "황규철"
+      },
+      "id": "Q50809426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809426"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김인수"
+      },
+      "id": "Q50809435",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809435"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "충청북도의회",
+        "lang:en_US": "North Chungcheong Province municipal council"
+      },
+      "id": "Q16100304",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16100304"
+        }
+      ],
+      "area_id": "Q41066",
+      "seat_counts": {
+        "Q50559246": "31"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16907607-7298DF15-B72D-4DEC-B225-73D6F94C676A",
+      "person_id": "Q16907607",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574329",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28840361-1830F040-EF36-4141-8A19-A68F06A7490B",
+      "person_id": "Q28840361",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574412",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809217-44E7B939-CB34-49DB-8101-5A6E8CA144E1",
+      "person_id": "Q50809217",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50737718",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809399-76D403EA-3DA5-43EF-A1A2-C0E0826C8A9D",
+      "person_id": "Q50809399",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574255",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809401-6CF4F9B9-3694-44BC-B010-9D663F0EAEB1",
+      "person_id": "Q50809401",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574244",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809404-A6B6C826-A431-4EB7-B028-7F4BB3B58A71",
+      "person_id": "Q50809404",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574286",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809405-A90C1AD7-E596-49AB-8B7D-CC2916D8E88E",
+      "person_id": "Q50809405",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574351",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809422-E0BC0244-AAB1-4C97-9FEF-F05A8B12FCB0",
+      "person_id": "Q50809422",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574404",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809424-5D15D6CD-3F69-441A-9C95-709ABB9F94EF",
+      "person_id": "Q50809424",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574229",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809426-FF2A9610-2A69-4E6B-8842-2C4A8F7FBEBA",
+      "person_id": "Q50809426",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574448",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809435-6CBAB027-0E3B-4663-A2E8-544B89566458",
+      "person_id": "Q50809435",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100304",
+      "area_id": "Q50574465",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559246",
+      "role": {
+        "lang:ko_KR": "충청북도의원동정",
+        "lang:en_US": "North Chungcheong Province councilor"
+      }
+    }
   ]
 }

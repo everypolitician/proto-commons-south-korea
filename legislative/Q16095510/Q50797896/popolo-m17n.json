@@ -1,14 +1,437 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "박혜련",
+        "lang:en_US": "Park Hye-ryun"
+      },
+      "id": "Q17238174",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17238174"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최선희",
+        "lang:en_US": "Choe Son Hui"
+      },
+      "id": "Q30436217",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30436217"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박희진"
+      },
+      "id": "Q50809507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809507"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100013921295802"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "심현영"
+      },
+      "id": "Q50809508",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809508"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박병철"
+      },
+      "id": "Q50809509",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809509"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/박병철과-함께해요-209139236496208"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "송대윤"
+      },
+      "id": "Q50809512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809512"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/songdaeyun"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김동섭"
+      },
+      "id": "Q50809513",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809513"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100001087699443"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "정기현"
+      },
+      "id": "Q50809515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809515"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조원휘"
+      },
+      "id": "Q50809516",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809516"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김경시"
+      },
+      "id": "Q50809524",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809524"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100010592268794"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김인식"
+      },
+      "id": "Q50809528",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809528"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "대전광역시의회",
+        "lang:en_US": "Daejeon municipal council"
+      },
+      "id": "Q16095510",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16095510"
+        }
+      ],
+      "area_id": "Q20921",
+      "seat_counts": {
+        "Q50559446": "22"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17238174-133A7FBF-B4B2-4EE5-8CF3-B3DAF3CE651F",
+      "person_id": "Q17238174",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50572669",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30436217-C8B69732-4871-4F89-BB83-50B16EA407B1",
+      "person_id": "Q30436217",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095510",
+      "area_id": "Q50737036",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809507-FA83605A-096B-46B6-8763-CFDD47700C8A",
+      "person_id": "Q50809507",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573265",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809508-032FEAC9-2A91-4D3B-A066-CC6C53C6CA35",
+      "person_id": "Q50809508",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573246",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809509-10E3E501-94A0-4A17-B38B-7F8D5B76FAB3",
+      "person_id": "Q50809509",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573233",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809512-AA1399BD-1B86-4602-B968-B7FA493BE5FD",
+      "person_id": "Q50809512",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573236",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809513-F48471B3-3F94-411C-8CCA-6608C17E3308",
+      "person_id": "Q50809513",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573239",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809515-4EE779C8-D070-4CA9-90BE-9DAC7C2A8F44",
+      "person_id": "Q50809515",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573269",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809516-3950BC30-FF67-48FD-AF3B-5D27965A1605",
+      "person_id": "Q50809516",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573272",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809524-6F537525-D140-49EB-86EB-9B9916496C96",
+      "person_id": "Q50809524",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16095510",
+      "area_id": "Q50572928",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809528-9CEF25DD-6781-4FAC-B575-0C88E76191D2",
+      "person_id": "Q50809528",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16095510",
+      "area_id": "Q50573262",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559446",
+      "role": {
+        "lang:ko_KR": "대전광역시의원동정",
+        "lang:en_US": "Daejeon councilor"
+      }
+    }
   ]
 }

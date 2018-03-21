@@ -1,14 +1,418 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "최훈열"
+      },
+      "id": "Q50809209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809209"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조병서"
+      },
+      "id": "Q50809347",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809347"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이호근"
+      },
+      "id": "Q50809350",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809350"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "장명식"
+      },
+      "id": "Q50809352",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809352"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최영일"
+      },
+      "id": "Q50809355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809355"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "한완수"
+      },
+      "id": "Q50809357",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809357"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "양성빈"
+      },
+      "id": "Q50809358",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809358"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "백경태"
+      },
+      "id": "Q50809361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김현철"
+      },
+      "id": "Q50809365",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809365"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "송지용"
+      },
+      "id": "Q50809366",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809366"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "허남주"
+      },
+      "id": "Q50809894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809894"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "전라북도의회",
+        "lang:en_US": "North Jeolla Province municipal council"
+      },
+      "id": "Q21060148",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21060148"
+        }
+      ],
+      "area_id": "Q41157",
+      "seat_counts": {
+        "Q50559371": "38"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809209-88DC67B7-093B-4E71-BDA2-E0162D12AA78",
+      "person_id": "Q50809209",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572368",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809347-0B91A70D-0A7C-42B8-BCEE-57DBC465282D",
+      "person_id": "Q50809347",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572378",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809350-47C1F1B2-66D0-463D-AB05-4CD5A9A7362E",
+      "person_id": "Q50809350",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572374",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809352-DB53E6F6-9C16-4126-8788-4719278F5161",
+      "person_id": "Q50809352",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572395",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809355-B5969209-F3A0-426C-878A-FFB87A0B4639",
+      "person_id": "Q50809355",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572342",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809357-67747DB5-674D-4C43-8105-7F2BE2827C84",
+      "person_id": "Q50809357",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572376",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809358-3E1FB7EE-EA60-4D58-9C19-04D6646FFD8E",
+      "person_id": "Q50809358",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572364",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809361-DB9DCB58-CD00-4DCB-9544-E4A1B38A8061",
+      "person_id": "Q50809361",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572343",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809365-AC7D3AA5-036A-489A-B74D-E61B4B9DC38F",
+      "person_id": "Q50809365",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572373",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809366-F41E083E-F1F7-4AE1-9CF0-74FE6CEE129B",
+      "person_id": "Q50809366",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q21060148",
+      "area_id": "Q50572356",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809894-7EA98BDD-2D49-4A98-89BC-579525769485",
+      "person_id": "Q50809894",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q21060148",
+      "area_id": "Q50739972",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559371",
+      "role": {
+        "lang:ko_KR": "전라북도의원동정",
+        "lang:en_US": "North Jeolla Province councilor"
+      }
+    }
   ]
 }

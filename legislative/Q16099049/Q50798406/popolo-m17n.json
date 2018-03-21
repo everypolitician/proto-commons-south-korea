@@ -1,14 +1,430 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "허령"
+      },
+      "id": "Q27952773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27952773"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/ryung.huh"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "한동영"
+      },
+      "id": "Q50809495",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809495"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/handongyoung3873"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "윤시철"
+      },
+      "id": "Q50809496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809496"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/yoon3626"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "정치락"
+      },
+      "id": "Q50809499",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809499"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100002049306315"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "문석주"
+      },
+      "id": "Q50809500",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809500"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Moonseokju"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "배영규"
+      },
+      "id": "Q50809501",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809501"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박학천"
+      },
+      "id": "Q50809502",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809502"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100013897964978"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "천기옥"
+      },
+      "id": "Q50809503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809503"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100009299734707"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "강대길"
+      },
+      "id": "Q50809504",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809504"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100011374028843"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "변식용"
+      },
+      "id": "Q50809506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809506"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "송해숙"
+      },
+      "id": "Q50809882",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809882"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "울산광역시의회",
+        "lang:en_US": "Ulsan municipal council"
+      },
+      "id": "Q16099049",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16099049"
+        }
+      ],
+      "area_id": "Q41278",
+      "seat_counts": {
+        "Q50558615": "22"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27952773-B893E888-3580-47E9-8C27-551F84ADD66D",
+      "person_id": "Q27952773",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50572709",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809495-AA4D397B-6C8F-4082-A711-6C5B59D76EA7",
+      "person_id": "Q50809495",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50572712",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809496-9ACA8C26-A440-4854-872A-BC5A51478EA9",
+      "person_id": "Q50809496",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50572700",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809499-455185F8-B961-4738-827E-7C625A647F73",
+      "person_id": "Q50809499",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50277264",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809500-3BB67007-B767-47FD-8EC7-CE717AEE38DB",
+      "person_id": "Q50809500",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50277504",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809501-0CF9BBBA-09C9-4ACE-A48E-DAF4E4D64616",
+      "person_id": "Q50809501",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50277669",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809502-D5F7C99D-673A-47B4-8AB5-131916BCC427",
+      "person_id": "Q50809502",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50572707",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809503-8715ECCF-39AC-45C7-8288-3BF0AC5B021F",
+      "person_id": "Q50809503",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50572923",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809504-4E8D88B6-272B-499B-B438-6B838FACF205",
+      "person_id": "Q50809504",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50573255",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809506-2A375636-0E89-4F78-9DEF-453D59CA09A3",
+      "person_id": "Q50809506",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50573336",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809882-0A95CE58-EF9B-4112-B664-A7DCAC0D7BEA",
+      "person_id": "Q50809882",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16099049",
+      "area_id": "Q50738092",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558615",
+      "role": {
+        "lang:ko_KR": "울산광역시의원동정",
+        "lang:en_US": "Ulsan councilor"
+      }
+    }
   ]
 }

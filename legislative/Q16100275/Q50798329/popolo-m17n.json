@@ -1,14 +1,420 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "김용필"
+      },
+      "id": "Q50809367",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809367"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김기영"
+      },
+      "id": "Q50809371",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809371"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김홍열"
+      },
+      "id": "Q50809376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "오배근"
+      },
+      "id": "Q50809377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809377"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이종화"
+      },
+      "id": "Q50809382",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809382"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "서형달"
+      },
+      "id": "Q50809384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809384"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "조이환"
+      },
+      "id": "Q50809385",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809385"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "유찬종"
+      },
+      "id": "Q50809387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "강용일"
+      },
+      "id": "Q50809388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이용호"
+      },
+      "id": "Q50809390",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809390"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "정정희"
+      },
+      "id": "Q50809893",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809893"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "충청남도의회",
+        "lang:en_US": "South Chungcheong Province municipal council"
+      },
+      "id": "Q16100275",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16100275"
+        }
+      ],
+      "area_id": "Q41070",
+      "seat_counts": {
+        "Q50558073": "40"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809367-C011024F-8A09-4E5D-B1AE-67A0A6F21B1F",
+      "person_id": "Q50809367",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573029",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809371-70C14C57-7F20-4EB7-B953-7B82962B609E",
+      "person_id": "Q50809371",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50572998",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809376-C937421B-A038-40DF-9A77-1AEB9A51311D",
+      "person_id": "Q50809376",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50572989",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809377-FF3BDBAD-6A93-47ED-8745-58E0F5D3C930",
+      "person_id": "Q50809377",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573020",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809382-675FC7A9-CF9C-4C56-8124-90A7A4203E62",
+      "person_id": "Q50809382",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573032",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809384-159BDE2F-5B71-464D-AAEC-0F67D53BCC08",
+      "person_id": "Q50809384",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50572996",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809385-5E7EED5C-AA6A-479C-80C2-6CB77E29314D",
+      "person_id": "Q50809385",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573031",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809387-9EF85BC1-A42C-43A9-9D80-41B28DFD179A",
+      "person_id": "Q50809387",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573000",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809388-4F35EB07-BDAC-428F-9277-F1CF01E09B0D",
+      "person_id": "Q50809388",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573007",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809390-F661DE60-52FE-4182-ADBE-FFB5D44B0E7C",
+      "person_id": "Q50809390",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50573027",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809893-87D61118-9E6C-4DE1-93D4-EC0CFAFC6ED5",
+      "person_id": "Q50809893",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16100275",
+      "area_id": "Q50737263",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50558073",
+      "role": {
+        "lang:ko_KR": "충청남도의원동정",
+        "lang:en_US": "South Chungcheong Province councilor"
+      }
+    }
   ]
 }

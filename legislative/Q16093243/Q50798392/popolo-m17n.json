@@ -1,14 +1,429 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "김동일"
+      },
+      "id": "Q50809438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809438"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "한금석"
+      },
+      "id": "Q50809440",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809440"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이기찬"
+      },
+      "id": "Q50809442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "장세국"
+      },
+      "id": "Q50809443",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809443"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박현창"
+      },
+      "id": "Q50809444",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809444"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "곽영승"
+      },
+      "id": "Q50809448",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809448"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "최명서"
+      },
+      "id": "Q50809453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809453"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100004215586870"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "권석주"
+      },
+      "id": "Q50809455",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809455"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "진기엽"
+      },
+      "id": "Q50809458",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809458"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kiyup.jin"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "함종국"
+      },
+      "id": "Q50809460",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809460"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/kimkihong78"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "유정선"
+      },
+      "id": "Q50809887",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809887"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "강원도의회",
+        "lang:en_US": "Gangwon Province municipal council"
+      },
+      "id": "Q16093243",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16093243"
+        }
+      ],
+      "area_id": "Q41071",
+      "seat_counts": {
+        "Q50559021": "44"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809438-5FB44265-E84E-4902-8C58-700A8EAF6781",
+      "person_id": "Q50809438",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572986",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809440-547CEAB6-96F3-4A85-AE29-863673377E35",
+      "person_id": "Q50809440",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572959",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809442-C48BB85C-E0A7-4825-A290-5948798BBD9F",
+      "person_id": "Q50809442",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572958",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809443-557E51F5-D6DF-4329-B52D-2FACEA403274",
+      "person_id": "Q50809443",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572975",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809444-8DAB1D92-F921-4B5A-AAD3-E47B283D0C63",
+      "person_id": "Q50809444",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572946",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809448-8C8EA72E-5285-4A29-98F5-D45116ABF4BA",
+      "person_id": "Q50809448",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572941",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809453-350F07E4-99F4-4F02-AB57-F4DA953445B2",
+      "person_id": "Q50809453",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572978",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809455-25DBC32A-1C14-4B95-8428-A76C6853488D",
+      "person_id": "Q50809455",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572979",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809458-B0809C31-D686-4746-AB83-043B0EDFCAC1",
+      "person_id": "Q50809458",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572974",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809460-855186F5-A050-45D4-8069-A72F5F40F486",
+      "person_id": "Q50809460",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50572940",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809887-8903EE2A-41AC-442A-B76E-249A20FA180A",
+      "person_id": "Q50809887",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16093243",
+      "area_id": "Q50739772",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559021",
+      "role": {
+        "lang:ko_KR": "강원도의원동정",
+        "lang:en_US": "Gangwon Province councilor"
+      }
+    }
   ]
 }
