@@ -1,0 +1,83 @@
+SELECT ?statement
+       ?item ?name_ko ?name_en
+       ?party ?party_name_ko ?party_name_en
+       ?district ?district_name_ko ?district_name_en
+       ?role ?role_ko ?role_en
+       ?start ?end ?facebook
+       ?role_superclass ?role_superclass_ko ?role_superclass_en
+       ?org ?org_ko ?org_en ?org_jurisdiction
+WHERE {
+  VALUES ?role_superclass { wd:Q50619415 }
+  BIND(wd:Q12583737 AS ?org)
+  OPTIONAL {
+          ?org rdfs:label ?org_ko
+          FILTER(LANG(?org_ko) = "ko")
+        }
+OPTIONAL {
+          ?org rdfs:label ?org_en
+          FILTER(LANG(?org_en) = "en")
+        }
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
+  ?item p:P39 ?statement .
+  OPTIONAL {
+          ?item rdfs:label ?name_ko
+          FILTER(LANG(?name_ko) = "ko")
+        }
+OPTIONAL {
+          ?item rdfs:label ?name_en
+          FILTER(LANG(?name_en) = "en")
+        }
+  ?statement ps:P39 ?role .
+  OPTIONAL {
+          ?role rdfs:label ?role_ko
+          FILTER(LANG(?role_ko) = "ko")
+        }
+OPTIONAL {
+          ?role rdfs:label ?role_en
+          FILTER(LANG(?role_en) = "en")
+        }
+  ?role wdt:P279* ?role_superclass .
+  OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_ko
+          FILTER(LANG(?role_superclass_ko) = "ko")
+        }
+OPTIONAL {
+          ?role_superclass rdfs:label ?role_superclass_en
+          FILTER(LANG(?role_superclass_en) = "en")
+        }
+  ?role wdt:P361 ?org .
+  OPTIONAL {
+    ?role p:P1001/ps:P1001 ?district .
+    OPTIONAL {
+          ?district rdfs:label ?district_name_ko
+          FILTER(LANG(?district_name_ko) = "ko")
+        }
+OPTIONAL {
+          ?district rdfs:label ?district_name_en
+          FILTER(LANG(?district_name_en) = "en")
+        }
+  }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+  FILTER(?end_or_sentinel >= NOW())
+  # Find any current party membership:
+  OPTIONAL {
+    ?item p:P102 ?party_statement .
+    ?party_statement ps:P102 ?party .
+    OPTIONAL {
+          ?party rdfs:label ?party_name_ko
+          FILTER(LANG(?party_name_ko) = "ko")
+        }
+OPTIONAL {
+          ?party rdfs:label ?party_name_en
+          FILTER(LANG(?party_name_en) = "en")
+        }
+    OPTIONAL { ?party_statement pq:P582 ?end_party }
+    BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
+    FILTER(?party_end_or_sentinel >= NOW())
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+} ORDER BY ?item ?role ?start ?end

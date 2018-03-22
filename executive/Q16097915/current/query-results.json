@@ -1,0 +1,110 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_ko", "name_en", "party", "party_name_ko", "party_name_en", "district", "district_name_ko", "district_name_en", "role", "role_ko", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_ko", "role_superclass_en", "org", "org_ko", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12612939"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20929"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejong City"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50274663"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50274663"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Sejong City"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시시장"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Sejong City"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시시장"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lee Chunhee"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "이춘희 (1955년)"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16097915"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejong Special City Government"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시청"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q12612939-a5dcda23-4a5d-1c09-2cdd-fdce8d0b7586"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20929"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "macc2012"
+      }
+    } ]
+  }
+}
