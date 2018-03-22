@@ -1,5 +1,19 @@
 [
   {
+    "directory": "country",
+    "associations": [
+      {
+        "comment": "President of South Korea",
+        "position_item_id": "Q6296418"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6256",
+    "name_columns": {
+      "lang:ko_KR": "NAME",
+      "lang:en_US": "NAME_EN"
+    }
+  },
+  {
     "directory": "flacs",
     "area_type_wikidata_item_id": "Q4925355",
     "associations": [
