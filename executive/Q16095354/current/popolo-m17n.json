@@ -29,6 +29,30 @@
         "lang:en_US": "Daegu",
         "lang:ko_KR": "대구광역시"
       },
+      "parent_id": "Q884"
+    },
+    {
+      "id": "Q884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6296418"
+      ],
+      "type": {
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:ko_KR": "대한민국",
+        "lang:en_US": "Republic of Korea"
+      },
       "parent_id": null
     }
   ],

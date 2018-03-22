@@ -247,7 +247,7 @@
         "lang:en_US": "Sejong Special Self-Governing City",
         "lang:ko_KR": "세종특별자치시"
       },
-      "parent_id": null
+      "parent_id": "Q884"
     },
     {
       "id": "Q50573284",
@@ -560,6 +560,30 @@
         "lang:ko_KR": "세종특별자치시제12선거구"
       },
       "parent_id": "Q20929"
+    },
+    {
+      "id": "Q884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6296418"
+      ],
+      "type": {
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:ko_KR": "대한민국",
+        "lang:en_US": "Republic of Korea"
+      },
+      "parent_id": null
     }
   ],
   "memberships": [
