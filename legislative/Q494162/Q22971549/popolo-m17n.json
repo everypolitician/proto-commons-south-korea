@@ -207,7 +207,6503 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50265926"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Busan",
+        "lang:ko_KR": "부산광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q20921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50615886"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daejeon",
+        "lang:ko_KR": "대전광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q20927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50614705"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daegu",
+        "lang:ko_KR": "대구광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q20929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50274663"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치시",
+        "lang:en_US": "special autonomous city in South Korea"
+      },
+      "name": {
+        "lang:en_US": "Sejong Special Self-Governing City",
+        "lang:ko_KR": "세종특별자치시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q20934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50617475"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Incheon",
+        "lang:ko_KR": "인천광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q20937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583545"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeonggi-do",
+        "lang:ko_KR": "경기도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619326"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Chungcheongbuk-do",
+        "lang:ko_KR": "충청북도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619614"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Chungcheongnam-do",
+        "lang:ko_KR": "충청남도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583022"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gangwon-do",
+        "lang:ko_KR": "강원도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619685"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeongsangnam-do",
+        "lang:ko_KR": "경상남도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619415"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeongsangbuk-do",
+        "lang:ko_KR": "경상북도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619493"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeollabuk-do",
+        "lang:ko_KR": "전라북도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12615101"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeollanam-do",
+        "lang:ko_KR": "전라남도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50275066"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치도",
+        "lang:en_US": "Special Self-governing Province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeju Special Self-Governing Province",
+        "lang:ko_KR": "제주특별자치도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619818"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Ulsan",
+        "lang:ko_KR": "울산광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q41283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50616327"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gwangju",
+        "lang:ko_KR": "광주광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50241354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50241354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 종로구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50242265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50242265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 고양시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50242833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50242833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 금정구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50243082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/tmp-ed:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50243082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50249398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/tmp-ed:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50249398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도 제주시갑"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50498690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 중구영도구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50498840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 동작구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50498937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 청주시흥덕구"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50498954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 동두천시연천군"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50498971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강북구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50498987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50498987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 광주시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 마포구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 구로구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 창원시마산회원구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50499074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 중구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50499094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 남원시임실군순창군"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50499112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 강릉시"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50499125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 서구갑"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50499144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 계양구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50499163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 천안시갑"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50499189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 여주시양평군"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 광진구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 속초시고성군양양군"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50499256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안성시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 중구동구강화군옹진군"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50499307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 서대문구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 금천구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 포항시북구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50499380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 서산시태안군"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50499399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 광명시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 김포시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 수성구갑"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50499468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 연제구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50499486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 익산시을"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50499507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 오산시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 중구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50499540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 달서구갑"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50499567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 중구성동구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 부산진구을"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50499604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 동구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50499630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 서구갑"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50499654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 북구을"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50499686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 달서구병"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50499707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 익산시갑"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50499722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 연수구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50499739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 영천시청도군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50499759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 보은군옥천군영동군괴산군"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50499782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 청주시청원구"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50499807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 성남시분당구을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 동작구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 천안시병"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50499889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/tmp-ed:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499889"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도 제주시을"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50499910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 영양군영덕군봉화군울진군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50499933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 성북구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50499960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안산시단원구을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50499988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50499988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 동구남구갑"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50500012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안산시단원구갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강서구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 남구을"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50500085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 광명시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 구미시을"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50500129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안양시동안구갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 전주시갑"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50500166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 완주군진안군무주군장수군"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50500194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 부천시원미구갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 영등포구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 의정부시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 청주시상당구"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50500286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 원주시갑"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50500312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 성북구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 증평군진천군음성군"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50500357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 동대문구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 유성구갑"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50500411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 서초구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 포항시남구울릉군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50500461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 고흥군보성군장흥군강진군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50500480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 진주시갑"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50500507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 부평구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50500529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 북구갑"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50500548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 전주시병"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50500573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 태백시횡성군영월군평창군정선군"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50500595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 영주시문경시예천군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50500618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 전주시을"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50500647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 노원구병"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 북구강서구갑"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50500695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 의정부시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 구로구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안양시만안구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 노원구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 부천시오정구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 목포시"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50500841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 성남시분당구갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 해운대구을"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50500884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 여수시갑"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50500904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 김제시부안군"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50500923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 남양주시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50500947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강남구병"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50500970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 대덕구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50500990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50500990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 의왕시과천시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 당진시"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50501046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 시흥시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 고령군성주군칠곡군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50501087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 서구동구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50501112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 영암군무안군신안군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50501135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 공주시부여군청양군"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50501151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 송파구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강동구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 평택시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강북구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 달서구을"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50501260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 중랑구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 북구을"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50501301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 부산진구갑"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50501323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 노원구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안양시동안구을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 양천구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 광산구갑"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50501423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 동해시삼척시"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50501452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 은평구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 창원시성산구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50501503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 부천시원미구을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 송파구병"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 순천시"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50501577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 송파구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 김해시갑"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50501629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 담양군함평군영광군장성군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50501656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 이천시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 양주시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 동구갑"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50501733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 광진구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 군포시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 안동시"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50501821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 화성시병"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 사상구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50501868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강동구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 영등포구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 성남시중원구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50501942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 서초구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50501976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 김해시을"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50501997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50501997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 도봉구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 창원시마산합포구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50502027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 사하구을"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50502042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 보령시서천군"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50502057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 수원시정"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 동대문구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 용인시병"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 사천시남해군하동군"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50502117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 울주군"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50502150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 원주시을"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50502178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 제천시단양군"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50502206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 통영시고성군"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50502229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 수원시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 진주시을"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50502288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 서구을"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50502321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/tmp-ed:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대전광역시 유성구을"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50502354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 군산시"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50502379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 남구을"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50502405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 청주시서원구"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50502426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 파주시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 상주시군위군의성군청송군"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50502484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 마포구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 동구을"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50502538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 화성시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 서구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50502595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 중랑구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강남구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 남구갑"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50502675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 관악구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 여수시을"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50502719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 남동구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50502741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 중구성동구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 고양시병"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 광주시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 달성군"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50502834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 성남시수정구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강서구병"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50502889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502889"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 수원시병"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 남구갑"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50502944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 김포시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50502969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50502969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 수성구을"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50503000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 부평구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50503027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 군포시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 남양주시병"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 사하구갑"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50503125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 양산시을"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50503150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 화성시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 북구갑"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50503206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 서구을"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50503234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 계양구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50503261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 수영구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50503285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 부천시소사구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 기장군"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50503342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안산시상록구갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 나주시화순군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50503392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 홍천군철원군화천군양구군인제군"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50503412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 수원시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 시흥시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 논산시계룡시금산군"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50503491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 남양주시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 천안시을"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50503543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 용인시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 파주시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 동구남구을"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50503634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 용인시갑"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 남구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50503686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 창원시진해구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50503717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/tmp-ed:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라북도 정읍시고창군"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50503739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/tmp-ed:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시 광산구을"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50503763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 고양시정"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50503791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 구미시갑"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50503820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 서구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50503857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 양천구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50503887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 광양시곡성군구례군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50503912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 경산시"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50503937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 밀양시의령군함안군창녕군"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50503965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50503965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 관악구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 남동구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50504032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 동래구"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50504061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 아산시갑"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50504087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 김천시"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50504121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 서대문구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 창원시의창구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50504174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 수원시무"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 포천시가평군"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 평택시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 양산시갑"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50504284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 은평구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/tmp-ed:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "강원도 춘천시"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50504321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강남구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 중구남구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50504372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 용인시정"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 안산시상록구을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/tmp-ed:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청북도 충주시"
+      },
+      "parent_id": "Q41066"
+    },
+    {
+      "id": "Q50504438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 홍성군예산군"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50504466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 도봉구을"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 강서구갑"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50504509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 고양시을"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50504540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 북구강서구을"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50504562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 남구을"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50504582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/tmp-ed:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "충청남도 아산시을"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50504605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26/tmp-ed:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "부산광역시 해운대구갑"
+      },
+      "parent_id": "Q16520"
+    },
+    {
+      "id": "Q50504630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 산청군함양군거창군합천군"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50504657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/tmp-ed:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "전라남도 해남군완도군진도군"
+      },
+      "parent_id": "Q41161"
+    },
+    {
+      "id": "Q50504685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/tmp-ed:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50504685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "인천광역시 연수구갑"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50609003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/tmp-ed:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도 서귀포시"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50609168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 동구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50609181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/tmp-ed:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상남도 거제시"
+      },
+      "parent_id": "Q41151"
+    },
+    {
+      "id": "Q50609344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/tmp-ed:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경상북도 경주시"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50609569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 구리시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50609637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/tmp-ed:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "경기도 하남시"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50609679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/tmp-ed:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50609679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "울산광역시 북구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50610454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/tmp-ed:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50610454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "서울특별시 용산구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50611013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/tmp-ed:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50611013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "대구광역시 서구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q8684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q488289"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별시",
+        "lang:en_US": "special city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Seoul",
+        "lang:ko_KR": "서울특별시"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
