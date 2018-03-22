@@ -1,0 +1,110 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_ko", "name_en", "party", "party_name_ko", "party_name_en", "district", "district_name_ko", "district_name_en", "role", "role_ko", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_ko", "role_superclass_en", "org", "org_ko", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20916"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberty Korea Party"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "자유한국당"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12589755"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20937"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyeonggi Province"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12583545"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12583545"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Gyeonggi Province"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도지사"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Gyeonggi Province"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도지사"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nam Kyung-pil"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "남경필"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12583547"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyeonggi Provincial Govenment"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도청"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q12589755-dfabf429-421a-d14a-ca2a-d97ded1d7944"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20937"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "NamKyungpil"
+      }
+    } ]
+  }
+}

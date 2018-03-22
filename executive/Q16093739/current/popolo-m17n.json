@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619685"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeongsangnam-do",
+        "lang:ko_KR": "경상남도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

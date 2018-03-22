@@ -1,1 +1,308 @@
-[]
+[
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of gangwon province",
+        "position_item_id": "Q12583022"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:42",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of gyeonggi province",
+        "position_item_id": "Q12583545"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:41",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of south gyeongsang province",
+        "position_item_id": "Q50619685"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:48",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of north gyeongsang province",
+        "position_item_id": "Q50619415"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:47",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayor of gwangju",
+        "position_item_id": "Q50616327"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:29",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayor of daegu",
+        "position_item_id": "Q50614705"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:27",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayor of daejeon",
+        "position_item_id": "Q50615886"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:30",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayors of busan",
+        "position_item_id": "Q50265926"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:26",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q29045219",
+    "associations": [
+      {
+        "comment": "mayor of seoul",
+        "position_item_id": "Q488289"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/special-city:11",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q16181672",
+    "associations": [
+      {
+        "comment": "mayor of sejong city",
+        "position_item_id": "Q50274663"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/ssg-city:50",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayor of ulsan",
+        "position_item_id": "Q50619818"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:31",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q482821",
+    "associations": [
+      {
+        "comment": "mayor of incheon",
+        "position_item_id": "Q50617475"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:28",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of south jeolla province",
+        "position_item_id": "Q12615101"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:46",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of north jeolla province",
+        "position_item_id": "Q50619493"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:45",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q11279677",
+    "associations": [
+      {
+        "comment": "governor of jeju",
+        "position_item_id": "Q50275066"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/ssg-province:49",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of south chungcheong province",
+        "position_item_id": "Q50619614"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:44",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "flacs",
+    "area_type_wikidata_item_id": "Q4925355",
+    "associations": [
+      {
+        "comment": "governor of north chungcheong province",
+        "position_item_id": "Q50619326"
+      }
+    ],
+    "name_columns": {
+      "lang:en_US": "NAME_EN",
+      "lang:ko_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:43",
+      "column": "MS_FB"
+    }
+  }
+]

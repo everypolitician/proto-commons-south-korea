@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619326"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Chungcheongbuk-do",
+        "lang:ko_KR": "충청북도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

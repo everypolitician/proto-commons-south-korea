@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q20921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50615886"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daejeon",
+        "lang:ko_KR": "대전광역시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

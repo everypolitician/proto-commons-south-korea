@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "남경필",
+        "lang:en_US": "Nam Kyung-pil"
+      },
+      "id": "Q12589755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12589755"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/NamKyungpil"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "경기도청",
+        "lang:en_US": "Gyeonggi Provincial Govenment"
+      },
+      "id": "Q12583547",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12583547"
+        }
+      ],
+      "area_id": "Q20937"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q20937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583545"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeonggi-do",
+        "lang:ko_KR": "경기도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12589755-dfabf429-421a-d14a-ca2a-d97ded1d7944",
+      "person_id": "Q12589755",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12583547",
+      "area_id": "Q20937",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q12583545",
+      "role_superclass": {
+        "lang:ko_KR": "경기도지사",
+        "lang:en_US": "Governor of Gyeonggi Province"
+      },
+      "role_code": "Q12583545",
+      "role": {
+        "lang:ko_KR": "경기도지사",
+        "lang:en_US": "Governor of Gyeonggi Province"
+      }
+    }
+  ]
+}

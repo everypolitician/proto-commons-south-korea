@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619614"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Chungcheongnam-do",
+        "lang:ko_KR": "충청남도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

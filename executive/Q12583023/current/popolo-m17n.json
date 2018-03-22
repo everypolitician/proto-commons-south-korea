@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583022"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gangwon-do",
+        "lang:ko_KR": "강원도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

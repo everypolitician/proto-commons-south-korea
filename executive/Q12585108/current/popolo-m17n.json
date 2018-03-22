@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50616327"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gwangju",
+        "lang:ko_KR": "광주광역시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
