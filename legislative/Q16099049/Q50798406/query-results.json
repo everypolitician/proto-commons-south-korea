@@ -315,7 +315,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50277264"
+        "value" : "http://www.wikidata.org/entity/Q50572689"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -412,7 +412,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50277504"
+        "value" : "http://www.wikidata.org/entity/Q50572711"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -509,7 +509,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50277669"
+        "value" : "http://www.wikidata.org/entity/Q50572692"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -699,7 +699,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50572923"
+        "value" : "http://www.wikidata.org/entity/Q50572681"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -796,7 +796,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50573255"
+        "value" : "http://www.wikidata.org/entity/Q50572698"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -893,7 +893,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50573336"
+        "value" : "http://www.wikidata.org/entity/Q50572688"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",

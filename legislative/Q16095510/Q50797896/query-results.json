@@ -24,7 +24,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50572669"
+        "value" : "http://www.wikidata.org/entity/Q50573259"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
@@ -887,7 +887,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50572928"
+        "value" : "http://www.wikidata.org/entity/Q50573243"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",

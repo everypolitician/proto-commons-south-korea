@@ -396,7 +396,7 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50572928"
+        "value" : "http://www.wikidata.org/entity/Q50572667"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
