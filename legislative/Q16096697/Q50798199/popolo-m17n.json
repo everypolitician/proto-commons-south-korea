@@ -29,7 +29,7 @@
         "lang:en_US": "Busan",
         "lang:ko_KR": "부산광역시"
       },
-      "parent_id": null
+      "parent_id": "Q884"
     },
     {
       "id": "Q50573325",
@@ -1038,6 +1038,30 @@
         "lang:ko_KR": "금정구제1선거구"
       },
       "parent_id": "Q16520"
+    },
+    {
+      "id": "Q884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6296418"
+      ],
+      "type": {
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:ko_KR": "대한민국",
+        "lang:en_US": "Republic of Korea"
+      },
+      "parent_id": null
     }
   ],
   "memberships": [

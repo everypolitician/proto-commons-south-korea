@@ -233,7 +233,7 @@
         "lang:en_US": "Gyeongsangbuk-do",
         "lang:ko_KR": "경상북도"
       },
-      "parent_id": null
+      "parent_id": "Q884"
     },
     {
       "id": "Q50572716",
@@ -1530,6 +1530,30 @@
         "lang:ko_KR": "성주군제2선거구"
       },
       "parent_id": "Q41154"
+    },
+    {
+      "id": "Q884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6296418"
+      ],
+      "type": {
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:ko_KR": "대한민국",
+        "lang:en_US": "Republic of Korea"
+      },
+      "parent_id": null
     }
   ],
   "memberships": [
