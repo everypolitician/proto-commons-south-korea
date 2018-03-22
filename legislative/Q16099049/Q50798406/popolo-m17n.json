@@ -225,7 +225,487 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619818"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Ulsan",
+        "lang:ko_KR": "울산광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:dong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "동구제2선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제1선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:buk-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "북구제1선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제5선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:jung-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "중구제1선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:buk-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "북구제3선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:jung-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "중구제3선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:jung-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "중구제4선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제6선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:dong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "동구제3선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:ulju-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "울주군제2선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제3선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:dong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "동구제1선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:ulju-county-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "울주군제3선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제4선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:buk-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "북구제2선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:ulju-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "울주군제1선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:nam-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "남구제2선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
+      "id": "Q50572715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/flacs-constituency:jung-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:ko_KR": "중구제2선거구"
+      },
+      "parent_id": "Q41278"
+    }
   ],
   "memberships": [
     {

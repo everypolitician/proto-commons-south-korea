@@ -224,7 +224,991 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583022"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gangwon-do",
+        "lang:ko_KR": "강원도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:hoengseong-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "횡성군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:pyeongchang-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "평창군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:chuncheon-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "춘천시제4선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:pyeongchang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "평창군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572947",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:donghae-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572947"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "동해시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:gangneung-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "강릉시제3선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:gangneung-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "강릉시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제5선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제4선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:hongcheon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "홍천군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제3선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:taebaek-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "태백시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:yanggu-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "양구군선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:cheorwon-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "철원군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:goseong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "고성군선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:taebaek-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "태백시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:jeongseon-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "정선군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:sokcho-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "속초시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:samcheok-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "삼척시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:sokcho-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "속초시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:chuncheon-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "춘천시제3선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:gangneung-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "강릉시제4선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:jeongseon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "정선군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:chuncheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "춘천시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:hongcheon-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "홍천군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:hoengseong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "횡성군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:hwacheon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "화천군선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제6선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:samcheok-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "삼척시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:yeongwol-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "영월군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:yeongwol-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "영월군제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:donghae-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "동해시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:chuncheon-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "춘천시제5선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:yangyang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "양양군선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:wonju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "원주시제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:inje-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "인제군선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:cheorwon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "철원군제1선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:gangneung-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "강릉시제2선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
+      "id": "Q50572988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/flacs-constituency:chuncheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:ko_KR": "춘천시제2선거구"
+      },
+      "parent_id": "Q41071"
+    }
   ],
   "memberships": [
     {

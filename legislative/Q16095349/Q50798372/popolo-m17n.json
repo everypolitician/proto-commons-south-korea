@@ -216,7 +216,679 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50614705"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daegu",
+        "lang:ko_KR": "대구광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:suseong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "수성구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572909",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572909"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제4선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:suseong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "수성구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:jung-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "중구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572913",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:buk-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572913"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "북구제3선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:suseong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "수성구제3선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:suseong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "수성구제4선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제6선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "동구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:buk-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "북구제4선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:jung-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "중구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "동구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:nam-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "남구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:buk-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "북구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:seo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "서구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제3선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:buk-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "북구제5선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "동구제4선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:seo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "서구제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseong-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달성군제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseo-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달서구제5선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dalseong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "달성군제1선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:buk-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "북구제2선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:dong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "동구제3선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
+      "id": "Q50572939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/flacs-constituency:nam-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:ko_KR": "남구제2선거구"
+      },
+      "parent_id": "Q20927"
+    }
   ],
   "memberships": [
     {

@@ -215,7 +215,847 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619493"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeollabuk-do",
+        "lang:ko_KR": "전라북도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:sunchang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "순창군선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:muju-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "무주군선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:wanju-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "완주군제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gimje-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "김제시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeongeup-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "정읍시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:namwon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "남원시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제7선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gunsan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "군산시제3선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제9선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제4선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:iksan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "익산시제4선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:wanju-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "완주군제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gunsan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "군산시제4선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제8선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제6선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jangsu-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "장수군선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:iksan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "익산시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gimje-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "김제시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:buan-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "부안군제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeongeup-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "정읍시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jinan-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "진안군선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gochang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "고창군제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:imsil-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "임실군선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:buan-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "부안군제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제3선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gunsan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "군산시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:namwon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "남원시제1선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:iksan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "익산시제3선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:jeonju-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "전주시제5선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:iksan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "익산시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gunsan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "군산시제2선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
+      "id": "Q50572395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/flacs-constituency:gochang-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:ko_KR": "고창군제2선거구"
+      },
+      "parent_id": "Q41157"
+    }
   ],
   "memberships": [
     {

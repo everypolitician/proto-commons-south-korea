@@ -213,7 +213,487 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50616327"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gwangju",
+        "lang:ko_KR": "광주광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50277264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "북구제1선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50277504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "북구제2선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50277669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "북구제3선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50277851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "북구제4선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50277904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50277904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "광주광역시북구제5선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572882",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:dong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572882"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "동구제2선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:nam-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "남구제1선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:gwangsan-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "광산구제3선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572889",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:dong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572889"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "동구제1선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:gwangsan-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "광산구제1선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:nam-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "남구제3선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:seo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "서구제1선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:seo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "서구제3선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:seo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "서구제4선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:seo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "서구제2선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:gwangsan-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "광산구제2선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:buk-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "북구제6선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:nam-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "남구제2선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
+      "id": "Q50572906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/flacs-constituency:gwangsan-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:ko_KR": "광산구제4선거구"
+      },
+      "parent_id": "Q41283"
+    }
   ],
   "memberships": [
     {

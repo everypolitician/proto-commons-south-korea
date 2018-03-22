@@ -227,7 +227,775 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50617475"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Incheon",
+        "lang:ko_KR": "인천광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:gyeyang-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "계양구제4선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:bupyeong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "부평구제4선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:dong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "동구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:jung-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "중구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:namdong-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남동구제5선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:bupyeong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "부평구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:gyeyang-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "계양구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:nam-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남구제4선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:bupyeong-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "부평구제5선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:seo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:namdong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남동구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:yeonsu-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "연수구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:dong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "동구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:ganghwa-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "강화군선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:nam-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:yeonsu-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "연수구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:ongjin-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "옹진군선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:namdong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남동구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:nam-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:namdong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남동구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:jung-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "중구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:bupyeong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "부평구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:bupyeong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "부평구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:seo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:seo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제4선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:seo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제1선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:gyeyang-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "계양구제2선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:namdong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남동구제4선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:yeonsu-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "연수구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:gyeyang-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "계양구제3선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
+      "id": "Q50572678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/flacs-constituency:nam-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:ko_KR": "남구제2선거구"
+      },
+      "parent_id": "Q20934"
+    }
   ],
   "memberships": [
     {

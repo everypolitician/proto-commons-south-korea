@@ -210,7 +210,1327 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619415"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeongsangbuk-do",
+        "lang:ko_KR": "경상북도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongsan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경산시제4선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yecheon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "예천군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제7선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:andong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "안동시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:cheongsong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "청송군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:mungyeong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "문경시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongyang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영양군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:bonghwa-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "봉화군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제5선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제6선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제3선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:chilgok-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "칠곡군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongsan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경산시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:mungyeong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "문경시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경주시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영주시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제4선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongju-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경주시제3선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongju-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경주시제4선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gunwi-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "군위군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제5선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:sangju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "상주시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:goryeong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "고령군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제3선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제4선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:chilgok-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "칠곡군제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:cheongdo-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "청도군제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572778",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:andong-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572778"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "안동시제3선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제8선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gumi-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "구미시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongcheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영천시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongdeok-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영덕군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yecheon-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "예천군제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongsan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경산시제3선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongsan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경산시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:sangju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "상주시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영주시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:pohang-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "포항시제6선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:cheongdo-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "청도군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:uljin-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "울진군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:ulleung-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "울릉군선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:uiseong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "의성군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:yeongcheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "영천시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gimcheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "김천시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:uljin-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "울진군제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gyeongju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "경주시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:andong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "안동시제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:uiseong-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "의성군제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:seongju-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "성주군제1선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:gimcheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "김천시제2선거구"
+      },
+      "parent_id": "Q41154"
+    },
+    {
+      "id": "Q50572817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:47/flacs-constituency:seongju-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559328"
+      ],
+      "type": {
+        "lang:ko_KR": "경상북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+      },
+      "name": {
+        "lang:ko_KR": "성주군제2선거구"
+      },
+      "parent_id": "Q41154"
+    }
   ],
   "memberships": [
     {

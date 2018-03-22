@@ -230,7 +230,2815 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12583545"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Gyeonggi-do",
+        "lang:ko_KR": "경기도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hwaseong-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "화성시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gunpo-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "군포시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:namyangju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "남양주시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uijeongbu-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의정부시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:siheung-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "시흥시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광주시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pyeongtaek-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "평택시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:namyangju-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "남양주시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:paju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "파주시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gapyeong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "가평군선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangmyeong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광명시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hwaseong-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "화성시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:icheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "이천시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gimpo-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "김포시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yeoju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "여주시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:paju-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "파주시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gimpo-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "김포시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anseong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안성시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwacheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "과천시선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yangpyeong-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "양평군제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:paju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "파주시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광주시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pocheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "포천시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:namyangju-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "남양주시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:osan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "오산시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:namyangju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "남양주시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pocheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "포천시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:guri-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "구리시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hwaseong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "화성시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uijeongbu-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의정부시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yeoncheon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "연천군선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:paju-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "파주시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:guri-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "구리시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hanam-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "하남시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:osan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "오산시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anseong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안성시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:dongducheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "동두천시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hanam-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "하남시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:seongnam-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "성남시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제8선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제9선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uiwang-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의왕시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yangpyeong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "양평군제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:siheung-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "시흥시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangmyeong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광명시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:hwaseong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "화성시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yangju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "양주시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:siheung-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "시흥시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pyeongtaek-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "평택시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangmyeong-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광명시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pyeongtaek-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "평택시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:pyeongtaek-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "평택시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gimpo-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "김포시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:dongducheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "동두천시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제7선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:icheon-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "이천시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uijeongbu-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의정부시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yongin-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "용인시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gwangmyeong-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "광명시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:goyang-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "고양시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:siheung-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "시흥시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yangju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "양주시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uiwang-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의왕시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:anyang-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안양시제1선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:gunpo-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "군포시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:namyangju-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "남양주시제5선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:suwon-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "수원시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:bucheon-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "부천시제6선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:yeoju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "여주시제2선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제4선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:ansan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "안산시제3선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
+      "id": "Q50572611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/flacs-constituency:uijeongbu-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:ko_KR": "의정부시제3선거구"
+      },
+      "parent_id": "Q20937"
+    }
   ],
   "memberships": [
     {

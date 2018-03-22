@@ -215,7 +215,895 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50619614"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Chungcheongnam-do",
+        "lang:ko_KR": "충청남도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheongyang-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "청양군선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제5선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:seosan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "서산시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제4선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:seocheon-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "서천군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제6선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:yesan-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "예산군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50572999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:gyeryong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "계룡시선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:buyeo-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "부여군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:geumsan-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "금산군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제7선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:boryeong-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "보령시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:gongju-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "공주시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:buyeo-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "부여군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제8선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:taean-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "태안군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:gongju-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "공주시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:asan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "아산시제3선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:asan-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "아산시제4선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:hongseong-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "홍성군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:boryeong-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "보령시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:asan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "아산시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:nonsan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "논산시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:dangjin-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "당진시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:cheonan-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "천안시제3선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:yesan-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "예산군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:dangjin-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "당진시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:seocheon-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "서천군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:hongseong-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "홍성군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:asan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "아산시제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:taean-county-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "태안군제2선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:seosan-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "서산시제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:geumsan-county-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "금산군제1선거구"
+      },
+      "parent_id": "Q41070"
+    },
+    {
+      "id": "Q50573038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:44/flacs-constituency:nonsan-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558073"
+      ],
+      "type": {
+        "lang:ko_KR": "충청남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Chungcheong Province"
+      },
+      "name": {
+        "lang:ko_KR": "논산시제2선거구"
+      },
+      "parent_id": "Q41070"
+    }
   ],
   "memberships": [
     {

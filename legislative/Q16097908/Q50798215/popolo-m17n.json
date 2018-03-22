@@ -224,7 +224,343 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50274663"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치시",
+        "lang:en_US": "special autonomous city in South Korea"
+      },
+      "name": {
+        "lang:en_US": "Sejong Special Self-Governing City",
+        "lang:ko_KR": "세종특별자치시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50573284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제13선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제9선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제4선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제2선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제11선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제7선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제5선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제8선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제6선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제1선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제3선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제10선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
+      "id": "Q50573321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/flacs-constituency:sejong-ssg-city-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:ko_KR": "세종특별자치시제12선거구"
+      },
+      "parent_id": "Q20929"
+    }
   ],
   "memberships": [
     {
