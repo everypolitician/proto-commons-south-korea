@@ -634,5 +634,294 @@
       "lang:ko_KR": "NAME",
       "lang:en_US": "NAME_EN"
     }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572291",
+    "associations": [
+      {
+        "comment": "경상남도의원동정",
+        "position_item_id": "Q50559353"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:48",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572273",
+    "associations": [
+      {
+        "comment": "세종특별자치시의원동정",
+        "position_item_id": "Q50559074"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/ssg-city:50",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572297",
+    "associations": [
+      {
+        "comment": "대전광역시의원동정",
+        "position_item_id": "Q50559446"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:30",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572280",
+    "associations": [
+      {
+        "comment": "충청남도의원동정",
+        "position_item_id": "Q50558073"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:44",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572289",
+    "associations": [
+      {
+        "comment": "인천광역시의원동정",
+        "position_item_id": "Q50559472"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:28",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572294",
+    "associations": [
+      {
+        "comment": "충청북도의원동정",
+        "position_item_id": "Q50559246"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:43",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572282",
+    "associations": [
+      {
+        "comment": "부산광역시시의원동정",
+        "position_item_id": "Q50279057"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:26",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572287",
+    "associations": [
+      {
+        "comment": "대구광역시의원동정",
+        "position_item_id": "Q50559494"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:27",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572274",
+    "associations": [
+      {
+        "comment": "제주특별자치도의원동정",
+        "position_item_id": "Q50559384"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/ssg-province:49",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572278",
+    "associations": [
+      {
+        "comment": "울산광역시의원동정",
+        "position_item_id": "Q50558615"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:31",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572279",
+    "associations": [
+      {
+        "comment": "광주광역시의원동정",
+        "position_item_id": "Q50277114"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/met-city:29",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572292",
+    "associations": [
+      {
+        "comment": "서울특별시의원동정",
+        "position_item_id": "Q50257366"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/special-city:11",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572284",
+    "associations": [
+      {
+        "comment": "경상북도의원동정",
+        "position_item_id": "Q50559328"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:47",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572285",
+    "associations": [
+      {
+        "comment": "경기도의원동정",
+        "position_item_id": "Q50559168"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:41",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572283",
+    "associations": [
+      {
+        "comment": "강원도의원동정",
+        "position_item_id": "Q50559021"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:42",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572290",
+    "associations": [
+      {
+        "comment": "전라남도의원동정",
+        "position_item_id": "Q50559426"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:46",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "flacs-pr-constituencies",
+    "area_type_wikidata_item_id": "Q50572296",
+    "associations": [
+      {
+        "comment": "전라북도의원동정",
+        "position_item_id": "Q50559371"
+      }
+    ],
+    "name_columns": {
+      "lang:kr_KR": "NAME"
+    },
+    "filter": {
+      "match": "country:kr/province:45",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
