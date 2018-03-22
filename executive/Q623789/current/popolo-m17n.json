@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "박원순",
+        "lang:en_US": "Park Won-soon"
+      },
+      "id": "Q22803",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22803"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hope2gether"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "서울특별시청",
+        "lang:en_US": "Seoul Metropolitan Government"
+      },
+      "id": "Q623789",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q623789"
+        }
+      ],
+      "area_id": "Q8684"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q8684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q488289"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별시",
+        "lang:en_US": "special city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Seoul",
+        "lang:ko_KR": "서울특별시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22803-7abed12f-4ddf-dd40-ce90-5ebee27839a0",
+      "person_id": "Q22803",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q623789",
+      "area_id": "Q8684",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q488289",
+      "role_superclass": {
+        "lang:ko_KR": "서울특별시장",
+        "lang:en_US": "Mayor of Seoul"
+      },
+      "role_code": "Q488289",
+      "role": {
+        "lang:ko_KR": "서울특별시장",
+        "lang:en_US": "Mayor of Seoul"
+      }
+    }
+  ]
+}

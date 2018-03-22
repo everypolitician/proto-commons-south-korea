@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q41161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q12615101"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 도",
+        "lang:en_US": "province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeollanam-do",
+        "lang:ko_KR": "전라남도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

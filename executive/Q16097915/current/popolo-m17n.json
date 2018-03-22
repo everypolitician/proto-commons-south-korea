@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "이춘희 (1955년)",
+        "lang:en_US": "Lee Chunhee"
+      },
+      "id": "Q12612939",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12612939"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/macc2012"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "세종특별자치시청",
+        "lang:en_US": "Sejong Special City Government"
+      },
+      "id": "Q16097915",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16097915"
+        }
+      ],
+      "area_id": "Q20929"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "더불어민주당",
+        "lang:en_US": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q20929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50274663"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치시",
+        "lang:en_US": "special autonomous city in South Korea"
+      },
+      "name": {
+        "lang:en_US": "Sejong Special Self-Governing City",
+        "lang:ko_KR": "세종특별자치시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12612939-a5dcda23-4a5d-1c09-2cdd-fdce8d0b7586",
+      "person_id": "Q12612939",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q16097915",
+      "area_id": "Q20929",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q50274663",
+      "role_superclass": {
+        "lang:ko_KR": "세종특별자치시시장",
+        "lang:en_US": "Mayor of Sejong City"
+      },
+      "role_code": "Q50274663",
+      "role": {
+        "lang:ko_KR": "세종특별자치시시장",
+        "lang:en_US": "Mayor of Sejong City"
+      }
+    }
+  ]
+}

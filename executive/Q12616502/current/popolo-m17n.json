@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "원희룡",
+        "lang:en_US": "Won Hee-ryong"
+      },
+      "id": "Q8031676",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8031676"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/happywon"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "제주특별자치도청",
+        "lang:en_US": "Jeju Self-governing Provincial Government"
+      },
+      "id": "Q12616502",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12616502"
+        }
+      ],
+      "area_id": "Q41164"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q41164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50275066"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치도",
+        "lang:en_US": "Special Self-governing Province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeju Special Self-Governing Province",
+        "lang:ko_KR": "제주특별자치도"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8031676-8b676669-4041-d382-e2a4-90ca8e6d5b62",
+      "person_id": "Q8031676",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q12616502",
+      "area_id": "Q41164",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q50275066",
+      "role_superclass": {
+        "lang:ko_KR": "제주특별자치도지사",
+        "lang:en_US": "Governor of Jeju"
+      },
+      "role_code": "Q50275066",
+      "role": {
+        "lang:ko_KR": "제주특별자치도지사",
+        "lang:en_US": "Governor of Jeju"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q20927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50614705"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daegu",
+        "lang:ko_KR": "대구광역시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

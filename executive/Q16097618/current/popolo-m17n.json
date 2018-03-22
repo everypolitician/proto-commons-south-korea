@@ -1,0 +1,101 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "서병수",
+        "lang:en_US": "Suh Byung-soo"
+      },
+      "id": "Q16083277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16083277"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/suhbyungsoo"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:ko_KR": "부산광역시청",
+        "lang:en_US": "Busan Metropolitan Government"
+      },
+      "id": "Q16097618",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16097618"
+        }
+      ],
+      "area_id": "Q16520"
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q16520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50265926"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Busan",
+        "lang:ko_KR": "부산광역시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16083277-032cc047-412d-dfb2-6528-9ccc9c16da2c",
+      "person_id": "Q16083277",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16097618",
+      "area_id": "Q16520",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q50265926",
+      "role_superclass": {
+        "lang:ko_KR": "부산광역시장",
+        "lang:en_US": "Mayors of Busan"
+      },
+      "role_code": "Q50265926",
+      "role": {
+        "lang:ko_KR": "부산광역시장",
+        "lang:en_US": "Mayors of Busan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q20934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50617475"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Incheon",
+        "lang:ko_KR": "인천광역시"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
