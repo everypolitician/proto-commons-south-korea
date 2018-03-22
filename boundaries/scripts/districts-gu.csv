@@ -1,0 +1,103 @@
+District,Korean,Hanja,City,Population,Area,Founded (yyyy-mm-dd),Type
+Danwon-gu,단원구,檀園區,Ansan,335,849,91.23,2002-11-01,Non-autonomous
+Sangnok-gu,상록구,常綠區,Ansan,380,574,57.83,2002-11-01,Non-autonomous
+Dongan-gu,동안구,東安區,Anyang,353,381,21.92,1992-10-01,Non-autonomous
+Manan-gu,만안구,萬安區,Anyang,265,462,36.54,1992-10-01,Non-autonomous
+Buk District,북구,北區,Busan,309,602,39.44,1978-02-15,Autonomous
+Busanjin District,부산진구,釜山鎭區,Busan,394,931,29.69,1957-01-01,Autonomous
+Dong District,동구,東區,Busan,101,251,9.78,1957-01-01,Autonomous
+Dongnae District,동래구,東萊區,Busan,282,732,16.63,1957-01-01,Autonomous
+Gangseo District,강서구,江西區,Busan,62,963,180.24,1988-01-01,Autonomous
+Geumjeong District,금정구,金井區,Busan,255,979,65.17,1988-01-01,Autonomous
+Haeundae District,해운대구,海雲臺區,Busan,425,872,51.46,1980-01-01,Autonomous
+Jung District,중구,中區,Busan,49,011,2.82,1957-01-01,Autonomous
+Nam District,남구,南區,Busan,296,955,26.77,1975-10-01,Autonomous
+Saha District,사하구,沙下區,Busan,357,060,40.96,1983-12-15,Autonomous
+Sasang District,사상구,沙上區,Busan,256,347,36.06,1995-03-01,Autonomous
+Seo District,서구,西區,Busan,124,896,13.88,1957-01-01,Autonomous
+Suyeong District,수영구,水營區,Busan,177,575,10.20,1995-03-01,Autonomous
+Yeongdo District,영도구,影島區,Busan,144,852,14.13,1957-01-01,Autonomous
+Yeonje District,연제구,蓮堤區,Busan,214,056,12.08,1995-03-01,Autonomous
+Jinhae-gu,진해구,鎭海區,Changwon,179,015,120.14,2010-07-01,Non-autonomous
+Masanhappo-gu,마산합포구,馬山合浦區,Changwon,186,757,240.23,2010-07-01,Non-autonomous
+Masanhoewon-gu,마산회원구,馬山會原區,Changwon,223,956,90.58,2010-07-01,Non-autonomous
+Seongsan-gu,성산구,城山區,Changwon,250,103,82.09,2010-07-01,Non-autonomous
+Uichang-gu,의창구,義昌區,Changwon,250,702,211.22,2010-07-01,Non-autonomous
+Heungdeok-gu,흥덕구,興德區,Cheongju,256,681,198.27,1995-01-01,Non-autonomous
+Sangdang-gu,상당구,上黨區,Cheongju,179,867,404.44,1995-01-01,Non-autonomous
+Cheongwon-gu,청원구,淸原區,Cheongju,162,422,214.99,2014-07-01,Non-autonomous
+Seowon-gu,서원구,西原區,Cheongju,228,659,114.88,2014-07-01,Non-autonomous
+Dongnam-gu,동남구,東南區,Cheonan,250,906,438.52,2008-06-23,Non-autonomous
+Seobuk-gu,서북구,西北區,Cheonan,315,577,197.70,2008-06-23,Non-autonomous
+Jung District,중구,中區,Daegu,77,095,7.06,1963-01-01,Autonomous
+Dong District,동구,東區,Daegu,341,616,182.22,1963-01-01,Autonomous
+Seo District,서구,西區,Daegu,223,681,17.48,1963-01-01,Autonomous
+Nam District,남구,南區,Daegu,169,765,17.44,1963-01-01,Autonomous
+Buk District,북구,北區,Daegu,450,852,94.09,1963-01-01,Autonomous
+Suseong District,수성구,壽城區,Daegu,461,473,76.46,1980-04-01,Autonomous
+Dalseo District,달서구,達西區,Daegu,606,178,62.34,1988-01-01,Autonomous
+Daedeok District,대덕구,大德區,Daejeon,207,312,68.45,1989-01-01,Autonomous
+Dong District,동구,東區,Daejeon,248,344,136.61,1977-09-01,Autonomous
+Jung District,중구,中區,Daejeon,77,095,7.06,1977-09-01,Autonomous
+Seo District,서구,西區,Daejeon,223,681,17.48,1988-01-01,Autonomous
+Yuseong District,유성구,儒城區,Daejeon,288,618,177.27,1989-01-01,Autonomous
+Deogyang-gu,덕양구,德陽區,Goyang,393,479,165.51,1996-03-01,Non-autonomous
+Ilsandong-gu,일산동구,一山東區,Goyang,275,159,59.13,1996-03-01,Non-autonomous
+Ilsanseo-gu,일산서구,一山西區,Goyang,289,745,42.77,2005-05-16,Non-autonomous
+Buk District,북구,北區,Gwangju,469,045,121.74,1980-04-01,Autonomous
+Dong District,동구,東區,Gwangju,101,582,48.86,1973-07-01,Autonomous
+Gwangsan District,광산구,光山區,Gwangju,370,527,222.91,1988-01-01,Autonomous
+Nam District,남구,南區,Gwangju,217,934,61.02,1995-09-01,Autonomous
+Seo District,서구,西區,Gwangju,302,280,46.71,1973-07-01,Autonomous
+Bupyeong District,부평구,富平區,Incheon,562,110,31.99,1968-01-01,Autonomous
+Dong District,동구,東區,Incheon,79,624,7.19,1968-01-01,Autonomous
+Gyeyang District,계양구,桂陽區,Incheon,345,671,45.58,1995-03-01,Autonomous
+Jung District,중구,中區,Incheon,93,520,123.09,1968-01-01,Autonomous
+Nam District,남구,南區,Incheon,419,683,24.85,1968-01-01,Autonomous
+Namdong District,남동구,南洞區,Incheon,491,038,56.99,1988-01-01,Autonomous
+Seo District,서구,西區,Incheon,420,939,113.91,1988-01-01,Autonomous
+Yeonsu District,연수구,延壽區,Incheon,283,840,42.74,1995-03-01,Autonomous
+Deokjin-gu,덕진구,德津區,Jeonju,283,813,110.79,1989-05-01,Non-autonomous
+Wansan-gu,완산구,完山區,Jeonju,361,038,95.22,1989-05-01,Non-autonomous
+Buk-gu,북구,北區,Pohang,262,581,393.33,1995-01-01,Non-autonomous
+Nam-gu,남구,南區,Pohang,253,278,735.48,1995-01-01,Non-autonomous
+Bundang-gu,분당구,盆唐區,Seongnam,485,767,69.35,1991-09-17,Non-autonomous
+Jungwon-gu,중원구,中原區,Seongnam,256,298,26.38,1989-05-01,Non-autonomous
+Sujeong-gu,수정구,壽井區,Seongnam,237,986,45.99,1989-05-01,Non-autonomous
+Dobong District,도봉구,道峰區,Seoul,366,879,20.70,1973-07-01,Autonomous
+Dongdaemun District,동대문구,東大門區,Seoul,366,633,14.20,1943-06-10,Autonomous
+Dongjak District,동작구,銅雀區,Seoul,402,567,16.35,1980-04-01,Autonomous
+Eunpyeong District,은평구,恩平區,Seoul,491,741,29.71,1979-10-01,Autonomous
+Gangbuk District,강북구,江北區,Seoul,345,502,23.61,1995-03-01,Autonomous
+Gangdong District,강동구,江東區,Seoul,496,364,24.58,1979-10-01,Autonomous
+Gangnam District,강남구,江南區,Seoul,570,392,39.54,1975-10-01,Autonomous
+Gangseo District,강서구,江西區,Seoul,571,526,41.42,1977-09-01,Autonomous
+Geumcheon District,금천구,衿川區,Seoul,243,280,13.01,1995-03-01,Autonomous
+Guro District,구로구,九老區,Seoul,422,322,20.12,1980-04-01,Autonomous
+Gwanak District,관악구,冠岳區,Seoul,529,195,29.57,1973-07-01,Autonomous
+Gwangjin District,광진구,廣津區,Seoul,373,608,17.05,1995-03-01,Autonomous
+Jongno District,종로구,鍾路區,Seoul,169,217,23.91,1943-06-10,Autonomous
+Jung District,중구,中區,Seoul,132,224,9.96,1943-06-10,Autonomous
+Jungnang District,중랑구,中浪區,Seoul,425,668,18.51,1988-01-01,Autonomous
+Mapo District,마포구,麻浦區,Seoul,392,635,23.87,1944-11-01,Autonomous
+Nowon District,노원구,蘆原區,Seoul,605,756,35.44,1988-01-01,Autonomous
+Seocho District,서초구,瑞草區,Seoul,432,934,47.00,1988-01-01,Autonomous
+Seodaemun District,서대문구,西大門區,Seoul,318,467,17.60,1943-06-10,Autonomous
+Seongbuk District,성북구,城北區,Seoul,488,036,24.57,1949-08-13,Autonomous
+Seongdong District,성동구,城東區,Seoul,127,748,16.85,1943-06-10,Autonomous
+Songpa District,송파구,松坡區,Seoul,684,028,33.88,1988-01-01,Autonomous
+Yangcheon District,양천구,陽川區,Seoul,498,819,17.40,1988-01-01,Autonomous
+Yeongdeungpo District,영등포구,永登浦區,Seoul,403,062,24.56,1943-06-10,Autonomous
+Yongsan District,용산구,龍山區,Seoul,247,206,21.87,1943-06-10,Autonomous
+Gwonseon-gu,권선구,勸善區,Suwon,307,410,47.30,1988-07-01,Non-autonomous
+Jangan-gu,장안구,長安區,Suwon,293,485,33.17,1988-07-01,Non-autonomous
+Paldal-gu,팔달구,八達區,Suwon,214,653,13.08,1993-02-01,Non-autonomous
+Yeongtong-gu,영통구,靈通區,Suwon,261,008,27.46,2003-11-24,Non-autonomous
+Buk District,북구,北區,Ulsan,181,611,157.35,1997-07-15,Autonomous
+Dong District,동구,東區,Ulsan,170,639,36.01,1988-01-01,Autonomous
+Jung District,중구,中區,Ulsan,232,421,36.99,1985-07-15,Autonomous
+Nam District,남구,南區,Ulsan,343,487,72.55,1985-07-15,Autonomous
+Cheoin-gu,처인구,處仁區,Yongin,209,893,467.57,2005-10-31,Non-autonomous
+Giheung-gu,기흥구,器興區,Yongin,365,632,81.68,2005-10-31,Non-autonomous
+Suji-gu,수지구,水枝區,Yongin,314,757,42.10,2005-10-31,Non-autonomous
+
