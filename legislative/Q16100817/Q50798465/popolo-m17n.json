@@ -256,7 +256,727 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q41164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50275066"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별자치도",
+        "lang:en_US": "Special Self-governing Province of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Jeju Special Self-Governing Province",
+        "lang:ko_KR": "제주특별자치도"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50572819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제13선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제19선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제26선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제1선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제28선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제20선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제6선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제21선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제9선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제10선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제29선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제12선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제18선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제23선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제5선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제15선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제2선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제8선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제14선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제17선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제22선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제24선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제3선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제16선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제7선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제27선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제4선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제25선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
+      "id": "Q50572881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/flacs-constituency:jeju-ssg-province-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50572881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:ko_KR": "제주특별자치도제11선거구"
+      },
+      "parent_id": "Q41164"
+    }
   ],
   "memberships": [
     {

@@ -218,7 +218,2335 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q50258901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongdong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50258901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성동구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50259908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50259908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yangcheon-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "양천구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제6선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dobong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "도봉구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangnam-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강남구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongjak-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동작구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:eunpyeong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "은평구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yeongdeungpo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "영등포구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangnam-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강남구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seocho-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서초구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongbuk-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성북구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:guro-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "구로구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongbuk-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성북구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangbuk-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강북구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:mapo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "마포구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jungnang-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중랑구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jungnang-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중랑구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:guro-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "구로구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangseo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강서구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:guro-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "구로구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangnam-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강남구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seodaemun-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서대문구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangnam-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강남구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongjak-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동작구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573515",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwanak-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573515"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "관악구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:eunpyeong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "은평구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seocho-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서초구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jung-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573539",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongdong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573539"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성동구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제5선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwangjin-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "광진구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jung-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongdaemun-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동대문구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제6선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yongsan-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "용산구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangseo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강서구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:eunpyeong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "은평구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:songpa-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "송파구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangdong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강동구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:geumcheon-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "금천구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangbuk-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강북구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seodaemun-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서대문구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangdong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강동구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jongno-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "종로구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangdong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강동구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangbuk-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강북구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dobong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "도봉구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongjak-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동작구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwangjin-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "광진구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongdong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성동구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwangjin-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "광진구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seodaemun-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서대문구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seocho-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서초구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yeongdeungpo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "영등포구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangseo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강서구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongdong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성동구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongdaemun-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동대문구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jungnang-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중랑구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jungnang-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "중랑구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:mapo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "마포구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongbuk-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성북구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwanak-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "관악구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongdaemun-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동대문구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwangjin-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "광진구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:guro-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "구로구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangdong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강동구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwanak-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "관악구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yangcheon-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "양천구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50573995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seocho-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서초구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yeongdeungpo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "영등포구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:geumcheon-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "금천구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seongbuk-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "성북구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:eunpyeong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "은평구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yeongdeungpo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "영등포구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gwanak-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "관악구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongdaemun-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동대문구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:mapo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "마포구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:mapo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "마포구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:jongno-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "종로구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yangcheon-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "양천구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yangcheon-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "양천구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:nowon-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "노원구제5선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:yongsan-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "용산구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dobong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "도봉구제4선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dongjak-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "동작구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:seodaemun-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "서대문구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangseo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강서구제2선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:gangbuk-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "강북구제1선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q50574205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/flacs-constituency:dobong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50574205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:ko_KR": "도봉구제3선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
+      "id": "Q8684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q488289"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 특별시",
+        "lang:en_US": "special city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Seoul",
+        "lang:ko_KR": "서울특별시"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

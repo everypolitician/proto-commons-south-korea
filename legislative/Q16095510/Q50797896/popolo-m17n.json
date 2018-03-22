@@ -232,7 +232,487 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q20921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50615886"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국의 광역시",
+        "lang:en_US": "metropolitan city of South Korea"
+      },
+      "name": {
+        "lang:en_US": "Daejeon",
+        "lang:ko_KR": "대전광역시"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q50573225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:dong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "동구제2선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:jung-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "중구제1선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제6선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:daedeok-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "대덕구제3선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:yuseong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "유성구제1선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:yuseong-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "유성구제2선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제2선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:daedeok-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "대덕구제2선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:dong-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "동구제1선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:jung-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "중구제3선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:dong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "동구제3선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제1선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제3선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:daedeok-district-1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "대덕구제1선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:yuseong-district-3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "유성구제3선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:yuseong-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "유성구제4선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제5선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:seo-district-4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "서구제4선거구"
+      },
+      "parent_id": "Q20921"
+    },
+    {
+      "id": "Q50573280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:30/flacs-constituency:jung-district-2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50573280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559446"
+      ],
+      "type": {
+        "lang:ko_KR": "대전광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daejeon"
+      },
+      "name": {
+        "lang:ko_KR": "중구제2선거구"
+      },
+      "parent_id": "Q20921"
+    }
   ],
   "memberships": [
     {
