@@ -620,5 +620,19 @@
     "name_columns": {
       "lang:ko_KR": "NAME"
     }
+  },
+  {
+    "directory": "national-pr-constituency",
+    "area_type_wikidata_item_id": "Q50240982",
+    "associations": [
+      {
+        "comment": "Member of National Assembly of South Korea",
+        "position_item_id": "Q14850694"
+      }
+    ],
+    "name_columns": {
+      "lang:ko_KR": "NAME",
+      "lang:en_US": "NAME_EN"
+    }
   }
 ]
