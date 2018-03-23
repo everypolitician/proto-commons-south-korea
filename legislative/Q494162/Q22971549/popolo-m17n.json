@@ -6464,6 +6464,31 @@
       "parent_id": "Q20934"
     },
     {
+      "id": "Q50506172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50506172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q14850694"
+      ],
+      "type": {
+        "lang:ko_KR": "대한민국 국회의원 선거구",
+        "lang:en_US": "Constituency of the National Assembly of South Korea"
+      },
+      "name": {
+        "lang:ko_KR": "비례대표 국회의원 선거구",
+        "lang:en_US": "PR assembly constituency in South Korea"
+      },
+      "parent_id": null
+    },
+    {
       "id": "Q50609003",
       "identifiers": [
         {
