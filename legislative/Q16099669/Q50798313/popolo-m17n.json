@@ -1489,6 +1489,30 @@
       "parent_id": "Q41161"
     },
     {
+      "id": "Q50739830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:46/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50739830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559426"
+      ],
+      "type": {
+        "lang:ko_KR": "전라남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+      },
+      "name": {
+        "lang:kr_KR": "전라남도 비례대표 선거구"
+      },
+      "parent_id": "Q41161"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

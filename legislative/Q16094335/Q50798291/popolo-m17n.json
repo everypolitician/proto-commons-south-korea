@@ -695,6 +695,30 @@
       "parent_id": "Q41283"
     },
     {
+      "id": "Q50738590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:29/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50738590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50277114"
+      ],
+      "type": {
+        "lang:ko_KR": "광주광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gwangju"
+      },
+      "name": {
+        "lang:kr_KR": "광주광역시 비례대표 선거구"
+      },
+      "parent_id": "Q41283"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

@@ -978,6 +978,30 @@
       "parent_id": "Q41164"
     },
     {
+      "id": "Q50738033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-province:49/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50738033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559384"
+      ],
+      "type": {
+        "lang:ko_KR": "제주특별자치도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Jeju"
+      },
+      "name": {
+        "lang:kr_KR": "제주특별자치도 비례대표 선거구"
+      },
+      "parent_id": "Q41164"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

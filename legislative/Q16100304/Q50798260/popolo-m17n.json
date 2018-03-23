@@ -914,6 +914,30 @@
       "parent_id": "Q41066"
     },
     {
+      "id": "Q50737718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:43/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50737718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559246"
+      ],
+      "type": {
+        "lang:ko_KR": "충청북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+      },
+      "name": {
+        "lang:kr_KR": "충청북도 비례대표 선거구"
+      },
+      "parent_id": "Q41066"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

@@ -1210,6 +1210,30 @@
       "parent_id": "Q41071"
     },
     {
+      "id": "Q50739772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:42/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50739772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559021"
+      ],
+      "type": {
+        "lang:ko_KR": "강원도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+      },
+      "name": {
+        "lang:kr_KR": "강원도 비례대표 선거구"
+      },
+      "parent_id": "Q41071"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

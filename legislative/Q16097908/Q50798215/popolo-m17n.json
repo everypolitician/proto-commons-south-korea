@@ -562,6 +562,30 @@
       "parent_id": "Q20929"
     },
     {
+      "id": "Q50736686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/ssg-city:50/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50736686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559074"
+      ],
+      "type": {
+        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Sejong City"
+      },
+      "name": {
+        "lang:kr_KR": "세종특별자치시 비례대표 선거구"
+      },
+      "parent_id": "Q20929"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

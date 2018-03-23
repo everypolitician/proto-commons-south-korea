@@ -1430,6 +1430,30 @@
       "parent_id": "Q41151"
     },
     {
+      "id": "Q50736662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:48/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50736662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559353"
+      ],
+      "type": {
+        "lang:ko_KR": "경상남도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of South Gyeongsang Province"
+      },
+      "name": {
+        "lang:kr_KR": "경상남도 비례대표 선거구"
+      },
+      "parent_id": "Q41151"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

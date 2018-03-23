@@ -707,6 +707,30 @@
       "parent_id": "Q41278"
     },
     {
+      "id": "Q50738092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:31/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50738092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50558615"
+      ],
+      "type": {
+        "lang:ko_KR": "울산광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Ulsan"
+      },
+      "name": {
+        "lang:kr_KR": "울산광역시 비례대표 선거구"
+      },
+      "parent_id": "Q41278"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {
