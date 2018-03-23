@@ -2523,6 +2523,30 @@
       "parent_id": "Q8684"
     },
     {
+      "id": "Q50739120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/special-city:11/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50739120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50257366"
+      ],
+      "type": {
+        "lang:ko_KR": "서울특별시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Seoul"
+      },
+      "name": {
+        "lang:kr_KR": "서울특별시 비례대표 선거구"
+      },
+      "parent_id": "Q8684"
+    },
+    {
       "id": "Q8684",
       "identifiers": [
         {

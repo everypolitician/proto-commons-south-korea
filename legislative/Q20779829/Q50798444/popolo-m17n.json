@@ -3040,6 +3040,30 @@
       "parent_id": "Q20937"
     },
     {
+      "id": "Q50739662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:41/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50739662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559168"
+      ],
+      "type": {
+        "lang:ko_KR": "경기도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+      },
+      "name": {
+        "lang:kr_KR": "경기도 비례대표 선거구"
+      },
+      "parent_id": "Q20937"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

@@ -1057,6 +1057,30 @@
       "parent_id": "Q41157"
     },
     {
+      "id": "Q50739972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/province:45/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50739972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559371"
+      ],
+      "type": {
+        "lang:ko_KR": "전라북도 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of North Jeolla Province"
+      },
+      "name": {
+        "lang:kr_KR": "전라북도 비례대표 선거구"
+      },
+      "parent_id": "Q41157"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

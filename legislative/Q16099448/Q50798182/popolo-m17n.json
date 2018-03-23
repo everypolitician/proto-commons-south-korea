@@ -997,6 +997,30 @@
       "parent_id": "Q20934"
     },
     {
+      "id": "Q50737653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:28/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50737653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559472"
+      ],
+      "type": {
+        "lang:ko_KR": "인천광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Incheon"
+      },
+      "name": {
+        "lang:kr_KR": "인천광역시 비례대표 선거구"
+      },
+      "parent_id": "Q20934"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {

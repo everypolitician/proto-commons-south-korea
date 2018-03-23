@@ -890,6 +890,30 @@
       "parent_id": "Q20927"
     },
     {
+      "id": "Q50737937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr/met-city:27/legislator-at-large"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50737937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50559494"
+      ],
+      "type": {
+        "lang:ko_KR": "대구광역시 의원동정 선거구",
+        "lang:en_US": "FLACS Council Constituency of Daegu"
+      },
+      "name": {
+        "lang:kr_KR": "대구광역시 비례대표 선거구"
+      },
+      "parent_id": "Q20927"
+    },
+    {
       "id": "Q884",
       "identifiers": [
         {
