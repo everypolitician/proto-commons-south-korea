@@ -1,9 +1,216 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:ko_KR": "전봉민"
+      },
+      "id": "Q28699512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28699512"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "백종헌"
+      },
+      "id": "Q31180679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31180679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이상갑"
+      },
+      "id": "Q50809768",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809768"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "오보근"
+      },
+      "id": "Q50809769",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809769"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "강성태"
+      },
+      "id": "Q50809772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809772"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100022962522777"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "안재권"
+      },
+      "id": "Q50809777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809777"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/hdpump"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "이해동"
+      },
+      "id": "Q50809781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809781"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100003339533620"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김진용"
+      },
+      "id": "Q50809783",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809783"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "윤종현"
+      },
+      "id": "Q50809786",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809786"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100001496455090"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "박성명"
+      },
+      "id": "Q50809797",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809797"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko_KR": "김남희"
+      },
+      "id": "Q50809868",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809868"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:ko_KR": "부산광역시의회",
+        "lang:en_US": "Busan municipal council"
+      },
+      "id": "Q16096697",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16096697"
+        }
+      ],
+      "area_id": "Q16520",
+      "seat_counts": {
+        "Q50559275": "47"
+      }
+    },
+    {
+      "name": {
+        "lang:ko_KR": "자유한국당",
+        "lang:en_US": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -44,7 +251,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -68,7 +275,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -92,7 +299,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -116,7 +323,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -140,7 +347,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -164,7 +371,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -188,7 +395,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -212,7 +419,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -236,7 +443,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -260,7 +467,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -284,7 +491,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -308,7 +515,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -332,7 +539,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -356,7 +563,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -380,7 +587,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -404,7 +611,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -428,7 +635,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -452,7 +659,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -476,7 +683,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -500,7 +707,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -524,7 +731,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -548,7 +755,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -572,7 +779,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -596,7 +803,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -620,7 +827,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -644,7 +851,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -668,7 +875,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -692,7 +899,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -716,7 +923,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -740,7 +947,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -764,7 +971,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -788,7 +995,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -812,7 +1019,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -836,7 +1043,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -860,7 +1067,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -884,7 +1091,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -908,7 +1115,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -932,7 +1139,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -956,7 +1163,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -980,7 +1187,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -1004,7 +1211,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -1028,7 +1235,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -1052,7 +1259,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q50279057"
+        "Q50559275"
       ],
       "type": {
         "lang:ko_KR": "부산광역시 의원동정 선거구",
@@ -1089,6 +1296,203 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28699512-8E7E3D64-468F-457A-B767-FAF3D294DF56",
+      "person_id": "Q28699512",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573344",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31180679-016C7118-899A-4B93-A1EF-2E7D743936D5",
+      "person_id": "Q31180679",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573426",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809768-35129304-9FD8-4B61-8D4A-1DF9A0A7BCA6",
+      "person_id": "Q50809768",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573355",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809769-9BE83615-9716-490C-9251-143CE1A2B879",
+      "person_id": "Q50809769",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573415",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809772-FE0B5263-0A16-4119-9F92-E895A4AEA149",
+      "person_id": "Q50809772",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573391",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809777-34815FD6-7F66-418A-B9B9-10AFB6DBF047",
+      "person_id": "Q50809777",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573401",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809781-E0D54E06-3832-40D2-B931-44B2F3DAB42C",
+      "person_id": "Q50809781",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573345",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809783-B8A594EE-2A6C-4FFF-B1AF-DA367F1E196A",
+      "person_id": "Q50809783",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573490",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809786-89B87D16-1199-4649-A513-E25A8BAA909D",
+      "person_id": "Q50809786",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573397",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809797-8AB8F4A2-28A6-46A9-AC46-B65BC5E1495B",
+      "person_id": "Q50809797",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50573342",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50809868-51C98F59-B9EF-423A-A52C-C921D82ADC67",
+      "person_id": "Q50809868",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q16096697",
+      "area_id": "Q50737825",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:ko_KR": "참사관",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q50559275",
+      "role": {
+        "lang:ko_KR": "부산광역시의원동정",
+        "lang:en_US": "Busan councilor"
+      }
+    }
   ]
 }
