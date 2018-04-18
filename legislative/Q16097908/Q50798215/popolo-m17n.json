@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "서금택"
+        "lang:ko": "서금택"
       },
       "id": "Q50809479",
       "identifiers": [
@@ -20,7 +20,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이태환"
+        "lang:ko": "이태환"
       },
       "id": "Q50809480",
       "identifiers": [
@@ -35,7 +35,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박영송"
+        "lang:ko": "박영송"
       },
       "id": "Q50809483",
       "identifiers": [
@@ -53,7 +53,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김원식"
+        "lang:ko": "김원식"
       },
       "id": "Q50809485",
       "identifiers": [
@@ -68,7 +68,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "장승업"
+        "lang:ko": "장승업"
       },
       "id": "Q50809487",
       "identifiers": [
@@ -83,7 +83,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김정봉"
+        "lang:ko": "김정봉"
       },
       "id": "Q50809488",
       "identifiers": [
@@ -98,7 +98,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "임상전"
+        "lang:ko": "임상전"
       },
       "id": "Q50809490",
       "identifiers": [
@@ -113,7 +113,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이충열"
+        "lang:ko": "이충열"
       },
       "id": "Q50809491",
       "identifiers": [
@@ -128,7 +128,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김선무"
+        "lang:ko": "김선무"
       },
       "id": "Q50809492",
       "identifiers": [
@@ -143,7 +143,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이경대"
+        "lang:ko": "이경대"
       },
       "id": "Q50809493",
       "identifiers": [
@@ -158,7 +158,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김복렬"
+        "lang:ko": "김복렬"
       },
       "id": "Q50809901",
       "identifiers": [
@@ -178,8 +178,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "세종특별자치시의회",
-        "lang:en_US": "Sejong City municipal council"
+        "lang:ko": "세종특별자치시의회",
+        "lang:en": "Sejong City municipal council"
       },
       "id": "Q16097908",
       "classification": "branch",
@@ -196,8 +196,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -210,8 +210,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -240,8 +240,8 @@
         "Q50274663"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 특별자치시",
-        "lang:en_US": "special autonomous city in South Korea"
+        "lang:ko": "대한민국의 특별자치시",
+        "lang:en": "special autonomous city in South Korea"
       },
       "name": {
         "lang:en_US": "Sejong Special Self-Governing City",
@@ -265,8 +265,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제13선거구"
@@ -289,8 +289,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제9선거구"
@@ -313,8 +313,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제4선거구"
@@ -337,8 +337,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제2선거구"
@@ -361,8 +361,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제11선거구"
@@ -385,8 +385,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제7선거구"
@@ -409,8 +409,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제5선거구"
@@ -433,8 +433,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제8선거구"
@@ -457,8 +457,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제6선거구"
@@ -481,8 +481,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제1선거구"
@@ -505,8 +505,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제3선거구"
@@ -529,8 +529,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제10선거구"
@@ -553,8 +553,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시제12선거구"
@@ -577,8 +577,8 @@
         "Q50559074"
       ],
       "type": {
-        "lang:ko_KR": "세종특별자치시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Sejong City"
+        "lang:ko": "세종특별자치시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
         "lang:ko_KR": "세종특별자치시 비례대표 선거구"
@@ -601,7 +601,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -620,13 +620,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -638,13 +638,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -656,13 +656,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -674,13 +674,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -692,13 +692,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -709,13 +709,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -727,13 +727,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -745,13 +745,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -763,13 +763,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -781,13 +781,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     },
     {
@@ -799,13 +799,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559074",
       "role": {
-        "lang:ko_KR": "세종특별자치시의원동정",
-        "lang:en_US": "Sejong City councilor"
+        "lang:ko": "세종특별자치시의원동정",
+        "lang:en": "Sejong City councilor"
       }
     }
   ]

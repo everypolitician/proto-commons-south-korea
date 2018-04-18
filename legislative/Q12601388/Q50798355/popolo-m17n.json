@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "이명희의 랄랄라"
+        "lang:ko": "이명희의 랄랄라"
       },
       "id": "Q21059873",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "강감창"
+        "lang:ko": "강감창"
       },
       "id": "Q21824767",
       "identifiers": [
@@ -35,7 +35,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이정훈"
+        "lang:ko": "이정훈"
       },
       "id": "Q50809802",
       "identifiers": [
@@ -50,7 +50,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "송재형"
+        "lang:ko": "송재형"
       },
       "id": "Q50809805",
       "identifiers": [
@@ -65,7 +65,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "양준욱"
+        "lang:ko": "양준욱"
       },
       "id": "Q50809808",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박호근"
+        "lang:ko": "박호근"
       },
       "id": "Q50809827",
       "identifiers": [
@@ -95,7 +95,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "주찬식"
+        "lang:ko": "주찬식"
       },
       "id": "Q50809829",
       "identifiers": [
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "남창진"
+        "lang:ko": "남창진"
       },
       "id": "Q50809831",
       "identifiers": [
@@ -125,7 +125,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "진두생"
+        "lang:ko": "진두생"
       },
       "id": "Q50809833",
       "identifiers": [
@@ -140,7 +140,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김영한"
+        "lang:ko": "김영한"
       },
       "id": "Q50809865",
       "identifiers": [
@@ -155,7 +155,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최조웅"
+        "lang:ko": "최조웅"
       },
       "id": "Q50809866",
       "identifiers": [
@@ -172,8 +172,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "서울특별시의회",
-        "lang:en_US": "Seoul municipal council"
+        "lang:ko": "서울특별시의회",
+        "lang:en": "Seoul municipal council"
       },
       "id": "Q12601388",
       "classification": "branch",
@@ -190,8 +190,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -204,8 +204,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -234,8 +234,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성동구제1선거구"
@@ -258,8 +258,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제1선거구"
@@ -282,8 +282,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "양천구제1선거구"
@@ -306,8 +306,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제6선거구"
@@ -330,8 +330,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "도봉구제1선거구"
@@ -354,8 +354,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강남구제4선거구"
@@ -378,8 +378,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동작구제1선거구"
@@ -402,8 +402,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "은평구제1선거구"
@@ -426,8 +426,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제4선거구"
@@ -450,8 +450,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "영등포구제3선거구"
@@ -474,8 +474,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강남구제1선거구"
@@ -498,8 +498,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서초구제4선거구"
@@ -522,8 +522,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제2선거구"
@@ -546,8 +546,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성북구제2선거구"
@@ -570,8 +570,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "구로구제4선거구"
@@ -594,8 +594,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성북구제4선거구"
@@ -618,8 +618,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제2선거구"
@@ -642,8 +642,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강북구제4선거구"
@@ -666,8 +666,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "마포구제2선거구"
@@ -690,8 +690,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제1선거구"
@@ -714,8 +714,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중랑구제1선거구"
@@ -738,8 +738,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중랑구제2선거구"
@@ -762,8 +762,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "구로구제1선거구"
@@ -786,8 +786,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강서구제1선거구"
@@ -810,8 +810,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "구로구제3선거구"
@@ -834,8 +834,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강남구제2선거구"
@@ -858,8 +858,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서대문구제2선거구"
@@ -882,8 +882,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강남구제3선거구"
@@ -906,8 +906,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동작구제3선거구"
@@ -930,8 +930,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "관악구제2선거구"
@@ -954,8 +954,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "은평구제3선거구"
@@ -978,8 +978,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서초구제3선거구"
@@ -1002,8 +1002,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중구제2선거구"
@@ -1026,8 +1026,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성동구제3선거구"
@@ -1050,8 +1050,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제3선거구"
@@ -1074,8 +1074,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제5선거구"
@@ -1098,8 +1098,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "광진구제1선거구"
@@ -1122,8 +1122,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중구제1선거구"
@@ -1146,8 +1146,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동대문구제3선거구"
@@ -1170,8 +1170,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제6선거구"
@@ -1194,8 +1194,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "용산구제1선거구"
@@ -1218,8 +1218,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강서구제3선거구"
@@ -1242,8 +1242,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "은평구제2선거구"
@@ -1266,8 +1266,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "송파구제3선거구"
@@ -1290,8 +1290,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강동구제3선거구"
@@ -1314,8 +1314,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "금천구제1선거구"
@@ -1338,8 +1338,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강북구제2선거구"
@@ -1362,8 +1362,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서대문구제3선거구"
@@ -1386,8 +1386,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강동구제1선거구"
@@ -1410,8 +1410,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "종로구제2선거구"
@@ -1434,8 +1434,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강동구제2선거구"
@@ -1458,8 +1458,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강북구제3선거구"
@@ -1482,8 +1482,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "도봉구제2선거구"
@@ -1506,8 +1506,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동작구제4선거구"
@@ -1530,8 +1530,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "광진구제3선거구"
@@ -1554,8 +1554,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성동구제4선거구"
@@ -1578,8 +1578,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "광진구제2선거구"
@@ -1602,8 +1602,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서대문구제4선거구"
@@ -1626,8 +1626,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서초구제2선거구"
@@ -1650,8 +1650,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "영등포구제4선거구"
@@ -1674,8 +1674,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강서구제4선거구"
@@ -1698,8 +1698,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성동구제2선거구"
@@ -1722,8 +1722,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동대문구제1선거구"
@@ -1746,8 +1746,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중랑구제4선거구"
@@ -1770,8 +1770,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "중랑구제3선거구"
@@ -1794,8 +1794,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "마포구제3선거구"
@@ -1818,8 +1818,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성북구제3선거구"
@@ -1842,8 +1842,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "관악구제4선거구"
@@ -1866,8 +1866,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동대문구제2선거구"
@@ -1890,8 +1890,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "광진구제4선거구"
@@ -1914,8 +1914,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "구로구제2선거구"
@@ -1938,8 +1938,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강동구제4선거구"
@@ -1962,8 +1962,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "관악구제3선거구"
@@ -1986,8 +1986,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제4선거구"
@@ -2010,8 +2010,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "양천구제2선거구"
@@ -2034,8 +2034,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서초구제1선거구"
@@ -2058,8 +2058,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "영등포구제2선거구"
@@ -2082,8 +2082,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "금천구제2선거구"
@@ -2106,8 +2106,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "성북구제1선거구"
@@ -2130,8 +2130,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "은평구제4선거구"
@@ -2154,8 +2154,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "영등포구제1선거구"
@@ -2178,8 +2178,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "관악구제1선거구"
@@ -2202,8 +2202,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동대문구제4선거구"
@@ -2226,8 +2226,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "마포구제1선거구"
@@ -2250,8 +2250,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "마포구제4선거구"
@@ -2274,8 +2274,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "종로구제1선거구"
@@ -2298,8 +2298,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "양천구제4선거구"
@@ -2322,8 +2322,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "양천구제3선거구"
@@ -2346,8 +2346,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "노원구제5선거구"
@@ -2370,8 +2370,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "용산구제2선거구"
@@ -2394,8 +2394,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "도봉구제4선거구"
@@ -2418,8 +2418,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "동작구제2선거구"
@@ -2442,8 +2442,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서대문구제1선거구"
@@ -2466,8 +2466,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강서구제2선거구"
@@ -2490,8 +2490,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "강북구제1선거구"
@@ -2514,8 +2514,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "도봉구제3선거구"
@@ -2538,8 +2538,8 @@
         "Q50257366"
       ],
       "type": {
-        "lang:ko_KR": "서울특별시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Seoul"
+        "lang:ko": "서울특별시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Seoul"
       },
       "name": {
         "lang:ko_KR": "서울특별시 비례대표 선거구"
@@ -2562,8 +2562,8 @@
         "Q488289"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 특별시",
-        "lang:en_US": "special city of South Korea"
+        "lang:ko": "대한민국의 특별시",
+        "lang:en": "special city of South Korea"
       },
       "name": {
         "lang:en_US": "Seoul",
@@ -2587,7 +2587,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -2606,13 +2606,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2624,13 +2624,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2642,13 +2642,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2660,13 +2660,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2678,13 +2678,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2696,13 +2696,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2714,13 +2714,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2732,13 +2732,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2750,13 +2750,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2768,13 +2768,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     },
     {
@@ -2786,13 +2786,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50257366",
       "role": {
-        "lang:ko_KR": "서울특별시의원동정",
-        "lang:en_US": "Seoul councilor"
+        "lang:ko": "서울특별시의원동정",
+        "lang:en": "Seoul councilor"
       }
     }
   ]

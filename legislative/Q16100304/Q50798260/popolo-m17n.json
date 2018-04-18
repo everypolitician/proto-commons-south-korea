@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "정영수"
+        "lang:ko": "정영수"
       },
       "id": "Q16907607",
       "identifiers": [
@@ -17,8 +17,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박병진",
-        "lang:en_US": "B. J. Pak"
+        "lang:ko": "박병진",
+        "lang:en": "B. J. Pak"
       },
       "id": "Q28840361",
       "identifiers": [
@@ -33,7 +33,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "윤은희"
+        "lang:ko": "윤은희"
       },
       "id": "Q50809217",
       "identifiers": [
@@ -48,7 +48,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김봉회"
+        "lang:ko": "김봉회"
       },
       "id": "Q50809399",
       "identifiers": [
@@ -63,7 +63,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "임회무"
+        "lang:ko": "임회무"
       },
       "id": "Q50809401",
       "identifiers": [
@@ -78,7 +78,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이양섭"
+        "lang:ko": "이양섭"
       },
       "id": "Q50809404",
       "identifiers": [
@@ -93,7 +93,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최병윤"
+        "lang:ko": "최병윤"
       },
       "id": "Q50809405",
       "identifiers": [
@@ -108,7 +108,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이광진"
+        "lang:ko": "이광진"
       },
       "id": "Q50809422",
       "identifiers": [
@@ -123,7 +123,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박한범"
+        "lang:ko": "박한범"
       },
       "id": "Q50809424",
       "identifiers": [
@@ -138,7 +138,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "황규철"
+        "lang:ko": "황규철"
       },
       "id": "Q50809426",
       "identifiers": [
@@ -153,7 +153,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김인수"
+        "lang:ko": "김인수"
       },
       "id": "Q50809435",
       "identifiers": [
@@ -170,8 +170,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "충청북도의회",
-        "lang:en_US": "North Chungcheong Province municipal council"
+        "lang:ko": "충청북도의회",
+        "lang:en": "North Chungcheong Province municipal council"
       },
       "id": "Q16100304",
       "classification": "branch",
@@ -188,8 +188,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -202,8 +202,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -232,8 +232,8 @@
         "Q50619326"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Chungcheongbuk-do",
@@ -257,8 +257,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제2선거구"
@@ -281,8 +281,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "옥천군제1선거구"
@@ -305,8 +305,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "괴산군선거구"
@@ -329,8 +329,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제1선거구"
@@ -353,8 +353,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "증평군선거구"
@@ -377,8 +377,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "충주시제2선거구"
@@ -401,8 +401,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "충주시제1선거구"
@@ -425,8 +425,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "진천군제2선거구"
@@ -449,8 +449,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제9선거구"
@@ -473,8 +473,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "영동군제2선거구"
@@ -497,8 +497,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제3선거구"
@@ -521,8 +521,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "진천군제1선거구"
@@ -545,8 +545,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "단양군선거구"
@@ -569,8 +569,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "음성군제1선거구"
@@ -593,8 +593,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제10선거구"
@@ -617,8 +617,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제6선거구"
@@ -641,8 +641,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제8선거구"
@@ -665,8 +665,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제11선거구"
@@ -689,8 +689,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제4선거구"
@@ -713,8 +713,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "제천시제2선거구"
@@ -737,8 +737,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "음성군제2선거구"
@@ -761,8 +761,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "영동군제1선거구"
@@ -785,8 +785,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "충주시제3선거구"
@@ -809,8 +809,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제7선거구"
@@ -833,8 +833,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "옥천군제2선거구"
@@ -857,8 +857,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "제천시제1선거구"
@@ -881,8 +881,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "보은군선거구"
@@ -905,8 +905,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "청주시제5선거구"
@@ -929,8 +929,8 @@
         "Q50559246"
       ],
       "type": {
-        "lang:ko_KR": "충청북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Chungcheong Province"
+        "lang:ko": "충청북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Chungcheong Province"
       },
       "name": {
         "lang:ko_KR": "충청북도 비례대표 선거구"
@@ -953,7 +953,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -972,13 +972,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -990,13 +990,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1008,13 +1008,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1026,13 +1026,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1044,13 +1044,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1062,13 +1062,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1080,13 +1080,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1098,13 +1098,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1116,13 +1116,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1134,13 +1134,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     },
     {
@@ -1152,13 +1152,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559246",
       "role": {
-        "lang:ko_KR": "충청북도의원동정",
-        "lang:en_US": "North Chungcheong Province councilor"
+        "lang:ko": "충청북도의원동정",
+        "lang:en": "North Chungcheong Province councilor"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "남경필",
-        "lang:en_US": "Nam Kyung-pil"
+        "lang:ko": "남경필",
+        "lang:en": "Nam Kyung-pil"
       },
       "id": "Q12589755",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "경기도청",
-        "lang:en_US": "Gyeonggi Provincial Govenment"
+        "lang:ko": "경기도청",
+        "lang:en": "Gyeonggi Provincial Govenment"
       },
       "id": "Q12583547",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q12583545"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Gyeonggi-do",
@@ -93,7 +93,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -112,13 +112,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q12583545",
       "role_superclass": {
-        "lang:ko_KR": "경기도지사",
-        "lang:en_US": "Governor of Gyeonggi Province"
+        "lang:ko": "경기도지사",
+        "lang:en": "Governor of Gyeonggi Province"
       },
       "role_code": "Q12583545",
       "role": {
-        "lang:ko_KR": "경기도지사",
-        "lang:en_US": "Governor of Gyeonggi Province"
+        "lang:ko": "경기도지사",
+        "lang:en": "Governor of Gyeonggi Province"
       }
     }
   ]

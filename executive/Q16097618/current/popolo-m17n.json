@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "서병수",
-        "lang:en_US": "Suh Byung-soo"
+        "lang:ko": "서병수",
+        "lang:en": "Suh Byung-soo"
       },
       "id": "Q16083277",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "부산광역시청",
-        "lang:en_US": "Busan Metropolitan Government"
+        "lang:ko": "부산광역시청",
+        "lang:en": "Busan Metropolitan Government"
       },
       "id": "Q16097618",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q50265926"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Busan",
@@ -93,7 +93,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -112,13 +112,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q50265926",
       "role_superclass": {
-        "lang:ko_KR": "부산광역시장",
-        "lang:en_US": "Mayors of Busan"
+        "lang:ko": "부산광역시장",
+        "lang:en": "Mayors of Busan"
       },
       "role_code": "Q50265926",
       "role": {
-        "lang:ko_KR": "부산광역시장",
-        "lang:en_US": "Mayors of Busan"
+        "lang:ko": "부산광역시장",
+        "lang:en": "Mayors of Busan"
       }
     }
   ]

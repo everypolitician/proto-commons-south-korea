@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "박원순",
-        "lang:en_US": "Park Won-soon"
+        "lang:ko": "박원순",
+        "lang:en": "Park Won-soon"
       },
       "id": "Q22803",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "서울특별시청",
-        "lang:en_US": "Seoul Metropolitan Government"
+        "lang:ko": "서울특별시청",
+        "lang:en": "Seoul Metropolitan Government"
       },
       "id": "Q623789",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q488289"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 특별시",
-        "lang:en_US": "special city of South Korea"
+        "lang:ko": "대한민국의 특별시",
+        "lang:en": "special city of South Korea"
       },
       "name": {
         "lang:en_US": "Seoul",
@@ -93,7 +93,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -112,13 +112,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q488289",
       "role_superclass": {
-        "lang:ko_KR": "서울특별시장",
-        "lang:en_US": "Mayor of Seoul"
+        "lang:ko": "서울특별시장",
+        "lang:en": "Mayor of Seoul"
       },
       "role_code": "Q488289",
       "role": {
-        "lang:ko_KR": "서울특별시장",
-        "lang:en_US": "Mayor of Seoul"
+        "lang:ko": "서울특별시장",
+        "lang:en": "Mayor of Seoul"
       }
     }
   ]

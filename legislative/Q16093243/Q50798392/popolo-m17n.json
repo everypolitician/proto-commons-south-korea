@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "김동일"
+        "lang:ko": "김동일"
       },
       "id": "Q50809438",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "한금석"
+        "lang:ko": "한금석"
       },
       "id": "Q50809440",
       "identifiers": [
@@ -32,7 +32,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이기찬"
+        "lang:ko": "이기찬"
       },
       "id": "Q50809442",
       "identifiers": [
@@ -47,7 +47,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "장세국"
+        "lang:ko": "장세국"
       },
       "id": "Q50809443",
       "identifiers": [
@@ -62,7 +62,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박현창"
+        "lang:ko": "박현창"
       },
       "id": "Q50809444",
       "identifiers": [
@@ -77,7 +77,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "곽영승"
+        "lang:ko": "곽영승"
       },
       "id": "Q50809448",
       "identifiers": [
@@ -92,7 +92,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최명서"
+        "lang:ko": "최명서"
       },
       "id": "Q50809453",
       "identifiers": [
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "권석주"
+        "lang:ko": "권석주"
       },
       "id": "Q50809455",
       "identifiers": [
@@ -125,7 +125,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "진기엽"
+        "lang:ko": "진기엽"
       },
       "id": "Q50809458",
       "identifiers": [
@@ -143,7 +143,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "함종국"
+        "lang:ko": "함종국"
       },
       "id": "Q50809460",
       "identifiers": [
@@ -161,7 +161,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "유정선"
+        "lang:ko": "유정선"
       },
       "id": "Q50809887",
       "identifiers": [
@@ -178,8 +178,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "강원도의회",
-        "lang:en_US": "Gangwon Province municipal council"
+        "lang:ko": "강원도의회",
+        "lang:en": "Gangwon Province municipal council"
       },
       "id": "Q16093243",
       "classification": "branch",
@@ -196,8 +196,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -210,8 +210,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -240,8 +240,8 @@
         "Q12583022"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Gangwon-do",
@@ -265,8 +265,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "횡성군제2선거구"
@@ -289,8 +289,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "평창군제2선거구"
@@ -313,8 +313,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "춘천시제4선거구"
@@ -337,8 +337,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "평창군제1선거구"
@@ -361,8 +361,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "동해시제2선거구"
@@ -385,8 +385,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "강릉시제3선거구"
@@ -409,8 +409,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "강릉시제1선거구"
@@ -433,8 +433,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제5선거구"
@@ -457,8 +457,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제4선거구"
@@ -481,8 +481,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "홍천군제1선거구"
@@ -505,8 +505,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제3선거구"
@@ -529,8 +529,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제2선거구"
@@ -553,8 +553,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "태백시제1선거구"
@@ -577,8 +577,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "양구군선거구"
@@ -601,8 +601,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "철원군제2선거구"
@@ -625,8 +625,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "고성군선거구"
@@ -649,8 +649,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "태백시제2선거구"
@@ -673,8 +673,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "정선군제2선거구"
@@ -697,8 +697,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "속초시제1선거구"
@@ -721,8 +721,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "삼척시제1선거구"
@@ -745,8 +745,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "속초시제2선거구"
@@ -769,8 +769,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "춘천시제3선거구"
@@ -793,8 +793,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "강릉시제4선거구"
@@ -817,8 +817,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "정선군제1선거구"
@@ -841,8 +841,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "춘천시제1선거구"
@@ -865,8 +865,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "홍천군제2선거구"
@@ -889,8 +889,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "횡성군제1선거구"
@@ -913,8 +913,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "화천군선거구"
@@ -937,8 +937,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제6선거구"
@@ -961,8 +961,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "삼척시제2선거구"
@@ -985,8 +985,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "영월군제1선거구"
@@ -1009,8 +1009,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "영월군제2선거구"
@@ -1033,8 +1033,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "동해시제1선거구"
@@ -1057,8 +1057,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "춘천시제5선거구"
@@ -1081,8 +1081,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "양양군선거구"
@@ -1105,8 +1105,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "원주시제1선거구"
@@ -1129,8 +1129,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "인제군선거구"
@@ -1153,8 +1153,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "철원군제1선거구"
@@ -1177,8 +1177,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "강릉시제2선거구"
@@ -1201,8 +1201,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "춘천시제2선거구"
@@ -1225,8 +1225,8 @@
         "Q50559021"
       ],
       "type": {
-        "lang:ko_KR": "강원도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gangwon Province"
+        "lang:ko": "강원도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
         "lang:ko_KR": "강원도 비례대표 선거구"
@@ -1249,7 +1249,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -1268,13 +1268,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1286,13 +1286,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1304,13 +1304,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1322,13 +1322,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1340,13 +1340,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1358,13 +1358,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1376,13 +1376,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1394,13 +1394,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1412,13 +1412,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1430,13 +1430,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     },
     {
@@ -1448,13 +1448,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559021",
       "role": {
-        "lang:ko_KR": "강원도의원동정",
-        "lang:en_US": "Gangwon Province councilor"
+        "lang:ko": "강원도의원동정",
+        "lang:en": "Gangwon Province councilor"
       }
     }
   ]

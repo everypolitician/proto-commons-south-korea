@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "이도형"
+        "lang:ko": "이도형"
       },
       "id": "Q21710270",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김경선"
+        "lang:ko": "김경선"
       },
       "id": "Q50809554",
       "identifiers": [
@@ -32,7 +32,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "안영수"
+        "lang:ko": "안영수"
       },
       "id": "Q50809561",
       "identifiers": [
@@ -47,7 +47,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김진규"
+        "lang:ko": "김진규"
       },
       "id": "Q50809578",
       "identifiers": [
@@ -62,7 +62,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "구재용"
+        "lang:ko": "구재용"
       },
       "id": "Q50809589",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박승희"
+        "lang:ko": "박승희"
       },
       "id": "Q50809600",
       "identifiers": [
@@ -95,7 +95,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조계자"
+        "lang:ko": "조계자"
       },
       "id": "Q50809611",
       "identifiers": [
@@ -110,7 +110,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이용범"
+        "lang:ko": "이용범"
       },
       "id": "Q50809616",
       "identifiers": [
@@ -128,7 +128,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이한구"
+        "lang:ko": "이한구"
       },
       "id": "Q50809623",
       "identifiers": [
@@ -146,7 +146,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박영애"
+        "lang:ko": "박영애"
       },
       "id": "Q50809875",
       "identifiers": [
@@ -161,7 +161,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최석정"
+        "lang:ko": "최석정"
       },
       "id": "Q50810324",
       "identifiers": [
@@ -181,8 +181,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "인천광역시의회",
-        "lang:en_US": "Incheon municipal council"
+        "lang:ko": "인천광역시의회",
+        "lang:en": "Incheon municipal council"
       },
       "id": "Q16099448",
       "classification": "branch",
@@ -199,8 +199,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -213,8 +213,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -243,8 +243,8 @@
         "Q50617475"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Incheon",
@@ -268,8 +268,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "계양구제4선거구"
@@ -292,8 +292,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "부평구제4선거구"
@@ -316,8 +316,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "동구제2선거구"
@@ -340,8 +340,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "중구제1선거구"
@@ -364,8 +364,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남동구제5선거구"
@@ -388,8 +388,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "부평구제2선거구"
@@ -412,8 +412,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "계양구제1선거구"
@@ -436,8 +436,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남구제4선거구"
@@ -460,8 +460,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "부평구제5선거구"
@@ -484,8 +484,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "서구제3선거구"
@@ -508,8 +508,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남동구제2선거구"
@@ -532,8 +532,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "연수구제2선거구"
@@ -556,8 +556,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "동구제1선거구"
@@ -580,8 +580,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "강화군선거구"
@@ -604,8 +604,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남구제3선거구"
@@ -628,8 +628,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "연수구제1선거구"
@@ -652,8 +652,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "옹진군선거구"
@@ -676,8 +676,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남동구제1선거구"
@@ -700,8 +700,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남구제1선거구"
@@ -724,8 +724,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남동구제3선거구"
@@ -748,8 +748,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "중구제2선거구"
@@ -772,8 +772,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "부평구제1선거구"
@@ -796,8 +796,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "부평구제3선거구"
@@ -820,8 +820,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "서구제2선거구"
@@ -844,8 +844,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "서구제4선거구"
@@ -868,8 +868,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "서구제1선거구"
@@ -892,8 +892,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "계양구제2선거구"
@@ -916,8 +916,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남동구제4선거구"
@@ -940,8 +940,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "연수구제3선거구"
@@ -964,8 +964,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "계양구제3선거구"
@@ -988,8 +988,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "남구제2선거구"
@@ -1012,8 +1012,8 @@
         "Q50559472"
       ],
       "type": {
-        "lang:ko_KR": "인천광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Incheon"
+        "lang:ko": "인천광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Incheon"
       },
       "name": {
         "lang:ko_KR": "인천광역시 비례대표 선거구"
@@ -1036,7 +1036,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -1055,13 +1055,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1073,13 +1073,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1091,13 +1091,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1109,13 +1109,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1127,13 +1127,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1145,13 +1145,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1163,13 +1163,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1181,13 +1181,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1199,13 +1199,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1217,13 +1217,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     },
     {
@@ -1235,13 +1235,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559472",
       "role": {
-        "lang:ko_KR": "인천광역시의원동정",
-        "lang:en_US": "Incheon councilor"
+        "lang:ko": "인천광역시의원동정",
+        "lang:en": "Incheon councilor"
       }
     }
   ]

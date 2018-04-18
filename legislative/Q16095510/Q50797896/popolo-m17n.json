@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "박혜련",
-        "lang:en_US": "Park Hye-ryun"
+        "lang:ko": "박혜련",
+        "lang:en": "Park Hye-ryun"
       },
       "id": "Q17238174",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최선희",
-        "lang:en_US": "Choe Son Hui"
+        "lang:ko": "최선희",
+        "lang:en": "Choe Son Hui"
       },
       "id": "Q30436217",
       "identifiers": [
@@ -34,7 +34,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박희진"
+        "lang:ko": "박희진"
       },
       "id": "Q50809507",
       "identifiers": [
@@ -52,7 +52,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "심현영"
+        "lang:ko": "심현영"
       },
       "id": "Q50809508",
       "identifiers": [
@@ -67,7 +67,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박병철"
+        "lang:ko": "박병철"
       },
       "id": "Q50809509",
       "identifiers": [
@@ -85,7 +85,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "송대윤"
+        "lang:ko": "송대윤"
       },
       "id": "Q50809512",
       "identifiers": [
@@ -103,7 +103,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김동섭"
+        "lang:ko": "김동섭"
       },
       "id": "Q50809513",
       "identifiers": [
@@ -121,7 +121,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "정기현"
+        "lang:ko": "정기현"
       },
       "id": "Q50809515",
       "identifiers": [
@@ -136,7 +136,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조원휘"
+        "lang:ko": "조원휘"
       },
       "id": "Q50809516",
       "identifiers": [
@@ -151,7 +151,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김경시"
+        "lang:ko": "김경시"
       },
       "id": "Q50809524",
       "identifiers": [
@@ -169,7 +169,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김인식"
+        "lang:ko": "김인식"
       },
       "id": "Q50809528",
       "identifiers": [
@@ -186,8 +186,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "대전광역시의회",
-        "lang:en_US": "Daejeon municipal council"
+        "lang:ko": "대전광역시의회",
+        "lang:en": "Daejeon municipal council"
       },
       "id": "Q16095510",
       "classification": "branch",
@@ -204,8 +204,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -218,8 +218,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -248,8 +248,8 @@
         "Q50615886"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Daejeon",
@@ -273,8 +273,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "동구제2선거구"
@@ -297,8 +297,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "중구제1선거구"
@@ -321,8 +321,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제6선거구"
@@ -345,8 +345,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "대덕구제3선거구"
@@ -369,8 +369,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "유성구제1선거구"
@@ -393,8 +393,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "유성구제2선거구"
@@ -417,8 +417,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제2선거구"
@@ -441,8 +441,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "대덕구제2선거구"
@@ -465,8 +465,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "동구제1선거구"
@@ -489,8 +489,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "중구제3선거구"
@@ -513,8 +513,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "동구제3선거구"
@@ -537,8 +537,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제1선거구"
@@ -561,8 +561,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제3선거구"
@@ -585,8 +585,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "대덕구제1선거구"
@@ -609,8 +609,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "유성구제3선거구"
@@ -633,8 +633,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "유성구제4선거구"
@@ -657,8 +657,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제5선거구"
@@ -681,8 +681,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "서구제4선거구"
@@ -705,8 +705,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "중구제2선거구"
@@ -729,8 +729,8 @@
         "Q50559446"
       ],
       "type": {
-        "lang:ko_KR": "대전광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daejeon"
+        "lang:ko": "대전광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
         "lang:ko_KR": "대전광역시 비례대표 선거구"
@@ -753,7 +753,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -772,13 +772,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -790,13 +790,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -808,13 +808,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -826,13 +826,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -844,13 +844,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -862,13 +862,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -880,13 +880,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -898,13 +898,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -916,13 +916,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -934,13 +934,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     },
     {
@@ -952,13 +952,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559446",
       "role": {
-        "lang:ko_KR": "대전광역시의원동정",
-        "lang:en_US": "Daejeon councilor"
+        "lang:ko": "대전광역시의원동정",
+        "lang:en": "Daejeon councilor"
       }
     }
   ]
