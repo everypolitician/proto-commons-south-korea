@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "오철환"
+        "lang:ko": "오철환"
       },
       "id": "Q16090356",
       "identifiers": [
@@ -20,7 +20,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최재훈"
+        "lang:ko": "최재훈"
       },
       "id": "Q31178236",
       "identifiers": [
@@ -35,7 +35,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조성제"
+        "lang:ko": "조성제"
       },
       "id": "Q50809624",
       "identifiers": [
@@ -50,7 +50,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이귀화"
+        "lang:ko": "이귀화"
       },
       "id": "Q50809628",
       "identifiers": [
@@ -65,7 +65,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조홍철"
+        "lang:ko": "조홍철"
       },
       "id": "Q50809630",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김재관"
+        "lang:ko": "김재관"
       },
       "id": "Q50809631",
       "identifiers": [
@@ -95,7 +95,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박상태"
+        "lang:ko": "박상태"
       },
       "id": "Q50809761",
       "identifiers": [
@@ -113,7 +113,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김원구"
+        "lang:ko": "김원구"
       },
       "id": "Q50809762",
       "identifiers": [
@@ -128,7 +128,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "배지숙"
+        "lang:ko": "배지숙"
       },
       "id": "Q50809764",
       "identifiers": [
@@ -146,7 +146,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "정순천"
+        "lang:ko": "정순천"
       },
       "id": "Q50809765",
       "identifiers": [
@@ -164,7 +164,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "차순자"
+        "lang:ko": "차순자"
       },
       "id": "Q50809872",
       "identifiers": [
@@ -184,8 +184,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "대구광역시의회",
-        "lang:en_US": "Daegu municipal council"
+        "lang:ko": "대구광역시의회",
+        "lang:en": "Daegu municipal council"
       },
       "id": "Q16095349",
       "classification": "branch",
@@ -202,8 +202,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -232,8 +232,8 @@
         "Q50614705"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Daegu",
@@ -257,8 +257,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "수성구제2선거구"
@@ -281,8 +281,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제4선거구"
@@ -305,8 +305,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "수성구제1선거구"
@@ -329,8 +329,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "중구제1선거구"
@@ -353,8 +353,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "북구제3선거구"
@@ -377,8 +377,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "수성구제3선거구"
@@ -401,8 +401,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "수성구제4선거구"
@@ -425,8 +425,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제6선거구"
@@ -449,8 +449,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "동구제1선거구"
@@ -473,8 +473,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제1선거구"
@@ -497,8 +497,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "북구제4선거구"
@@ -521,8 +521,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "중구제2선거구"
@@ -545,8 +545,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "동구제2선거구"
@@ -569,8 +569,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "남구제1선거구"
@@ -593,8 +593,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "북구제1선거구"
@@ -617,8 +617,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제2선거구"
@@ -641,8 +641,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "서구제2선거구"
@@ -665,8 +665,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제3선거구"
@@ -689,8 +689,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "북구제5선거구"
@@ -713,8 +713,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "동구제4선거구"
@@ -737,8 +737,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "서구제1선거구"
@@ -761,8 +761,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달성군제2선거구"
@@ -785,8 +785,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달서구제5선거구"
@@ -809,8 +809,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "달성군제1선거구"
@@ -833,8 +833,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "북구제2선거구"
@@ -857,8 +857,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "동구제3선거구"
@@ -881,8 +881,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "남구제2선거구"
@@ -905,8 +905,8 @@
         "Q50559494"
       ],
       "type": {
-        "lang:ko_KR": "대구광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Daegu"
+        "lang:ko": "대구광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
         "lang:ko_KR": "대구광역시 비례대표 선거구"
@@ -929,7 +929,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -948,13 +948,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -966,13 +966,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -984,13 +984,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1002,13 +1002,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1020,13 +1020,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1038,13 +1038,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1056,13 +1056,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1074,13 +1074,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1092,13 +1092,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1110,13 +1110,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     },
     {
@@ -1128,13 +1128,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559494",
       "role": {
-        "lang:ko_KR": "대구광역시의원동정",
-        "lang:en_US": "Daegu councilor"
+        "lang:ko": "대구광역시의원동정",
+        "lang:en": "Daegu councilor"
       }
     }
   ]

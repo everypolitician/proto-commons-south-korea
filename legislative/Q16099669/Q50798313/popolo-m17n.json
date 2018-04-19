@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "임흥빈"
+        "lang:ko": "임흥빈"
       },
       "id": "Q50809323",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "정연선"
+        "lang:ko": "정연선"
       },
       "id": "Q50809324",
       "identifiers": [
@@ -32,7 +32,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "임용수"
+        "lang:ko": "임용수"
       },
       "id": "Q50809330",
       "identifiers": [
@@ -47,7 +47,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "노종석"
+        "lang:ko": "노종석"
       },
       "id": "Q50809333",
       "identifiers": [
@@ -62,7 +62,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이동권"
+        "lang:ko": "이동권"
       },
       "id": "Q50809336",
       "identifiers": [
@@ -77,7 +77,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이장석"
+        "lang:ko": "이장석"
       },
       "id": "Q50809340",
       "identifiers": [
@@ -92,7 +92,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "양영복"
+        "lang:ko": "양영복"
       },
       "id": "Q50809341",
       "identifiers": [
@@ -107,7 +107,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "정영덕"
+        "lang:ko": "정영덕"
       },
       "id": "Q50809343",
       "identifiers": [
@@ -122,7 +122,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "우승희"
+        "lang:ko": "우승희"
       },
       "id": "Q50809344",
       "identifiers": [
@@ -137,7 +137,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김연일"
+        "lang:ko": "김연일"
       },
       "id": "Q50809346",
       "identifiers": [
@@ -152,7 +152,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "권애영"
+        "lang:ko": "권애영"
       },
       "id": "Q50809896",
       "identifiers": [
@@ -169,8 +169,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "전라남도의회",
-        "lang:en_US": "South Jeolla Province municipal council"
+        "lang:ko": "전라남도의회",
+        "lang:en": "South Jeolla Province municipal council"
       },
       "id": "Q16099669",
       "classification": "branch",
@@ -187,8 +187,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -201,8 +201,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -231,8 +231,8 @@
         "Q12615101"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Jeollanam-do",
@@ -256,8 +256,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "장흥군제1선거구"
@@ -280,8 +280,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "영광군제1선거구"
@@ -304,8 +304,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "광양시제2선거구"
@@ -328,8 +328,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "장성군제1선거구"
@@ -352,8 +352,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "목포시제1선거구"
@@ -376,8 +376,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "광양시제3선거구"
@@ -400,8 +400,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "화순군제1선거구"
@@ -424,8 +424,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "목포시제3선거구"
@@ -448,8 +448,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "나주시제2선거구"
@@ -472,8 +472,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제1선거구"
@@ -496,8 +496,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "장흥군제2선거구"
@@ -520,8 +520,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "영광군제2선거구"
@@ -544,8 +544,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "신안군제1선거구"
@@ -568,8 +568,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "목포시제5선거구"
@@ -592,8 +592,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "화순군제2선거구"
@@ -616,8 +616,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제2선거구"
@@ -640,8 +640,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "보성군제2선거구"
@@ -664,8 +664,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "함평군제1선거구"
@@ -688,8 +688,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "순천시제2선거구"
@@ -712,8 +712,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "순천시제3선거구"
@@ -736,8 +736,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "함평군제2선거구"
@@ -760,8 +760,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "곡성군선거구"
@@ -784,8 +784,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "목포시제4선거구"
@@ -808,8 +808,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "해남군제2선거구"
@@ -832,8 +832,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "고흥군제1선거구"
@@ -856,8 +856,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제4선거구"
@@ -880,8 +880,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "신안군제2선거구"
@@ -904,8 +904,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "무안군제2선거구"
@@ -928,8 +928,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "무안군제1선거구"
@@ -952,8 +952,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제6선거구"
@@ -976,8 +976,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "진도군선거구"
@@ -1000,8 +1000,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "완도군제1선거구"
@@ -1024,8 +1024,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "구례군선거구"
@@ -1048,8 +1048,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제5선거구"
@@ -1072,8 +1072,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "담양군제2선거구"
@@ -1096,8 +1096,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "해남군제1선거구"
@@ -1120,8 +1120,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "순천시제1선거구"
@@ -1144,8 +1144,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "순천시제5선거구"
@@ -1168,8 +1168,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "강진군제1선거구"
@@ -1192,8 +1192,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "담양군제1선거구"
@@ -1216,8 +1216,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "영암군제1선거구"
@@ -1240,8 +1240,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "나주시제1선거구"
@@ -1264,8 +1264,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "여수시제3선거구"
@@ -1288,8 +1288,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "강진군제2선거구"
@@ -1312,8 +1312,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "목포시제2선거구"
@@ -1336,8 +1336,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "보성군제1선거구"
@@ -1360,8 +1360,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "영암군제2선거구"
@@ -1384,8 +1384,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "장성군제2선거구"
@@ -1408,8 +1408,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "고흥군제2선거구"
@@ -1432,8 +1432,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "광양시제1선거구"
@@ -1456,8 +1456,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "순천시제4선거구"
@@ -1480,8 +1480,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "완도군제2선거구"
@@ -1504,8 +1504,8 @@
         "Q50559426"
       ],
       "type": {
-        "lang:ko_KR": "전라남도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of South Jeolla Province"
+        "lang:ko": "전라남도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
         "lang:ko_KR": "전라남도 비례대표 선거구"
@@ -1528,7 +1528,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -1547,13 +1547,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1565,13 +1565,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1583,13 +1583,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1601,13 +1601,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1619,13 +1619,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1637,13 +1637,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1654,13 +1654,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1672,13 +1672,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1690,13 +1690,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1708,13 +1708,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     },
     {
@@ -1726,13 +1726,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559426",
       "role": {
-        "lang:ko_KR": "전라남도의원동정",
-        "lang:en_US": "South Jeolla Province councilor"
+        "lang:ko": "전라남도의원동정",
+        "lang:en": "South Jeolla Province councilor"
       }
     }
   ]

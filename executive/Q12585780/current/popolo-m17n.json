@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "문재인",
-        "lang:en_US": "Moon Jae-in"
+        "lang:ko": "문재인",
+        "lang:en": "Moon Jae-in"
       },
       "id": "Q21001",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "국무회의",
-        "lang:en_US": "State Council of South Korea"
+        "lang:ko": "국무회의",
+        "lang:en": "State Council of South Korea"
       },
       "id": "Q12585780",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -68,7 +68,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -87,13 +87,13 @@
       "start_date": "2017-05-10",
       "role_superclass_code": "Q6296418",
       "role_superclass": {
-        "lang:ko_KR": "대한민국의 대통령",
-        "lang:en_US": "President of South Korea"
+        "lang:ko": "대한민국의 대통령",
+        "lang:en": "President of South Korea"
       },
       "role_code": "Q6296418",
       "role": {
-        "lang:ko_KR": "대한민국의 대통령",
-        "lang:en_US": "President of South Korea"
+        "lang:ko": "대한민국의 대통령",
+        "lang:en": "President of South Korea"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "이춘희 (1955년)",
-        "lang:en_US": "Lee Chunhee"
+        "lang:ko": "이춘희 (1955년)",
+        "lang:en": "Lee Chunhee"
       },
       "id": "Q12612939",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "세종특별자치시청",
-        "lang:en_US": "Sejong Special City Government"
+        "lang:ko": "세종특별자치시청",
+        "lang:en": "Sejong Special City Government"
       },
       "id": "Q16097915",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -68,8 +68,8 @@
         "Q50274663"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 특별자치시",
-        "lang:en_US": "special autonomous city in South Korea"
+        "lang:ko": "대한민국의 특별자치시",
+        "lang:en": "special autonomous city in South Korea"
       },
       "name": {
         "lang:en_US": "Sejong Special Self-Governing City",
@@ -93,7 +93,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -112,13 +112,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q50274663",
       "role_superclass": {
-        "lang:ko_KR": "세종특별자치시시장",
-        "lang:en_US": "Mayor of Sejong City"
+        "lang:ko": "세종특별자치시시장",
+        "lang:en": "Mayor of Sejong City"
       },
       "role_code": "Q50274663",
       "role": {
-        "lang:ko_KR": "세종특별자치시시장",
-        "lang:en_US": "Mayor of Sejong City"
+        "lang:ko": "세종특별자치시시장",
+        "lang:en": "Mayor of Sejong City"
       }
     }
   ]

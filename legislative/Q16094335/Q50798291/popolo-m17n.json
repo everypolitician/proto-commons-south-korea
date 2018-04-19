@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "반재신"
+        "lang:ko": "반재신"
       },
       "id": "Q50277134",
       "identifiers": [
@@ -20,7 +20,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조오섭"
+        "lang:ko": "조오섭"
       },
       "id": "Q50277387",
       "identifiers": [
@@ -38,7 +38,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "문상필"
+        "lang:ko": "문상필"
       },
       "id": "Q50277603",
       "identifiers": [
@@ -56,7 +56,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "전진숙"
+        "lang:ko": "전진숙"
       },
       "id": "Q50277742",
       "identifiers": [
@@ -74,7 +74,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김동찬"
+        "lang:ko": "김동찬"
       },
       "id": "Q50277958",
       "identifiers": [
@@ -89,7 +89,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이정현"
+        "lang:ko": "이정현"
       },
       "id": "Q50809535",
       "identifiers": [
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "문태환"
+        "lang:ko": "문태환"
       },
       "id": "Q50809537",
       "identifiers": [
@@ -119,7 +119,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김옥자"
+        "lang:ko": "김옥자"
       },
       "id": "Q50809541",
       "identifiers": [
@@ -134,7 +134,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김민종"
+        "lang:ko": "김민종"
       },
       "id": "Q50809542",
       "identifiers": [
@@ -149,7 +149,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이은방"
+        "lang:ko": "이은방"
       },
       "id": "Q50809547",
       "identifiers": [
@@ -164,7 +164,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "서미정"
+        "lang:ko": "서미정"
       },
       "id": "Q50809879",
       "identifiers": [
@@ -181,8 +181,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "광주광역시의회",
-        "lang:en_US": "Gwangju municipal council"
+        "lang:ko": "광주광역시의회",
+        "lang:en": "Gwangju municipal council"
       },
       "id": "Q16094335",
       "classification": "branch",
@@ -199,8 +199,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -229,8 +229,8 @@
         "Q50616327"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Gwangju",
@@ -254,8 +254,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "북구제1선거구"
@@ -278,8 +278,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "북구제2선거구"
@@ -302,8 +302,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "북구제3선거구"
@@ -326,8 +326,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "북구제4선거구"
@@ -350,8 +350,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광주광역시북구제5선거구"
@@ -374,8 +374,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "동구제2선거구"
@@ -398,8 +398,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "남구제1선거구"
@@ -422,8 +422,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광산구제3선거구"
@@ -446,8 +446,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "동구제1선거구"
@@ -470,8 +470,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광산구제1선거구"
@@ -494,8 +494,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "남구제3선거구"
@@ -518,8 +518,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "서구제1선거구"
@@ -542,8 +542,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "서구제3선거구"
@@ -566,8 +566,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "서구제4선거구"
@@ -590,8 +590,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "서구제2선거구"
@@ -614,8 +614,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광산구제2선거구"
@@ -638,8 +638,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "북구제6선거구"
@@ -662,8 +662,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "남구제2선거구"
@@ -686,8 +686,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광산구제4선거구"
@@ -710,8 +710,8 @@
         "Q50277114"
       ],
       "type": {
-        "lang:ko_KR": "광주광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gwangju"
+        "lang:ko": "광주광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gwangju"
       },
       "name": {
         "lang:ko_KR": "광주광역시 비례대표 선거구"
@@ -734,7 +734,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -753,13 +753,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -771,13 +771,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -789,13 +789,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -807,13 +807,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -825,13 +825,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -843,13 +843,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -861,13 +861,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -879,13 +879,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -897,13 +897,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -915,13 +915,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     },
     {
@@ -933,13 +933,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50277114",
       "role": {
-        "lang:ko_KR": "광주광역시의원동정",
-        "lang:en_US": "Gwangju councilor"
+        "lang:ko": "광주광역시의원동정",
+        "lang:en": "Gwangju councilor"
       }
     }
   ]

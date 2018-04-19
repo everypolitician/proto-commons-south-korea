@@ -22,8 +22,8 @@
         "Q50616327"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Gwangju",
@@ -47,7 +47,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",

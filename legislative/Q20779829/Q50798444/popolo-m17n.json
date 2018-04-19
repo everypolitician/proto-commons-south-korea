@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "오구환"
+        "lang:ko": "오구환"
       },
       "id": "Q31177041",
       "identifiers": [
@@ -20,7 +20,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김승남"
+        "lang:ko": "김승남"
       },
       "id": "Q50809465",
       "identifiers": [
@@ -35,7 +35,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "윤광신"
+        "lang:ko": "윤광신"
       },
       "id": "Q50809468",
       "identifiers": [
@@ -53,7 +53,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김광철"
+        "lang:ko": "김광철"
       },
       "id": "Q50809470",
       "identifiers": [
@@ -71,7 +71,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최춘식"
+        "lang:ko": "최춘식"
       },
       "id": "Q50809472",
       "identifiers": [
@@ -89,7 +89,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "윤영창"
+        "lang:ko": "윤영창"
       },
       "id": "Q50809473",
       "identifiers": [
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박광서"
+        "lang:ko": "박광서"
       },
       "id": "Q50809474",
       "identifiers": [
@@ -119,7 +119,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "장동길"
+        "lang:ko": "장동길"
       },
       "id": "Q50809475",
       "identifiers": [
@@ -134,7 +134,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "조승현"
+        "lang:ko": "조승현"
       },
       "id": "Q50809476",
       "identifiers": [
@@ -149,7 +149,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김준현"
+        "lang:ko": "김준현"
       },
       "id": "Q50809478",
       "identifiers": [
@@ -164,7 +164,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "민병숙"
+        "lang:ko": "민병숙"
       },
       "id": "Q50809885",
       "identifiers": [
@@ -184,8 +184,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "경기도의회",
-        "lang:en_US": "Gyeonggi Province municipal council"
+        "lang:ko": "경기도의회",
+        "lang:en": "Gyeonggi Province municipal council"
       },
       "id": "Q20779829",
       "classification": "branch",
@@ -202,8 +202,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -216,8 +216,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -246,8 +246,8 @@
         "Q12583545"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Gyeonggi-do",
@@ -271,8 +271,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제8선거구"
@@ -295,8 +295,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제4선거구"
@@ -319,8 +319,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제2선거구"
@@ -343,8 +343,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제1선거구"
@@ -367,8 +367,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "화성시제3선거구"
@@ -391,8 +391,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제3선거구"
@@ -415,8 +415,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "군포시제1선거구"
@@ -439,8 +439,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제1선거구"
@@ -463,8 +463,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제6선거구"
@@ -487,8 +487,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "남양주시제2선거구"
@@ -511,8 +511,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의정부시제2선거구"
@@ -535,8 +535,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제5선거구"
@@ -559,8 +559,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "시흥시제4선거구"
@@ -583,8 +583,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광주시제1선거구"
@@ -607,8 +607,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "평택시제3선거구"
@@ -631,8 +631,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "남양주시제3선거구"
@@ -655,8 +655,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "파주시제2선거구"
@@ -679,8 +679,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제6선거구"
@@ -703,8 +703,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제4선거구"
@@ -727,8 +727,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "가평군선거구"
@@ -751,8 +751,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광명시제1선거구"
@@ -775,8 +775,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제4선거구"
@@ -799,8 +799,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제8선거구"
@@ -823,8 +823,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제5선거구"
@@ -847,8 +847,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "화성시제4선거구"
@@ -871,8 +871,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제5선거구"
@@ -895,8 +895,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제2선거구"
@@ -919,8 +919,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제6선거구"
@@ -943,8 +943,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "이천시제2선거구"
@@ -967,8 +967,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제6선거구"
@@ -991,8 +991,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제5선거구"
@@ -1015,8 +1015,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제7선거구"
@@ -1039,8 +1039,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제5선거구"
@@ -1063,8 +1063,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "김포시제2선거구"
@@ -1087,8 +1087,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "여주시제1선거구"
@@ -1111,8 +1111,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제4선거구"
@@ -1135,8 +1135,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제7선거구"
@@ -1159,8 +1159,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "파주시제4선거구"
@@ -1183,8 +1183,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "김포시제3선거구"
@@ -1207,8 +1207,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제6선거구"
@@ -1231,8 +1231,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안성시제1선거구"
@@ -1255,8 +1255,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제8선거구"
@@ -1279,8 +1279,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제1선거구"
@@ -1303,8 +1303,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제5선거구"
@@ -1327,8 +1327,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제2선거구"
@@ -1351,8 +1351,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "과천시선거구"
@@ -1375,8 +1375,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제2선거구"
@@ -1399,8 +1399,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "양평군제2선거구"
@@ -1423,8 +1423,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제7선거구"
@@ -1447,8 +1447,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제8선거구"
@@ -1471,8 +1471,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "파주시제1선거구"
@@ -1495,8 +1495,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광주시제2선거구"
@@ -1519,8 +1519,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제3선거구"
@@ -1543,8 +1543,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "포천시제1선거구"
@@ -1567,8 +1567,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "남양주시제4선거구"
@@ -1591,8 +1591,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "오산시제2선거구"
@@ -1615,8 +1615,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "남양주시제1선거구"
@@ -1639,8 +1639,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "포천시제2선거구"
@@ -1663,8 +1663,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제1선거구"
@@ -1687,8 +1687,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "구리시제1선거구"
@@ -1711,8 +1711,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제1선거구"
@@ -1735,8 +1735,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제2선거구"
@@ -1759,8 +1759,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "화성시제1선거구"
@@ -1783,8 +1783,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의정부시제1선거구"
@@ -1807,8 +1807,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제3선거구"
@@ -1831,8 +1831,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "연천군선거구"
@@ -1855,8 +1855,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제7선거구"
@@ -1879,8 +1879,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제8선거구"
@@ -1903,8 +1903,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "파주시제3선거구"
@@ -1927,8 +1927,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "구리시제2선거구"
@@ -1951,8 +1951,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "하남시제1선거구"
@@ -1975,8 +1975,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "오산시제1선거구"
@@ -1999,8 +1999,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제7선거구"
@@ -2023,8 +2023,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안성시제2선거구"
@@ -2047,8 +2047,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "동두천시제2선거구"
@@ -2071,8 +2071,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제5선거구"
@@ -2095,8 +2095,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "하남시제2선거구"
@@ -2119,8 +2119,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "성남시제3선거구"
@@ -2143,8 +2143,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제1선거구"
@@ -2167,8 +2167,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제8선거구"
@@ -2191,8 +2191,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제9선거구"
@@ -2215,8 +2215,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의왕시제1선거구"
@@ -2239,8 +2239,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "양평군제1선거구"
@@ -2263,8 +2263,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "시흥시제2선거구"
@@ -2287,8 +2287,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광명시제2선거구"
@@ -2311,8 +2311,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "화성시제2선거구"
@@ -2335,8 +2335,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "양주시제2선거구"
@@ -2359,8 +2359,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "시흥시제3선거구"
@@ -2383,8 +2383,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "평택시제2선거구"
@@ -2407,8 +2407,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광명시제4선거구"
@@ -2431,8 +2431,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "평택시제4선거구"
@@ -2455,8 +2455,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제6선거구"
@@ -2479,8 +2479,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "평택시제1선거구"
@@ -2503,8 +2503,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "김포시제1선거구"
@@ -2527,8 +2527,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "동두천시제1선거구"
@@ -2551,8 +2551,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제7선거구"
@@ -2575,8 +2575,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제2선거구"
@@ -2599,8 +2599,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "이천시제1선거구"
@@ -2623,8 +2623,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의정부시제4선거구"
@@ -2647,8 +2647,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제2선거구"
@@ -2671,8 +2671,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "용인시제3선거구"
@@ -2695,8 +2695,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "광명시제3선거구"
@@ -2719,8 +2719,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제4선거구"
@@ -2743,8 +2743,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "고양시제3선거구"
@@ -2767,8 +2767,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "시흥시제1선거구"
@@ -2791,8 +2791,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "양주시제1선거구"
@@ -2815,8 +2815,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의왕시제2선거구"
@@ -2839,8 +2839,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안양시제1선거구"
@@ -2863,8 +2863,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "군포시제2선거구"
@@ -2887,8 +2887,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "남양주시제5선거구"
@@ -2911,8 +2911,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "수원시제4선거구"
@@ -2935,8 +2935,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "부천시제6선거구"
@@ -2959,8 +2959,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "여주시제2선거구"
@@ -2983,8 +2983,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제4선거구"
@@ -3007,8 +3007,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "안산시제3선거구"
@@ -3031,8 +3031,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "의정부시제3선거구"
@@ -3055,8 +3055,8 @@
         "Q50559168"
       ],
       "type": {
-        "lang:ko_KR": "경기도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Gyeonggi Province"
+        "lang:ko": "경기도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Gyeonggi Province"
       },
       "name": {
         "lang:ko_KR": "경기도 비례대표 선거구"
@@ -3079,7 +3079,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -3098,13 +3098,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3116,13 +3116,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3134,13 +3134,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3152,13 +3152,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3170,13 +3170,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3188,13 +3188,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3206,13 +3206,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3224,13 +3224,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3242,13 +3242,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3260,13 +3260,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     },
     {
@@ -3278,13 +3278,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559168",
       "role": {
-        "lang:ko_KR": "경기도의원동정",
-        "lang:en_US": "Gyeonggi Province councilor"
+        "lang:ko": "경기도의원동정",
+        "lang:en": "Gyeonggi Province councilor"
       }
     }
   ]

@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "장용훈"
+        "lang:ko": "장용훈"
       },
       "id": "Q50809308",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "황이주"
+        "lang:ko": "황이주"
       },
       "id": "Q50809310",
       "identifiers": [
@@ -35,7 +35,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박현국"
+        "lang:ko": "박현국"
       },
       "id": "Q50809312",
       "identifiers": [
@@ -50,7 +50,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "황재철"
+        "lang:ko": "황재철"
       },
       "id": "Q50809313",
       "identifiers": [
@@ -68,7 +68,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "남천희"
+        "lang:ko": "남천희"
       },
       "id": "Q50809314",
       "identifiers": [
@@ -86,7 +86,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "윤종도"
+        "lang:ko": "윤종도"
       },
       "id": "Q50809315",
       "identifiers": [
@@ -101,7 +101,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "최태림"
+        "lang:ko": "최태림"
       },
       "id": "Q50809316",
       "identifiers": [
@@ -116,7 +116,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김수문"
+        "lang:ko": "김수문"
       },
       "id": "Q50809317",
       "identifiers": [
@@ -131,7 +131,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "홍진규"
+        "lang:ko": "홍진규"
       },
       "id": "Q50809319",
       "identifiers": [
@@ -146,7 +146,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "곽경호"
+        "lang:ko": "곽경호"
       },
       "id": "Q50809322",
       "identifiers": [
@@ -161,7 +161,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김정숙"
+        "lang:ko": "김정숙"
       },
       "id": "Q50810420",
       "identifiers": [
@@ -178,8 +178,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "경상북도의회",
-        "lang:en_US": "North Gyeongsang Province municipal council"
+        "lang:ko": "경상북도의회",
+        "lang:en": "North Gyeongsang Province municipal council"
       },
       "id": "Q16093885",
       "classification": "branch",
@@ -196,8 +196,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -226,8 +226,8 @@
         "Q50619415"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 도",
-        "lang:en_US": "province of South Korea"
+        "lang:ko": "대한민국의 도",
+        "lang:en": "province of South Korea"
       },
       "name": {
         "lang:en_US": "Gyeongsangbuk-do",
@@ -251,8 +251,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경산시제4선거구"
@@ -275,8 +275,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "예천군제1선거구"
@@ -299,8 +299,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제7선거구"
@@ -323,8 +323,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "안동시제2선거구"
@@ -347,8 +347,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "청송군선거구"
@@ -371,8 +371,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "문경시제1선거구"
@@ -395,8 +395,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영양군선거구"
@@ -419,8 +419,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "봉화군선거구"
@@ -443,8 +443,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제5선거구"
@@ -467,8 +467,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제6선거구"
@@ -491,8 +491,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제3선거구"
@@ -515,8 +515,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "칠곡군제1선거구"
@@ -539,8 +539,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경산시제1선거구"
@@ -563,8 +563,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "문경시제2선거구"
@@ -587,8 +587,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경주시제2선거구"
@@ -611,8 +611,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영주시제1선거구"
@@ -635,8 +635,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제1선거구"
@@ -659,8 +659,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제4선거구"
@@ -683,8 +683,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경주시제3선거구"
@@ -707,8 +707,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경주시제4선거구"
@@ -731,8 +731,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "군위군선거구"
@@ -755,8 +755,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제1선거구"
@@ -779,8 +779,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제5선거구"
@@ -803,8 +803,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제2선거구"
@@ -827,8 +827,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "상주시제2선거구"
@@ -851,8 +851,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "고령군선거구"
@@ -875,8 +875,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제3선거구"
@@ -899,8 +899,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제4선거구"
@@ -923,8 +923,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "칠곡군제2선거구"
@@ -947,8 +947,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "청도군제2선거구"
@@ -971,8 +971,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "안동시제3선거구"
@@ -995,8 +995,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제8선거구"
@@ -1019,8 +1019,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "구미시제2선거구"
@@ -1043,8 +1043,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영천시제1선거구"
@@ -1067,8 +1067,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영덕군선거구"
@@ -1091,8 +1091,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "예천군제2선거구"
@@ -1115,8 +1115,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경산시제3선거구"
@@ -1139,8 +1139,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경산시제2선거구"
@@ -1163,8 +1163,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "상주시제1선거구"
@@ -1187,8 +1187,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영주시제2선거구"
@@ -1211,8 +1211,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "포항시제6선거구"
@@ -1235,8 +1235,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "청도군제1선거구"
@@ -1259,8 +1259,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "울진군제1선거구"
@@ -1283,8 +1283,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "울릉군선거구"
@@ -1307,8 +1307,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "의성군제1선거구"
@@ -1331,8 +1331,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "영천시제2선거구"
@@ -1355,8 +1355,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "김천시제1선거구"
@@ -1379,8 +1379,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "울진군제2선거구"
@@ -1403,8 +1403,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경주시제1선거구"
@@ -1427,8 +1427,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "안동시제1선거구"
@@ -1451,8 +1451,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "의성군제2선거구"
@@ -1475,8 +1475,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "성주군제1선거구"
@@ -1499,8 +1499,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "김천시제2선거구"
@@ -1523,8 +1523,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "성주군제2선거구"
@@ -1547,8 +1547,8 @@
         "Q50559328"
       ],
       "type": {
-        "lang:ko_KR": "경상북도 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of North Gyeongsang Province"
+        "lang:ko": "경상북도 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of North Gyeongsang Province"
       },
       "name": {
         "lang:ko_KR": "경상북도 비례대표 선거구"
@@ -1571,7 +1571,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -1590,13 +1590,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1608,13 +1608,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1625,13 +1625,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1643,13 +1643,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1661,13 +1661,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1678,13 +1678,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1696,13 +1696,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1714,13 +1714,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1732,13 +1732,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1750,13 +1750,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     },
     {
@@ -1768,13 +1768,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559328",
       "role": {
-        "lang:ko_KR": "경상북도의원동정",
-        "lang:en_US": "North Gyeongsang Province councilor"
+        "lang:ko": "경상북도의원동정",
+        "lang:en": "North Gyeongsang Province councilor"
       }
     }
   ]

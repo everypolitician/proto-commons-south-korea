@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "전봉민"
+        "lang:ko": "전봉민"
       },
       "id": "Q28699512",
       "identifiers": [
@@ -17,7 +17,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "백종헌"
+        "lang:ko": "백종헌"
       },
       "id": "Q31180679",
       "identifiers": [
@@ -32,7 +32,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이상갑"
+        "lang:ko": "이상갑"
       },
       "id": "Q50809768",
       "identifiers": [
@@ -47,7 +47,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "오보근"
+        "lang:ko": "오보근"
       },
       "id": "Q50809769",
       "identifiers": [
@@ -62,7 +62,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "강성태"
+        "lang:ko": "강성태"
       },
       "id": "Q50809772",
       "identifiers": [
@@ -80,7 +80,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "안재권"
+        "lang:ko": "안재권"
       },
       "id": "Q50809777",
       "identifiers": [
@@ -98,7 +98,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "이해동"
+        "lang:ko": "이해동"
       },
       "id": "Q50809781",
       "identifiers": [
@@ -116,7 +116,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김진용"
+        "lang:ko": "김진용"
       },
       "id": "Q50809783",
       "identifiers": [
@@ -131,7 +131,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "윤종현"
+        "lang:ko": "윤종현"
       },
       "id": "Q50809786",
       "identifiers": [
@@ -149,7 +149,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "박성명"
+        "lang:ko": "박성명"
       },
       "id": "Q50809797",
       "identifiers": [
@@ -164,7 +164,7 @@
     },
     {
       "name": {
-        "lang:ko_KR": "김남희"
+        "lang:ko": "김남희"
       },
       "id": "Q50809868",
       "identifiers": [
@@ -181,8 +181,8 @@
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "부산광역시의회",
-        "lang:en_US": "Busan municipal council"
+        "lang:ko": "부산광역시의회",
+        "lang:en": "Busan municipal council"
       },
       "id": "Q16096697",
       "classification": "branch",
@@ -199,8 +199,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "자유한국당",
-        "lang:en_US": "Liberty Korea Party"
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
       },
       "id": "Q20916",
       "classification": "party",
@@ -229,8 +229,8 @@
         "Q50265926"
       ],
       "type": {
-        "lang:ko_KR": "대한민국의 광역시",
-        "lang:en_US": "metropolitan city of South Korea"
+        "lang:ko": "대한민국의 광역시",
+        "lang:en": "metropolitan city of South Korea"
       },
       "name": {
         "lang:en_US": "Busan",
@@ -254,8 +254,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "동구제2선거구"
@@ -278,8 +278,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "동래구제3선거구"
@@ -302,8 +302,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "해운대구제4선거구"
@@ -326,8 +326,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "남구제1선거구"
@@ -350,8 +350,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "북구제3선거구"
@@ -374,8 +374,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사하구제2선거구"
@@ -398,8 +398,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "금정구제2선거구"
@@ -422,8 +422,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "수영구제2선거구"
@@ -446,8 +446,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "연제구제2선거구"
@@ -470,8 +470,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "강서구제1선거구"
@@ -494,8 +494,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "동래구제1선거구"
@@ -518,8 +518,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "기장군제1선거구"
@@ -542,8 +542,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "동구제1선거구"
@@ -566,8 +566,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사상구제1선거구"
@@ -590,8 +590,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "북구제4선거구"
@@ -614,8 +614,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사하구제4선거구"
@@ -638,8 +638,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "영도구제1선거구"
@@ -662,8 +662,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "남구제2선거구"
@@ -686,8 +686,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "해운대구제2선거구"
@@ -710,8 +710,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "부산진구제4선거구"
@@ -734,8 +734,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "북구제1선거구"
@@ -758,8 +758,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "영도구제2선거구"
@@ -782,8 +782,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "기장군제2선거구"
@@ -806,8 +806,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "부산진구제1선거구"
@@ -830,8 +830,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사하구제3선거구"
@@ -854,8 +854,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "서구제2선거구"
@@ -878,8 +878,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "남구제4선거구"
@@ -902,8 +902,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "부산진구제2선거구"
@@ -926,8 +926,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "중구선거구"
@@ -950,8 +950,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "남구제3선거구"
@@ -974,8 +974,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "수영구제1선거구"
@@ -998,8 +998,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "동래구제2선거구"
@@ -1022,8 +1022,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "서구제1선거구"
@@ -1046,8 +1046,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "해운대구제1선거구"
@@ -1070,8 +1070,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "강서구제2선거구"
@@ -1094,8 +1094,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "해운대구제3선거구"
@@ -1118,8 +1118,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "부산진구제3선거구"
@@ -1142,8 +1142,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "연제구제1선거구"
@@ -1166,8 +1166,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사하구제1선거구"
@@ -1190,8 +1190,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "북구제2선거구"
@@ -1214,8 +1214,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "사상구제2선거구"
@@ -1238,8 +1238,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "금정구제1선거구"
@@ -1262,8 +1262,8 @@
         "Q50559275"
       ],
       "type": {
-        "lang:ko_KR": "부산광역시 의원동정 선거구",
-        "lang:en_US": "FLACS Council Constituency of Busan"
+        "lang:ko": "부산광역시 의원동정 선거구",
+        "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
         "lang:ko_KR": "부산광역시 비례대표 선거구"
@@ -1286,7 +1286,7 @@
         "Q6296418"
       ],
       "type": {
-        "lang:en_US": "country"
+        "lang:en": "country"
       },
       "name": {
         "lang:ko_KR": "대한민국",
@@ -1305,13 +1305,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1323,13 +1323,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1341,13 +1341,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1359,13 +1359,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1377,13 +1377,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1395,13 +1395,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1413,13 +1413,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1431,13 +1431,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1449,13 +1449,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1467,13 +1467,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     },
     {
@@ -1485,13 +1485,13 @@
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:ko_KR": "참사관",
-        "lang:en_US": "councillor"
+        "lang:ko": "참사관",
+        "lang:en": "councillor"
       },
       "role_code": "Q50559275",
       "role": {
-        "lang:ko_KR": "부산광역시의원동정",
-        "lang:en_US": "Busan councilor"
+        "lang:ko": "부산광역시의원동정",
+        "lang:en": "Busan councilor"
       }
     }
   ]
