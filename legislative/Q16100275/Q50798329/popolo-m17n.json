@@ -235,8 +235,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Chungcheongnam-do",
-        "lang:ko_KR": "충청남도"
+        "lang:en": "Chungcheongnam-do",
+        "lang:ko": "충청남도"
       },
       "parent_id": "Q884"
     },
@@ -260,7 +260,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "청양군선거구"
+        "lang:ko": "청양군선거구"
       },
       "parent_id": "Q41070"
     },
@@ -284,7 +284,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제2선거구"
+        "lang:ko": "천안시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -308,7 +308,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제5선거구"
+        "lang:ko": "천안시제5선거구"
       },
       "parent_id": "Q41070"
     },
@@ -332,7 +332,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "서산시제2선거구"
+        "lang:ko": "서산시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -356,7 +356,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제4선거구"
+        "lang:ko": "천안시제4선거구"
       },
       "parent_id": "Q41070"
     },
@@ -380,7 +380,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "서천군제1선거구"
+        "lang:ko": "서천군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -404,7 +404,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제6선거구"
+        "lang:ko": "천안시제6선거구"
       },
       "parent_id": "Q41070"
     },
@@ -428,7 +428,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "예산군제2선거구"
+        "lang:ko": "예산군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -452,7 +452,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "계룡시선거구"
+        "lang:ko": "계룡시선거구"
       },
       "parent_id": "Q41070"
     },
@@ -476,7 +476,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "부여군제1선거구"
+        "lang:ko": "부여군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -500,7 +500,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "금산군제2선거구"
+        "lang:ko": "금산군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -524,7 +524,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제7선거구"
+        "lang:ko": "천안시제7선거구"
       },
       "parent_id": "Q41070"
     },
@@ -548,7 +548,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "보령시제2선거구"
+        "lang:ko": "보령시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -572,7 +572,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "공주시제2선거구"
+        "lang:ko": "공주시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -596,7 +596,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "부여군제2선거구"
+        "lang:ko": "부여군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -620,7 +620,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제8선거구"
+        "lang:ko": "천안시제8선거구"
       },
       "parent_id": "Q41070"
     },
@@ -644,7 +644,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "태안군제1선거구"
+        "lang:ko": "태안군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -668,7 +668,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "공주시제1선거구"
+        "lang:ko": "공주시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -692,7 +692,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "아산시제3선거구"
+        "lang:ko": "아산시제3선거구"
       },
       "parent_id": "Q41070"
     },
@@ -716,7 +716,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "아산시제4선거구"
+        "lang:ko": "아산시제4선거구"
       },
       "parent_id": "Q41070"
     },
@@ -740,7 +740,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "홍성군제1선거구"
+        "lang:ko": "홍성군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -764,7 +764,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "보령시제1선거구"
+        "lang:ko": "보령시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -788,7 +788,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제1선거구"
+        "lang:ko": "천안시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -812,7 +812,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "아산시제1선거구"
+        "lang:ko": "아산시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -836,7 +836,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "논산시제1선거구"
+        "lang:ko": "논산시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -860,7 +860,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "당진시제1선거구"
+        "lang:ko": "당진시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -884,7 +884,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "천안시제3선거구"
+        "lang:ko": "천안시제3선거구"
       },
       "parent_id": "Q41070"
     },
@@ -908,7 +908,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "예산군제1선거구"
+        "lang:ko": "예산군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -932,7 +932,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "당진시제2선거구"
+        "lang:ko": "당진시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -956,7 +956,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "서천군제2선거구"
+        "lang:ko": "서천군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -980,7 +980,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "홍성군제2선거구"
+        "lang:ko": "홍성군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1004,7 +1004,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "아산시제2선거구"
+        "lang:ko": "아산시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1028,7 +1028,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "태안군제2선거구"
+        "lang:ko": "태안군제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1052,7 +1052,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "서산시제1선거구"
+        "lang:ko": "서산시제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1076,7 +1076,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "금산군제1선거구"
+        "lang:ko": "금산군제1선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1100,7 +1100,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "논산시제2선거구"
+        "lang:ko": "논산시제2선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1124,7 +1124,7 @@
         "lang:en": "FLACS Council Constituency of South Chungcheong Province"
       },
       "name": {
-        "lang:ko_KR": "충청남도 비례대표 선거구"
+        "lang:ko": "충청남도 비례대표 선거구"
       },
       "parent_id": "Q41070"
     },
@@ -1147,8 +1147,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

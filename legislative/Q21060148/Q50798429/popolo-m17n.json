@@ -235,8 +235,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Jeollabuk-do",
-        "lang:ko_KR": "전라북도"
+        "lang:en": "Jeollabuk-do",
+        "lang:ko": "전라북도"
       },
       "parent_id": "Q884"
     },
@@ -260,7 +260,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제1선거구"
+        "lang:ko": "전주시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -284,7 +284,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순창군선거구"
+        "lang:ko": "순창군선거구"
       },
       "parent_id": "Q41157"
     },
@@ -308,7 +308,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "무주군선거구"
+        "lang:ko": "무주군선거구"
       },
       "parent_id": "Q41157"
     },
@@ -332,7 +332,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "완주군제2선거구"
+        "lang:ko": "완주군제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -356,7 +356,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "김제시제2선거구"
+        "lang:ko": "김제시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -380,7 +380,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "정읍시제2선거구"
+        "lang:ko": "정읍시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -404,7 +404,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "남원시제2선거구"
+        "lang:ko": "남원시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -428,7 +428,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제7선거구"
+        "lang:ko": "전주시제7선거구"
       },
       "parent_id": "Q41157"
     },
@@ -452,7 +452,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "군산시제3선거구"
+        "lang:ko": "군산시제3선거구"
       },
       "parent_id": "Q41157"
     },
@@ -476,7 +476,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제9선거구"
+        "lang:ko": "전주시제9선거구"
       },
       "parent_id": "Q41157"
     },
@@ -500,7 +500,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제4선거구"
+        "lang:ko": "전주시제4선거구"
       },
       "parent_id": "Q41157"
     },
@@ -524,7 +524,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "익산시제4선거구"
+        "lang:ko": "익산시제4선거구"
       },
       "parent_id": "Q41157"
     },
@@ -548,7 +548,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "완주군제1선거구"
+        "lang:ko": "완주군제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -572,7 +572,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "군산시제4선거구"
+        "lang:ko": "군산시제4선거구"
       },
       "parent_id": "Q41157"
     },
@@ -596,7 +596,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제8선거구"
+        "lang:ko": "전주시제8선거구"
       },
       "parent_id": "Q41157"
     },
@@ -620,7 +620,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제6선거구"
+        "lang:ko": "전주시제6선거구"
       },
       "parent_id": "Q41157"
     },
@@ -644,7 +644,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제2선거구"
+        "lang:ko": "전주시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -668,7 +668,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "장수군선거구"
+        "lang:ko": "장수군선거구"
       },
       "parent_id": "Q41157"
     },
@@ -692,7 +692,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "익산시제1선거구"
+        "lang:ko": "익산시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -716,7 +716,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "김제시제1선거구"
+        "lang:ko": "김제시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -740,7 +740,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "부안군제1선거구"
+        "lang:ko": "부안군제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -764,7 +764,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "정읍시제1선거구"
+        "lang:ko": "정읍시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -788,7 +788,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "진안군선거구"
+        "lang:ko": "진안군선거구"
       },
       "parent_id": "Q41157"
     },
@@ -812,7 +812,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "고창군제1선거구"
+        "lang:ko": "고창군제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -836,7 +836,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "임실군선거구"
+        "lang:ko": "임실군선거구"
       },
       "parent_id": "Q41157"
     },
@@ -860,7 +860,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "부안군제2선거구"
+        "lang:ko": "부안군제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -884,7 +884,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제3선거구"
+        "lang:ko": "전주시제3선거구"
       },
       "parent_id": "Q41157"
     },
@@ -908,7 +908,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "군산시제1선거구"
+        "lang:ko": "군산시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -932,7 +932,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "남원시제1선거구"
+        "lang:ko": "남원시제1선거구"
       },
       "parent_id": "Q41157"
     },
@@ -956,7 +956,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "익산시제3선거구"
+        "lang:ko": "익산시제3선거구"
       },
       "parent_id": "Q41157"
     },
@@ -980,7 +980,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전주시제5선거구"
+        "lang:ko": "전주시제5선거구"
       },
       "parent_id": "Q41157"
     },
@@ -1004,7 +1004,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "익산시제2선거구"
+        "lang:ko": "익산시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -1028,7 +1028,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "군산시제2선거구"
+        "lang:ko": "군산시제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -1052,7 +1052,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "고창군제2선거구"
+        "lang:ko": "고창군제2선거구"
       },
       "parent_id": "Q41157"
     },
@@ -1076,7 +1076,7 @@
         "lang:en": "FLACS Council Constituency of North Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전라북도 비례대표 선거구"
+        "lang:ko": "전라북도 비례대표 선거구"
       },
       "parent_id": "Q41157"
     },
@@ -1099,8 +1099,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

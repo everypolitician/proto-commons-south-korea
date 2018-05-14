@@ -245,8 +245,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Ulsan",
-        "lang:ko_KR": "울산광역시"
+        "lang:en": "Ulsan",
+        "lang:ko": "울산광역시"
       },
       "parent_id": "Q884"
     },
@@ -270,7 +270,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "동구제2선거구"
+        "lang:ko": "동구제2선거구"
       },
       "parent_id": "Q41278"
     },
@@ -294,7 +294,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제1선거구"
+        "lang:ko": "남구제1선거구"
       },
       "parent_id": "Q41278"
     },
@@ -318,7 +318,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "북구제1선거구"
+        "lang:ko": "북구제1선거구"
       },
       "parent_id": "Q41278"
     },
@@ -342,7 +342,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제5선거구"
+        "lang:ko": "남구제5선거구"
       },
       "parent_id": "Q41278"
     },
@@ -366,7 +366,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "중구제1선거구"
+        "lang:ko": "중구제1선거구"
       },
       "parent_id": "Q41278"
     },
@@ -390,7 +390,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "북구제3선거구"
+        "lang:ko": "북구제3선거구"
       },
       "parent_id": "Q41278"
     },
@@ -414,7 +414,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "중구제3선거구"
+        "lang:ko": "중구제3선거구"
       },
       "parent_id": "Q41278"
     },
@@ -438,7 +438,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "중구제4선거구"
+        "lang:ko": "중구제4선거구"
       },
       "parent_id": "Q41278"
     },
@@ -462,7 +462,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제6선거구"
+        "lang:ko": "남구제6선거구"
       },
       "parent_id": "Q41278"
     },
@@ -486,7 +486,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "동구제3선거구"
+        "lang:ko": "동구제3선거구"
       },
       "parent_id": "Q41278"
     },
@@ -510,7 +510,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "울주군제2선거구"
+        "lang:ko": "울주군제2선거구"
       },
       "parent_id": "Q41278"
     },
@@ -534,7 +534,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제3선거구"
+        "lang:ko": "남구제3선거구"
       },
       "parent_id": "Q41278"
     },
@@ -558,7 +558,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "동구제1선거구"
+        "lang:ko": "동구제1선거구"
       },
       "parent_id": "Q41278"
     },
@@ -582,7 +582,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "울주군제3선거구"
+        "lang:ko": "울주군제3선거구"
       },
       "parent_id": "Q41278"
     },
@@ -606,7 +606,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제4선거구"
+        "lang:ko": "남구제4선거구"
       },
       "parent_id": "Q41278"
     },
@@ -630,7 +630,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "북구제2선거구"
+        "lang:ko": "북구제2선거구"
       },
       "parent_id": "Q41278"
     },
@@ -654,7 +654,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "울주군제1선거구"
+        "lang:ko": "울주군제1선거구"
       },
       "parent_id": "Q41278"
     },
@@ -678,7 +678,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "남구제2선거구"
+        "lang:ko": "남구제2선거구"
       },
       "parent_id": "Q41278"
     },
@@ -702,7 +702,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "중구제2선거구"
+        "lang:ko": "중구제2선거구"
       },
       "parent_id": "Q41278"
     },
@@ -726,7 +726,7 @@
         "lang:en": "FLACS Council Constituency of Ulsan"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 비례대표 선거구"
+        "lang:ko": "울산광역시 비례대표 선거구"
       },
       "parent_id": "Q41278"
     },
@@ -749,8 +749,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

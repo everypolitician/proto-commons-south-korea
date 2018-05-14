@@ -71,8 +71,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

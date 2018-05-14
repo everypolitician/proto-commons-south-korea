@@ -235,8 +235,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Jeollanam-do",
-        "lang:ko_KR": "전라남도"
+        "lang:en": "Jeollanam-do",
+        "lang:ko": "전라남도"
       },
       "parent_id": "Q884"
     },
@@ -260,7 +260,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "장흥군제1선거구"
+        "lang:ko": "장흥군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -284,7 +284,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "영광군제1선거구"
+        "lang:ko": "영광군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -308,7 +308,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "광양시제2선거구"
+        "lang:ko": "광양시제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -332,7 +332,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "장성군제1선거구"
+        "lang:ko": "장성군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -356,7 +356,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "목포시제1선거구"
+        "lang:ko": "목포시제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -380,7 +380,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "광양시제3선거구"
+        "lang:ko": "광양시제3선거구"
       },
       "parent_id": "Q41161"
     },
@@ -404,7 +404,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "화순군제1선거구"
+        "lang:ko": "화순군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -428,7 +428,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "목포시제3선거구"
+        "lang:ko": "목포시제3선거구"
       },
       "parent_id": "Q41161"
     },
@@ -452,7 +452,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "나주시제2선거구"
+        "lang:ko": "나주시제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -476,7 +476,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제1선거구"
+        "lang:ko": "여수시제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -500,7 +500,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "장흥군제2선거구"
+        "lang:ko": "장흥군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -524,7 +524,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "영광군제2선거구"
+        "lang:ko": "영광군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -548,7 +548,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "신안군제1선거구"
+        "lang:ko": "신안군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -572,7 +572,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "목포시제5선거구"
+        "lang:ko": "목포시제5선거구"
       },
       "parent_id": "Q41161"
     },
@@ -596,7 +596,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "화순군제2선거구"
+        "lang:ko": "화순군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -620,7 +620,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제2선거구"
+        "lang:ko": "여수시제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -644,7 +644,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "보성군제2선거구"
+        "lang:ko": "보성군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -668,7 +668,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "함평군제1선거구"
+        "lang:ko": "함평군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -692,7 +692,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순천시제2선거구"
+        "lang:ko": "순천시제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -716,7 +716,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순천시제3선거구"
+        "lang:ko": "순천시제3선거구"
       },
       "parent_id": "Q41161"
     },
@@ -740,7 +740,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "함평군제2선거구"
+        "lang:ko": "함평군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -764,7 +764,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "곡성군선거구"
+        "lang:ko": "곡성군선거구"
       },
       "parent_id": "Q41161"
     },
@@ -788,7 +788,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "목포시제4선거구"
+        "lang:ko": "목포시제4선거구"
       },
       "parent_id": "Q41161"
     },
@@ -812,7 +812,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "해남군제2선거구"
+        "lang:ko": "해남군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -836,7 +836,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "고흥군제1선거구"
+        "lang:ko": "고흥군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -860,7 +860,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제4선거구"
+        "lang:ko": "여수시제4선거구"
       },
       "parent_id": "Q41161"
     },
@@ -884,7 +884,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "신안군제2선거구"
+        "lang:ko": "신안군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -908,7 +908,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "무안군제2선거구"
+        "lang:ko": "무안군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -932,7 +932,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "무안군제1선거구"
+        "lang:ko": "무안군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -956,7 +956,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제6선거구"
+        "lang:ko": "여수시제6선거구"
       },
       "parent_id": "Q41161"
     },
@@ -980,7 +980,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "진도군선거구"
+        "lang:ko": "진도군선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1004,7 +1004,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "완도군제1선거구"
+        "lang:ko": "완도군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1028,7 +1028,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "구례군선거구"
+        "lang:ko": "구례군선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1052,7 +1052,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제5선거구"
+        "lang:ko": "여수시제5선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1076,7 +1076,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "담양군제2선거구"
+        "lang:ko": "담양군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1100,7 +1100,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "해남군제1선거구"
+        "lang:ko": "해남군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1124,7 +1124,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순천시제1선거구"
+        "lang:ko": "순천시제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1148,7 +1148,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순천시제5선거구"
+        "lang:ko": "순천시제5선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1172,7 +1172,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "강진군제1선거구"
+        "lang:ko": "강진군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1196,7 +1196,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "담양군제1선거구"
+        "lang:ko": "담양군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1220,7 +1220,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "영암군제1선거구"
+        "lang:ko": "영암군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1244,7 +1244,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "나주시제1선거구"
+        "lang:ko": "나주시제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1268,7 +1268,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "여수시제3선거구"
+        "lang:ko": "여수시제3선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1292,7 +1292,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "강진군제2선거구"
+        "lang:ko": "강진군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1316,7 +1316,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "목포시제2선거구"
+        "lang:ko": "목포시제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1340,7 +1340,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "보성군제1선거구"
+        "lang:ko": "보성군제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1364,7 +1364,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "영암군제2선거구"
+        "lang:ko": "영암군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1388,7 +1388,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "장성군제2선거구"
+        "lang:ko": "장성군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1412,7 +1412,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "고흥군제2선거구"
+        "lang:ko": "고흥군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1436,7 +1436,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "광양시제1선거구"
+        "lang:ko": "광양시제1선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1460,7 +1460,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "순천시제4선거구"
+        "lang:ko": "순천시제4선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1484,7 +1484,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "완도군제2선거구"
+        "lang:ko": "완도군제2선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1508,7 +1508,7 @@
         "lang:en": "FLACS Council Constituency of South Jeolla Province"
       },
       "name": {
-        "lang:ko_KR": "전라남도 비례대표 선거구"
+        "lang:ko": "전라남도 비례대표 선거구"
       },
       "parent_id": "Q41161"
     },
@@ -1531,8 +1531,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

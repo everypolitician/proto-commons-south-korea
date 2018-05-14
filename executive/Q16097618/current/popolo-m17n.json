@@ -72,8 +72,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Busan",
-        "lang:ko_KR": "부산광역시"
+        "lang:en": "Busan",
+        "lang:ko": "부산광역시"
       },
       "parent_id": "Q884"
     },
@@ -96,8 +96,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

@@ -224,8 +224,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gyeongsangnam-do",
-        "lang:ko_KR": "경상남도"
+        "lang:en": "Gyeongsangnam-do",
+        "lang:ko": "경상남도"
       },
       "parent_id": "Q884"
     },
@@ -249,7 +249,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "함양군선거구"
+        "lang:ko": "함양군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -273,7 +273,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "진주시제4선거구"
+        "lang:ko": "진주시제4선거구"
       },
       "parent_id": "Q41151"
     },
@@ -297,7 +297,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "밀양시제2선거구"
+        "lang:ko": "밀양시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -321,7 +321,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "양산시제1선거구"
+        "lang:ko": "양산시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -345,7 +345,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "통영시제1선거구"
+        "lang:ko": "통영시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -369,7 +369,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제5선거구"
+        "lang:ko": "창원시제5선거구"
       },
       "parent_id": "Q41151"
     },
@@ -393,7 +393,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창녕군제1선거구"
+        "lang:ko": "창녕군제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -417,7 +417,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "양산시제3선거구"
+        "lang:ko": "양산시제3선거구"
       },
       "parent_id": "Q41151"
     },
@@ -441,7 +441,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제11선거구"
+        "lang:ko": "창원시제11선거구"
       },
       "parent_id": "Q41151"
     },
@@ -465,7 +465,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제7선거구"
+        "lang:ko": "김해시제7선거구"
       },
       "parent_id": "Q41151"
     },
@@ -489,7 +489,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제3선거구"
+        "lang:ko": "김해시제3선거구"
       },
       "parent_id": "Q41151"
     },
@@ -513,7 +513,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "합천군선거구"
+        "lang:ko": "합천군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -537,7 +537,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제10선거구"
+        "lang:ko": "창원시제10선거구"
       },
       "parent_id": "Q41151"
     },
@@ -561,7 +561,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "진주시제2선거구"
+        "lang:ko": "진주시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -585,7 +585,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제3선거구"
+        "lang:ko": "창원시제3선거구"
       },
       "parent_id": "Q41151"
     },
@@ -609,7 +609,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제5선거구"
+        "lang:ko": "김해시제5선거구"
       },
       "parent_id": "Q41151"
     },
@@ -633,7 +633,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "거제시제3선거구"
+        "lang:ko": "거제시제3선거구"
       },
       "parent_id": "Q41151"
     },
@@ -657,7 +657,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창녕군제2선거구"
+        "lang:ko": "창녕군제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -681,7 +681,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제2선거구"
+        "lang:ko": "김해시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -705,7 +705,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "하동군선거구"
+        "lang:ko": "하동군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -729,7 +729,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "통영시제2선거구"
+        "lang:ko": "통영시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -753,7 +753,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제1선거구"
+        "lang:ko": "김해시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -777,7 +777,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제9선거구"
+        "lang:ko": "창원시제9선거구"
       },
       "parent_id": "Q41151"
     },
@@ -801,7 +801,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "산청군선거구"
+        "lang:ko": "산청군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -825,7 +825,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제7선거구"
+        "lang:ko": "창원시제7선거구"
       },
       "parent_id": "Q41151"
     },
@@ -849,7 +849,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "거창군제1선거구"
+        "lang:ko": "거창군제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -873,7 +873,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "거제시제1선거구"
+        "lang:ko": "거제시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -897,7 +897,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "함안군제1선거구"
+        "lang:ko": "함안군제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -921,7 +921,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "사천시제1선거구"
+        "lang:ko": "사천시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -945,7 +945,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제4선거구"
+        "lang:ko": "창원시제4선거구"
       },
       "parent_id": "Q41151"
     },
@@ -969,7 +969,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제6선거구"
+        "lang:ko": "창원시제6선거구"
       },
       "parent_id": "Q41151"
     },
@@ -993,7 +993,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "함안군제2선거구"
+        "lang:ko": "함안군제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1017,7 +1017,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "진주시제1선거구"
+        "lang:ko": "진주시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1041,7 +1041,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "남해군선거구"
+        "lang:ko": "남해군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1065,7 +1065,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "거창군제2선거구"
+        "lang:ko": "거창군제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1089,7 +1089,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제12선거구"
+        "lang:ko": "창원시제12선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1113,7 +1113,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "고성군제2선거구"
+        "lang:ko": "고성군제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1137,7 +1137,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "양산시제2선거구"
+        "lang:ko": "양산시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1161,7 +1161,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제1선거구"
+        "lang:ko": "창원시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1185,7 +1185,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "거제시제2선거구"
+        "lang:ko": "거제시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1209,7 +1209,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "밀양시제1선거구"
+        "lang:ko": "밀양시제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1233,7 +1233,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "진주시제3선거구"
+        "lang:ko": "진주시제3선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1257,7 +1257,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제6선거구"
+        "lang:ko": "김해시제6선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1281,7 +1281,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제8선거구"
+        "lang:ko": "창원시제8선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1305,7 +1305,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "사천시제2선거구"
+        "lang:ko": "사천시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1329,7 +1329,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제13선거구"
+        "lang:ko": "창원시제13선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1353,7 +1353,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "고성군제1선거구"
+        "lang:ko": "고성군제1선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1377,7 +1377,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "김해시제4선거구"
+        "lang:ko": "김해시제4선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1401,7 +1401,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "의령군선거구"
+        "lang:ko": "의령군선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1425,7 +1425,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "창원시제2선거구"
+        "lang:ko": "창원시제2선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1449,7 +1449,7 @@
         "lang:en": "FLACS Council Constituency of South Gyeongsang Province"
       },
       "name": {
-        "lang:ko_KR": "경상남도 비례대표 선거구"
+        "lang:ko": "경상남도 비례대표 선거구"
       },
       "parent_id": "Q41151"
     },
@@ -1472,8 +1472,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

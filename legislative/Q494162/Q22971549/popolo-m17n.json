@@ -227,8 +227,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Busan",
-        "lang:ko_KR": "부산광역시"
+        "lang:en": "Busan",
+        "lang:ko": "부산광역시"
       },
       "parent_id": "Q884"
     },
@@ -252,8 +252,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Daejeon",
-        "lang:ko_KR": "대전광역시"
+        "lang:en": "Daejeon",
+        "lang:ko": "대전광역시"
       },
       "parent_id": "Q884"
     },
@@ -277,8 +277,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Daegu",
-        "lang:ko_KR": "대구광역시"
+        "lang:en": "Daegu",
+        "lang:ko": "대구광역시"
       },
       "parent_id": "Q884"
     },
@@ -302,8 +302,8 @@
         "lang:en": "special autonomous city in South Korea"
       },
       "name": {
-        "lang:en_US": "Sejong Special Self-Governing City",
-        "lang:ko_KR": "세종특별자치시"
+        "lang:en": "Sejong Special Self-Governing City",
+        "lang:ko": "세종특별자치시"
       },
       "parent_id": "Q884"
     },
@@ -327,8 +327,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Incheon",
-        "lang:ko_KR": "인천광역시"
+        "lang:en": "Incheon",
+        "lang:ko": "인천광역시"
       },
       "parent_id": "Q884"
     },
@@ -352,8 +352,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gyeonggi-do",
-        "lang:ko_KR": "경기도"
+        "lang:en": "Gyeonggi-do",
+        "lang:ko": "경기도"
       },
       "parent_id": "Q884"
     },
@@ -377,8 +377,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Chungcheongbuk-do",
-        "lang:ko_KR": "충청북도"
+        "lang:en": "Chungcheongbuk-do",
+        "lang:ko": "충청북도"
       },
       "parent_id": "Q884"
     },
@@ -402,8 +402,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Chungcheongnam-do",
-        "lang:ko_KR": "충청남도"
+        "lang:en": "Chungcheongnam-do",
+        "lang:ko": "충청남도"
       },
       "parent_id": "Q884"
     },
@@ -427,8 +427,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gangwon-do",
-        "lang:ko_KR": "강원도"
+        "lang:en": "Gangwon-do",
+        "lang:ko": "강원도"
       },
       "parent_id": "Q884"
     },
@@ -452,8 +452,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gyeongsangnam-do",
-        "lang:ko_KR": "경상남도"
+        "lang:en": "Gyeongsangnam-do",
+        "lang:ko": "경상남도"
       },
       "parent_id": "Q884"
     },
@@ -477,8 +477,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gyeongsangbuk-do",
-        "lang:ko_KR": "경상북도"
+        "lang:en": "Gyeongsangbuk-do",
+        "lang:ko": "경상북도"
       },
       "parent_id": "Q884"
     },
@@ -502,8 +502,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Jeollabuk-do",
-        "lang:ko_KR": "전라북도"
+        "lang:en": "Jeollabuk-do",
+        "lang:ko": "전라북도"
       },
       "parent_id": "Q884"
     },
@@ -527,8 +527,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Jeollanam-do",
-        "lang:ko_KR": "전라남도"
+        "lang:en": "Jeollanam-do",
+        "lang:ko": "전라남도"
       },
       "parent_id": "Q884"
     },
@@ -552,8 +552,8 @@
         "lang:en": "Special Self-governing Province of South Korea"
       },
       "name": {
-        "lang:en_US": "Jeju Special Self-Governing Province",
-        "lang:ko_KR": "제주특별자치도"
+        "lang:en": "Jeju Special Self-Governing Province",
+        "lang:ko": "제주특별자치도"
       },
       "parent_id": "Q884"
     },
@@ -577,8 +577,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Ulsan",
-        "lang:ko_KR": "울산광역시"
+        "lang:en": "Ulsan",
+        "lang:ko": "울산광역시"
       },
       "parent_id": "Q884"
     },
@@ -602,8 +602,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Gwangju",
-        "lang:ko_KR": "광주광역시"
+        "lang:en": "Gwangju",
+        "lang:ko": "광주광역시"
       },
       "parent_id": "Q884"
     },
@@ -627,7 +627,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 종로구"
+        "lang:ko": "서울특별시 종로구"
       },
       "parent_id": "Q8684"
     },
@@ -651,7 +651,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 고양시갑"
+        "lang:ko": "경기도 고양시갑"
       },
       "parent_id": "Q20937"
     },
@@ -675,7 +675,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 금정구"
+        "lang:ko": "부산광역시 금정구"
       },
       "parent_id": "Q16520"
     },
@@ -699,7 +699,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시"
+        "lang:ko": "세종특별자치시"
       },
       "parent_id": "Q20929"
     },
@@ -723,7 +723,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "제주특별자치도 제주시갑"
+        "lang:ko": "제주특별자치도 제주시갑"
       },
       "parent_id": "Q41164"
     },
@@ -747,7 +747,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 중구영도구"
+        "lang:ko": "부산광역시 중구영도구"
       },
       "parent_id": "Q16520"
     },
@@ -771,7 +771,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 동작구갑"
+        "lang:ko": "서울특별시 동작구갑"
       },
       "parent_id": "Q8684"
     },
@@ -795,7 +795,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 청주시흥덕구"
+        "lang:ko": "충청북도 청주시흥덕구"
       },
       "parent_id": "Q41066"
     },
@@ -819,7 +819,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 동두천시연천군"
+        "lang:ko": "경기도 동두천시연천군"
       },
       "parent_id": "Q20937"
     },
@@ -843,7 +843,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강북구을"
+        "lang:ko": "서울특별시 강북구을"
       },
       "parent_id": "Q8684"
     },
@@ -867,7 +867,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 광주시을"
+        "lang:ko": "경기도 광주시을"
       },
       "parent_id": "Q20937"
     },
@@ -891,7 +891,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 마포구갑"
+        "lang:ko": "서울특별시 마포구갑"
       },
       "parent_id": "Q8684"
     },
@@ -915,7 +915,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 구로구을"
+        "lang:ko": "서울특별시 구로구을"
       },
       "parent_id": "Q8684"
     },
@@ -939,7 +939,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 창원시마산회원구"
+        "lang:ko": "경상남도 창원시마산회원구"
       },
       "parent_id": "Q41151"
     },
@@ -963,7 +963,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 중구"
+        "lang:ko": "대전광역시 중구"
       },
       "parent_id": "Q20921"
     },
@@ -987,7 +987,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 남원시임실군순창군"
+        "lang:ko": "전라북도 남원시임실군순창군"
       },
       "parent_id": "Q41157"
     },
@@ -1011,7 +1011,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 강릉시"
+        "lang:ko": "강원도 강릉시"
       },
       "parent_id": "Q41071"
     },
@@ -1035,7 +1035,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 서구갑"
+        "lang:ko": "광주광역시 서구갑"
       },
       "parent_id": "Q41283"
     },
@@ -1059,7 +1059,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 계양구을"
+        "lang:ko": "인천광역시 계양구을"
       },
       "parent_id": "Q20934"
     },
@@ -1083,7 +1083,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 천안시갑"
+        "lang:ko": "충청남도 천안시갑"
       },
       "parent_id": "Q41070"
     },
@@ -1107,7 +1107,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 여주시양평군"
+        "lang:ko": "경기도 여주시양평군"
       },
       "parent_id": "Q20937"
     },
@@ -1131,7 +1131,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 광진구을"
+        "lang:ko": "서울특별시 광진구을"
       },
       "parent_id": "Q8684"
     },
@@ -1155,7 +1155,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 속초시고성군양양군"
+        "lang:ko": "강원도 속초시고성군양양군"
       },
       "parent_id": "Q41071"
     },
@@ -1179,7 +1179,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안성시"
+        "lang:ko": "경기도 안성시"
       },
       "parent_id": "Q20937"
     },
@@ -1203,7 +1203,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 중구동구강화군옹진군"
+        "lang:ko": "인천광역시 중구동구강화군옹진군"
       },
       "parent_id": "Q20934"
     },
@@ -1227,7 +1227,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 서대문구갑"
+        "lang:ko": "서울특별시 서대문구갑"
       },
       "parent_id": "Q8684"
     },
@@ -1251,7 +1251,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 금천구"
+        "lang:ko": "서울특별시 금천구"
       },
       "parent_id": "Q8684"
     },
@@ -1275,7 +1275,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 포항시북구"
+        "lang:ko": "경상북도 포항시북구"
       },
       "parent_id": "Q41154"
     },
@@ -1299,7 +1299,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 서산시태안군"
+        "lang:ko": "충청남도 서산시태안군"
       },
       "parent_id": "Q41070"
     },
@@ -1323,7 +1323,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 광명시을"
+        "lang:ko": "경기도 광명시을"
       },
       "parent_id": "Q20937"
     },
@@ -1347,7 +1347,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 김포시갑"
+        "lang:ko": "경기도 김포시갑"
       },
       "parent_id": "Q20937"
     },
@@ -1371,7 +1371,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 수성구갑"
+        "lang:ko": "대구광역시 수성구갑"
       },
       "parent_id": "Q20927"
     },
@@ -1395,7 +1395,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 연제구"
+        "lang:ko": "부산광역시 연제구"
       },
       "parent_id": "Q16520"
     },
@@ -1419,7 +1419,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 익산시을"
+        "lang:ko": "전라북도 익산시을"
       },
       "parent_id": "Q41157"
     },
@@ -1443,7 +1443,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 오산시"
+        "lang:ko": "경기도 오산시"
       },
       "parent_id": "Q20937"
     },
@@ -1467,7 +1467,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 중구"
+        "lang:ko": "울산광역시 중구"
       },
       "parent_id": "Q41278"
     },
@@ -1491,7 +1491,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 달서구갑"
+        "lang:ko": "대구광역시 달서구갑"
       },
       "parent_id": "Q20927"
     },
@@ -1515,7 +1515,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 중구성동구갑"
+        "lang:ko": "서울특별시 중구성동구갑"
       },
       "parent_id": "Q8684"
     },
@@ -1539,7 +1539,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 부산진구을"
+        "lang:ko": "부산광역시 부산진구을"
       },
       "parent_id": "Q16520"
     },
@@ -1563,7 +1563,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 동구"
+        "lang:ko": "대전광역시 동구"
       },
       "parent_id": "Q20921"
     },
@@ -1587,7 +1587,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 서구갑"
+        "lang:ko": "대전광역시 서구갑"
       },
       "parent_id": "Q20921"
     },
@@ -1611,7 +1611,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 북구을"
+        "lang:ko": "대구광역시 북구을"
       },
       "parent_id": "Q20927"
     },
@@ -1635,7 +1635,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 달서구병"
+        "lang:ko": "대구광역시 달서구병"
       },
       "parent_id": "Q20927"
     },
@@ -1659,7 +1659,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 익산시갑"
+        "lang:ko": "전라북도 익산시갑"
       },
       "parent_id": "Q41157"
     },
@@ -1683,7 +1683,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 연수구을"
+        "lang:ko": "인천광역시 연수구을"
       },
       "parent_id": "Q20934"
     },
@@ -1707,7 +1707,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 영천시청도군"
+        "lang:ko": "경상북도 영천시청도군"
       },
       "parent_id": "Q41154"
     },
@@ -1731,7 +1731,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 보은군옥천군영동군괴산군"
+        "lang:ko": "충청북도 보은군옥천군영동군괴산군"
       },
       "parent_id": "Q41066"
     },
@@ -1755,7 +1755,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 청주시청원구"
+        "lang:ko": "충청북도 청주시청원구"
       },
       "parent_id": "Q41066"
     },
@@ -1779,7 +1779,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 성남시분당구을"
+        "lang:ko": "경기도 성남시분당구을"
       },
       "parent_id": "Q20937"
     },
@@ -1803,7 +1803,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 동작구을"
+        "lang:ko": "서울특별시 동작구을"
       },
       "parent_id": "Q8684"
     },
@@ -1827,7 +1827,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 천안시병"
+        "lang:ko": "충청남도 천안시병"
       },
       "parent_id": "Q41070"
     },
@@ -1851,7 +1851,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "제주특별자치도 제주시을"
+        "lang:ko": "제주특별자치도 제주시을"
       },
       "parent_id": "Q41164"
     },
@@ -1875,7 +1875,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 영양군영덕군봉화군울진군"
+        "lang:ko": "경상북도 영양군영덕군봉화군울진군"
       },
       "parent_id": "Q41154"
     },
@@ -1899,7 +1899,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 성북구갑"
+        "lang:ko": "서울특별시 성북구갑"
       },
       "parent_id": "Q8684"
     },
@@ -1923,7 +1923,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안산시단원구을"
+        "lang:ko": "경기도 안산시단원구을"
       },
       "parent_id": "Q20937"
     },
@@ -1947,7 +1947,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 동구남구갑"
+        "lang:ko": "광주광역시 동구남구갑"
       },
       "parent_id": "Q41283"
     },
@@ -1971,7 +1971,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안산시단원구갑"
+        "lang:ko": "경기도 안산시단원구갑"
       },
       "parent_id": "Q20937"
     },
@@ -1995,7 +1995,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강서구을"
+        "lang:ko": "서울특별시 강서구을"
       },
       "parent_id": "Q8684"
     },
@@ -2019,7 +2019,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 남구을"
+        "lang:ko": "부산광역시 남구을"
       },
       "parent_id": "Q16520"
     },
@@ -2043,7 +2043,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 광명시갑"
+        "lang:ko": "경기도 광명시갑"
       },
       "parent_id": "Q20937"
     },
@@ -2067,7 +2067,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 구미시을"
+        "lang:ko": "경상북도 구미시을"
       },
       "parent_id": "Q41154"
     },
@@ -2091,7 +2091,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안양시동안구갑"
+        "lang:ko": "경기도 안양시동안구갑"
       },
       "parent_id": "Q20937"
     },
@@ -2115,7 +2115,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 전주시갑"
+        "lang:ko": "전라북도 전주시갑"
       },
       "parent_id": "Q41157"
     },
@@ -2139,7 +2139,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 완주군진안군무주군장수군"
+        "lang:ko": "전라북도 완주군진안군무주군장수군"
       },
       "parent_id": "Q41157"
     },
@@ -2163,7 +2163,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 부천시원미구갑"
+        "lang:ko": "경기도 부천시원미구갑"
       },
       "parent_id": "Q20937"
     },
@@ -2187,7 +2187,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 영등포구을"
+        "lang:ko": "서울특별시 영등포구을"
       },
       "parent_id": "Q8684"
     },
@@ -2211,7 +2211,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 의정부시갑"
+        "lang:ko": "경기도 의정부시갑"
       },
       "parent_id": "Q20937"
     },
@@ -2235,7 +2235,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 청주시상당구"
+        "lang:ko": "충청북도 청주시상당구"
       },
       "parent_id": "Q41066"
     },
@@ -2259,7 +2259,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 원주시갑"
+        "lang:ko": "강원도 원주시갑"
       },
       "parent_id": "Q41071"
     },
@@ -2283,7 +2283,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 성북구을"
+        "lang:ko": "서울특별시 성북구을"
       },
       "parent_id": "Q8684"
     },
@@ -2307,7 +2307,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 증평군진천군음성군"
+        "lang:ko": "충청북도 증평군진천군음성군"
       },
       "parent_id": "Q41066"
     },
@@ -2331,7 +2331,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 동대문구을"
+        "lang:ko": "서울특별시 동대문구을"
       },
       "parent_id": "Q8684"
     },
@@ -2355,7 +2355,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 유성구갑"
+        "lang:ko": "대전광역시 유성구갑"
       },
       "parent_id": "Q20921"
     },
@@ -2379,7 +2379,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 서초구을"
+        "lang:ko": "서울특별시 서초구을"
       },
       "parent_id": "Q8684"
     },
@@ -2403,7 +2403,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 포항시남구울릉군"
+        "lang:ko": "경상북도 포항시남구울릉군"
       },
       "parent_id": "Q41154"
     },
@@ -2427,7 +2427,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 고흥군보성군장흥군강진군"
+        "lang:ko": "전라남도 고흥군보성군장흥군강진군"
       },
       "parent_id": "Q41161"
     },
@@ -2451,7 +2451,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 진주시갑"
+        "lang:ko": "경상남도 진주시갑"
       },
       "parent_id": "Q41151"
     },
@@ -2475,7 +2475,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 부평구을"
+        "lang:ko": "인천광역시 부평구을"
       },
       "parent_id": "Q20934"
     },
@@ -2499,7 +2499,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 북구갑"
+        "lang:ko": "대구광역시 북구갑"
       },
       "parent_id": "Q20927"
     },
@@ -2523,7 +2523,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 전주시병"
+        "lang:ko": "전라북도 전주시병"
       },
       "parent_id": "Q41157"
     },
@@ -2547,7 +2547,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 태백시횡성군영월군평창군정선군"
+        "lang:ko": "강원도 태백시횡성군영월군평창군정선군"
       },
       "parent_id": "Q41071"
     },
@@ -2571,7 +2571,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 영주시문경시예천군"
+        "lang:ko": "경상북도 영주시문경시예천군"
       },
       "parent_id": "Q41154"
     },
@@ -2595,7 +2595,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 전주시을"
+        "lang:ko": "전라북도 전주시을"
       },
       "parent_id": "Q41157"
     },
@@ -2619,7 +2619,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 노원구병"
+        "lang:ko": "서울특별시 노원구병"
       },
       "parent_id": "Q8684"
     },
@@ -2643,7 +2643,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 북구강서구갑"
+        "lang:ko": "부산광역시 북구강서구갑"
       },
       "parent_id": "Q16520"
     },
@@ -2667,7 +2667,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 의정부시을"
+        "lang:ko": "경기도 의정부시을"
       },
       "parent_id": "Q20937"
     },
@@ -2691,7 +2691,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 구로구갑"
+        "lang:ko": "서울특별시 구로구갑"
       },
       "parent_id": "Q8684"
     },
@@ -2715,7 +2715,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안양시만안구"
+        "lang:ko": "경기도 안양시만안구"
       },
       "parent_id": "Q20937"
     },
@@ -2739,7 +2739,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 노원구을"
+        "lang:ko": "서울특별시 노원구을"
       },
       "parent_id": "Q8684"
     },
@@ -2763,7 +2763,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 부천시오정구"
+        "lang:ko": "경기도 부천시오정구"
       },
       "parent_id": "Q20937"
     },
@@ -2787,7 +2787,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 목포시"
+        "lang:ko": "전라남도 목포시"
       },
       "parent_id": "Q41161"
     },
@@ -2811,7 +2811,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 성남시분당구갑"
+        "lang:ko": "경기도 성남시분당구갑"
       },
       "parent_id": "Q20937"
     },
@@ -2835,7 +2835,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 해운대구을"
+        "lang:ko": "부산광역시 해운대구을"
       },
       "parent_id": "Q16520"
     },
@@ -2859,7 +2859,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 여수시갑"
+        "lang:ko": "전라남도 여수시갑"
       },
       "parent_id": "Q41161"
     },
@@ -2883,7 +2883,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 김제시부안군"
+        "lang:ko": "전라북도 김제시부안군"
       },
       "parent_id": "Q41157"
     },
@@ -2907,7 +2907,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 남양주시갑"
+        "lang:ko": "경기도 남양주시갑"
       },
       "parent_id": "Q20937"
     },
@@ -2931,7 +2931,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강남구병"
+        "lang:ko": "서울특별시 강남구병"
       },
       "parent_id": "Q8684"
     },
@@ -2955,7 +2955,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 대덕구"
+        "lang:ko": "대전광역시 대덕구"
       },
       "parent_id": "Q20921"
     },
@@ -2979,7 +2979,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 의왕시과천시"
+        "lang:ko": "경기도 의왕시과천시"
       },
       "parent_id": "Q20937"
     },
@@ -3003,7 +3003,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 당진시"
+        "lang:ko": "충청남도 당진시"
       },
       "parent_id": "Q41070"
     },
@@ -3027,7 +3027,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 시흥시갑"
+        "lang:ko": "경기도 시흥시갑"
       },
       "parent_id": "Q20937"
     },
@@ -3051,7 +3051,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 고령군성주군칠곡군"
+        "lang:ko": "경상북도 고령군성주군칠곡군"
       },
       "parent_id": "Q41154"
     },
@@ -3075,7 +3075,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 서구동구"
+        "lang:ko": "부산광역시 서구동구"
       },
       "parent_id": "Q16520"
     },
@@ -3099,7 +3099,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 영암군무안군신안군"
+        "lang:ko": "전라남도 영암군무안군신안군"
       },
       "parent_id": "Q41161"
     },
@@ -3123,7 +3123,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 공주시부여군청양군"
+        "lang:ko": "충청남도 공주시부여군청양군"
       },
       "parent_id": "Q41070"
     },
@@ -3147,7 +3147,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 송파구갑"
+        "lang:ko": "서울특별시 송파구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3171,7 +3171,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강동구을"
+        "lang:ko": "서울특별시 강동구을"
       },
       "parent_id": "Q8684"
     },
@@ -3195,7 +3195,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 평택시갑"
+        "lang:ko": "경기도 평택시갑"
       },
       "parent_id": "Q20937"
     },
@@ -3219,7 +3219,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강북구갑"
+        "lang:ko": "서울특별시 강북구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3243,7 +3243,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 달서구을"
+        "lang:ko": "대구광역시 달서구을"
       },
       "parent_id": "Q20927"
     },
@@ -3267,7 +3267,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 중랑구갑"
+        "lang:ko": "서울특별시 중랑구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3291,7 +3291,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 북구을"
+        "lang:ko": "광주광역시 북구을"
       },
       "parent_id": "Q41283"
     },
@@ -3315,7 +3315,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 부산진구갑"
+        "lang:ko": "부산광역시 부산진구갑"
       },
       "parent_id": "Q16520"
     },
@@ -3339,7 +3339,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 노원구갑"
+        "lang:ko": "서울특별시 노원구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3363,7 +3363,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안양시동안구을"
+        "lang:ko": "경기도 안양시동안구을"
       },
       "parent_id": "Q20937"
     },
@@ -3387,7 +3387,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 양천구갑"
+        "lang:ko": "서울특별시 양천구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3411,7 +3411,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 광산구갑"
+        "lang:ko": "광주광역시 광산구갑"
       },
       "parent_id": "Q41283"
     },
@@ -3435,7 +3435,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 동해시삼척시"
+        "lang:ko": "강원도 동해시삼척시"
       },
       "parent_id": "Q41071"
     },
@@ -3459,7 +3459,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 은평구갑"
+        "lang:ko": "서울특별시 은평구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3483,7 +3483,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 창원시성산구"
+        "lang:ko": "경상남도 창원시성산구"
       },
       "parent_id": "Q41151"
     },
@@ -3507,7 +3507,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 부천시원미구을"
+        "lang:ko": "경기도 부천시원미구을"
       },
       "parent_id": "Q20937"
     },
@@ -3531,7 +3531,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 송파구병"
+        "lang:ko": "서울특별시 송파구병"
       },
       "parent_id": "Q8684"
     },
@@ -3555,7 +3555,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 순천시"
+        "lang:ko": "전라남도 순천시"
       },
       "parent_id": "Q41161"
     },
@@ -3579,7 +3579,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 송파구을"
+        "lang:ko": "서울특별시 송파구을"
       },
       "parent_id": "Q8684"
     },
@@ -3603,7 +3603,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 김해시갑"
+        "lang:ko": "경상남도 김해시갑"
       },
       "parent_id": "Q41151"
     },
@@ -3627,7 +3627,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 담양군함평군영광군장성군"
+        "lang:ko": "전라남도 담양군함평군영광군장성군"
       },
       "parent_id": "Q41161"
     },
@@ -3651,7 +3651,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 이천시"
+        "lang:ko": "경기도 이천시"
       },
       "parent_id": "Q20937"
     },
@@ -3675,7 +3675,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 양주시"
+        "lang:ko": "경기도 양주시"
       },
       "parent_id": "Q20937"
     },
@@ -3699,7 +3699,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 동구갑"
+        "lang:ko": "대구광역시 동구갑"
       },
       "parent_id": "Q20927"
     },
@@ -3723,7 +3723,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 광진구갑"
+        "lang:ko": "서울특별시 광진구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3747,7 +3747,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 군포시을"
+        "lang:ko": "경기도 군포시을"
       },
       "parent_id": "Q20937"
     },
@@ -3771,7 +3771,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 안동시"
+        "lang:ko": "경상북도 안동시"
       },
       "parent_id": "Q41154"
     },
@@ -3795,7 +3795,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 화성시병"
+        "lang:ko": "경기도 화성시병"
       },
       "parent_id": "Q20937"
     },
@@ -3819,7 +3819,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 사상구"
+        "lang:ko": "부산광역시 사상구"
       },
       "parent_id": "Q16520"
     },
@@ -3843,7 +3843,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강동구갑"
+        "lang:ko": "서울특별시 강동구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3867,7 +3867,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 영등포구갑"
+        "lang:ko": "서울특별시 영등포구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3891,7 +3891,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 성남시중원구"
+        "lang:ko": "경기도 성남시중원구"
       },
       "parent_id": "Q20937"
     },
@@ -3915,7 +3915,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 서초구갑"
+        "lang:ko": "서울특별시 서초구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3939,7 +3939,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 김해시을"
+        "lang:ko": "경상남도 김해시을"
       },
       "parent_id": "Q41151"
     },
@@ -3963,7 +3963,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 도봉구갑"
+        "lang:ko": "서울특별시 도봉구갑"
       },
       "parent_id": "Q8684"
     },
@@ -3987,7 +3987,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 창원시마산합포구"
+        "lang:ko": "경상남도 창원시마산합포구"
       },
       "parent_id": "Q41151"
     },
@@ -4011,7 +4011,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 사하구을"
+        "lang:ko": "부산광역시 사하구을"
       },
       "parent_id": "Q16520"
     },
@@ -4035,7 +4035,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 보령시서천군"
+        "lang:ko": "충청남도 보령시서천군"
       },
       "parent_id": "Q41070"
     },
@@ -4059,7 +4059,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 수원시정"
+        "lang:ko": "경기도 수원시정"
       },
       "parent_id": "Q20937"
     },
@@ -4083,7 +4083,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 동대문구갑"
+        "lang:ko": "서울특별시 동대문구갑"
       },
       "parent_id": "Q8684"
     },
@@ -4107,7 +4107,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 용인시병"
+        "lang:ko": "경기도 용인시병"
       },
       "parent_id": "Q20937"
     },
@@ -4131,7 +4131,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 사천시남해군하동군"
+        "lang:ko": "경상남도 사천시남해군하동군"
       },
       "parent_id": "Q41151"
     },
@@ -4155,7 +4155,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 울주군"
+        "lang:ko": "울산광역시 울주군"
       },
       "parent_id": "Q41278"
     },
@@ -4179,7 +4179,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 원주시을"
+        "lang:ko": "강원도 원주시을"
       },
       "parent_id": "Q41071"
     },
@@ -4203,7 +4203,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 제천시단양군"
+        "lang:ko": "충청북도 제천시단양군"
       },
       "parent_id": "Q41066"
     },
@@ -4227,7 +4227,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 통영시고성군"
+        "lang:ko": "경상남도 통영시고성군"
       },
       "parent_id": "Q41151"
     },
@@ -4251,7 +4251,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 수원시을"
+        "lang:ko": "경기도 수원시을"
       },
       "parent_id": "Q20937"
     },
@@ -4275,7 +4275,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 진주시을"
+        "lang:ko": "경상남도 진주시을"
       },
       "parent_id": "Q41151"
     },
@@ -4299,7 +4299,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 서구을"
+        "lang:ko": "대전광역시 서구을"
       },
       "parent_id": "Q20921"
     },
@@ -4323,7 +4323,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 유성구을"
+        "lang:ko": "대전광역시 유성구을"
       },
       "parent_id": "Q20921"
     },
@@ -4347,7 +4347,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 군산시"
+        "lang:ko": "전라북도 군산시"
       },
       "parent_id": "Q41157"
     },
@@ -4371,7 +4371,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 남구을"
+        "lang:ko": "울산광역시 남구을"
       },
       "parent_id": "Q41278"
     },
@@ -4395,7 +4395,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 청주시서원구"
+        "lang:ko": "충청북도 청주시서원구"
       },
       "parent_id": "Q41066"
     },
@@ -4419,7 +4419,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 파주시갑"
+        "lang:ko": "경기도 파주시갑"
       },
       "parent_id": "Q20937"
     },
@@ -4443,7 +4443,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 상주시군위군의성군청송군"
+        "lang:ko": "경상북도 상주시군위군의성군청송군"
       },
       "parent_id": "Q41154"
     },
@@ -4467,7 +4467,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 마포구을"
+        "lang:ko": "서울특별시 마포구을"
       },
       "parent_id": "Q8684"
     },
@@ -4491,7 +4491,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 동구을"
+        "lang:ko": "대구광역시 동구을"
       },
       "parent_id": "Q20927"
     },
@@ -4515,7 +4515,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 화성시갑"
+        "lang:ko": "경기도 화성시갑"
       },
       "parent_id": "Q20937"
     },
@@ -4539,7 +4539,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 서구을"
+        "lang:ko": "인천광역시 서구을"
       },
       "parent_id": "Q20934"
     },
@@ -4563,7 +4563,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 중랑구을"
+        "lang:ko": "서울특별시 중랑구을"
       },
       "parent_id": "Q8684"
     },
@@ -4587,7 +4587,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강남구갑"
+        "lang:ko": "서울특별시 강남구갑"
       },
       "parent_id": "Q8684"
     },
@@ -4611,7 +4611,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 남구갑"
+        "lang:ko": "울산광역시 남구갑"
       },
       "parent_id": "Q41278"
     },
@@ -4635,7 +4635,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 관악구을"
+        "lang:ko": "서울특별시 관악구을"
       },
       "parent_id": "Q8684"
     },
@@ -4659,7 +4659,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 여수시을"
+        "lang:ko": "전라남도 여수시을"
       },
       "parent_id": "Q41161"
     },
@@ -4683,7 +4683,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 남동구갑"
+        "lang:ko": "인천광역시 남동구갑"
       },
       "parent_id": "Q20934"
     },
@@ -4707,7 +4707,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 중구성동구을"
+        "lang:ko": "서울특별시 중구성동구을"
       },
       "parent_id": "Q8684"
     },
@@ -4731,7 +4731,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 고양시병"
+        "lang:ko": "경기도 고양시병"
       },
       "parent_id": "Q20937"
     },
@@ -4755,7 +4755,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 광주시갑"
+        "lang:ko": "경기도 광주시갑"
       },
       "parent_id": "Q20937"
     },
@@ -4779,7 +4779,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 달성군"
+        "lang:ko": "대구광역시 달성군"
       },
       "parent_id": "Q20927"
     },
@@ -4803,7 +4803,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 성남시수정구"
+        "lang:ko": "경기도 성남시수정구"
       },
       "parent_id": "Q20937"
     },
@@ -4827,7 +4827,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강서구병"
+        "lang:ko": "서울특별시 강서구병"
       },
       "parent_id": "Q8684"
     },
@@ -4851,7 +4851,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 수원시병"
+        "lang:ko": "경기도 수원시병"
       },
       "parent_id": "Q20937"
     },
@@ -4875,7 +4875,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 남구갑"
+        "lang:ko": "부산광역시 남구갑"
       },
       "parent_id": "Q16520"
     },
@@ -4899,7 +4899,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 김포시을"
+        "lang:ko": "경기도 김포시을"
       },
       "parent_id": "Q20937"
     },
@@ -4923,7 +4923,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 수성구을"
+        "lang:ko": "대구광역시 수성구을"
       },
       "parent_id": "Q20927"
     },
@@ -4947,7 +4947,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 부평구갑"
+        "lang:ko": "인천광역시 부평구갑"
       },
       "parent_id": "Q20934"
     },
@@ -4971,7 +4971,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 군포시갑"
+        "lang:ko": "경기도 군포시갑"
       },
       "parent_id": "Q20937"
     },
@@ -4995,7 +4995,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 남양주시병"
+        "lang:ko": "경기도 남양주시병"
       },
       "parent_id": "Q20937"
     },
@@ -5019,7 +5019,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 사하구갑"
+        "lang:ko": "부산광역시 사하구갑"
       },
       "parent_id": "Q16520"
     },
@@ -5043,7 +5043,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 양산시을"
+        "lang:ko": "경상남도 양산시을"
       },
       "parent_id": "Q41151"
     },
@@ -5067,7 +5067,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 화성시을"
+        "lang:ko": "경기도 화성시을"
       },
       "parent_id": "Q20937"
     },
@@ -5091,7 +5091,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 북구갑"
+        "lang:ko": "광주광역시 북구갑"
       },
       "parent_id": "Q41283"
     },
@@ -5115,7 +5115,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 서구을"
+        "lang:ko": "광주광역시 서구을"
       },
       "parent_id": "Q41283"
     },
@@ -5139,7 +5139,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 계양구갑"
+        "lang:ko": "인천광역시 계양구갑"
       },
       "parent_id": "Q20934"
     },
@@ -5163,7 +5163,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 수영구"
+        "lang:ko": "부산광역시 수영구"
       },
       "parent_id": "Q16520"
     },
@@ -5187,7 +5187,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 부천시소사구"
+        "lang:ko": "경기도 부천시소사구"
       },
       "parent_id": "Q20937"
     },
@@ -5211,7 +5211,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 기장군"
+        "lang:ko": "부산광역시 기장군"
       },
       "parent_id": "Q16520"
     },
@@ -5235,7 +5235,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안산시상록구갑"
+        "lang:ko": "경기도 안산시상록구갑"
       },
       "parent_id": "Q20937"
     },
@@ -5259,7 +5259,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 나주시화순군"
+        "lang:ko": "전라남도 나주시화순군"
       },
       "parent_id": "Q41161"
     },
@@ -5283,7 +5283,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 홍천군철원군화천군양구군인제군"
+        "lang:ko": "강원도 홍천군철원군화천군양구군인제군"
       },
       "parent_id": "Q41071"
     },
@@ -5307,7 +5307,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 수원시갑"
+        "lang:ko": "경기도 수원시갑"
       },
       "parent_id": "Q20937"
     },
@@ -5331,7 +5331,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 시흥시을"
+        "lang:ko": "경기도 시흥시을"
       },
       "parent_id": "Q20937"
     },
@@ -5355,7 +5355,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 논산시계룡시금산군"
+        "lang:ko": "충청남도 논산시계룡시금산군"
       },
       "parent_id": "Q41070"
     },
@@ -5379,7 +5379,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 남양주시을"
+        "lang:ko": "경기도 남양주시을"
       },
       "parent_id": "Q20937"
     },
@@ -5403,7 +5403,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 천안시을"
+        "lang:ko": "충청남도 천안시을"
       },
       "parent_id": "Q41070"
     },
@@ -5427,7 +5427,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 용인시을"
+        "lang:ko": "경기도 용인시을"
       },
       "parent_id": "Q20937"
     },
@@ -5451,7 +5451,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 파주시을"
+        "lang:ko": "경기도 파주시을"
       },
       "parent_id": "Q20937"
     },
@@ -5475,7 +5475,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 동구남구을"
+        "lang:ko": "광주광역시 동구남구을"
       },
       "parent_id": "Q41283"
     },
@@ -5499,7 +5499,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 용인시갑"
+        "lang:ko": "경기도 용인시갑"
       },
       "parent_id": "Q20937"
     },
@@ -5523,7 +5523,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 남구갑"
+        "lang:ko": "인천광역시 남구갑"
       },
       "parent_id": "Q20934"
     },
@@ -5547,7 +5547,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 창원시진해구"
+        "lang:ko": "경상남도 창원시진해구"
       },
       "parent_id": "Q41151"
     },
@@ -5571,7 +5571,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라북도 정읍시고창군"
+        "lang:ko": "전라북도 정읍시고창군"
       },
       "parent_id": "Q41157"
     },
@@ -5595,7 +5595,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "광주광역시 광산구을"
+        "lang:ko": "광주광역시 광산구을"
       },
       "parent_id": "Q41283"
     },
@@ -5619,7 +5619,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 고양시정"
+        "lang:ko": "경기도 고양시정"
       },
       "parent_id": "Q20937"
     },
@@ -5643,7 +5643,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 구미시갑"
+        "lang:ko": "경상북도 구미시갑"
       },
       "parent_id": "Q41154"
     },
@@ -5667,7 +5667,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 서구갑"
+        "lang:ko": "인천광역시 서구갑"
       },
       "parent_id": "Q20934"
     },
@@ -5691,7 +5691,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 양천구을"
+        "lang:ko": "서울특별시 양천구을"
       },
       "parent_id": "Q8684"
     },
@@ -5715,7 +5715,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 광양시곡성군구례군"
+        "lang:ko": "전라남도 광양시곡성군구례군"
       },
       "parent_id": "Q41161"
     },
@@ -5739,7 +5739,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 경산시"
+        "lang:ko": "경상북도 경산시"
       },
       "parent_id": "Q41154"
     },
@@ -5763,7 +5763,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 밀양시의령군함안군창녕군"
+        "lang:ko": "경상남도 밀양시의령군함안군창녕군"
       },
       "parent_id": "Q41151"
     },
@@ -5787,7 +5787,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 관악구갑"
+        "lang:ko": "서울특별시 관악구갑"
       },
       "parent_id": "Q8684"
     },
@@ -5811,7 +5811,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 남동구을"
+        "lang:ko": "인천광역시 남동구을"
       },
       "parent_id": "Q20934"
     },
@@ -5835,7 +5835,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 동래구"
+        "lang:ko": "부산광역시 동래구"
       },
       "parent_id": "Q16520"
     },
@@ -5859,7 +5859,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 아산시갑"
+        "lang:ko": "충청남도 아산시갑"
       },
       "parent_id": "Q41070"
     },
@@ -5883,7 +5883,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 김천시"
+        "lang:ko": "경상북도 김천시"
       },
       "parent_id": "Q41154"
     },
@@ -5907,7 +5907,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 서대문구을"
+        "lang:ko": "서울특별시 서대문구을"
       },
       "parent_id": "Q8684"
     },
@@ -5931,7 +5931,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 창원시의창구"
+        "lang:ko": "경상남도 창원시의창구"
       },
       "parent_id": "Q41151"
     },
@@ -5955,7 +5955,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 수원시무"
+        "lang:ko": "경기도 수원시무"
       },
       "parent_id": "Q20937"
     },
@@ -5979,7 +5979,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 포천시가평군"
+        "lang:ko": "경기도 포천시가평군"
       },
       "parent_id": "Q20937"
     },
@@ -6003,7 +6003,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 평택시을"
+        "lang:ko": "경기도 평택시을"
       },
       "parent_id": "Q20937"
     },
@@ -6027,7 +6027,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 양산시갑"
+        "lang:ko": "경상남도 양산시갑"
       },
       "parent_id": "Q41151"
     },
@@ -6051,7 +6051,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 은평구을"
+        "lang:ko": "서울특별시 은평구을"
       },
       "parent_id": "Q8684"
     },
@@ -6075,7 +6075,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "강원도 춘천시"
+        "lang:ko": "강원도 춘천시"
       },
       "parent_id": "Q41071"
     },
@@ -6099,7 +6099,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강남구을"
+        "lang:ko": "서울특별시 강남구을"
       },
       "parent_id": "Q8684"
     },
@@ -6123,7 +6123,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 중구남구"
+        "lang:ko": "대구광역시 중구남구"
       },
       "parent_id": "Q20927"
     },
@@ -6147,7 +6147,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 용인시정"
+        "lang:ko": "경기도 용인시정"
       },
       "parent_id": "Q20937"
     },
@@ -6171,7 +6171,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 안산시상록구을"
+        "lang:ko": "경기도 안산시상록구을"
       },
       "parent_id": "Q20937"
     },
@@ -6195,7 +6195,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청북도 충주시"
+        "lang:ko": "충청북도 충주시"
       },
       "parent_id": "Q41066"
     },
@@ -6219,7 +6219,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 홍성군예산군"
+        "lang:ko": "충청남도 홍성군예산군"
       },
       "parent_id": "Q41070"
     },
@@ -6243,7 +6243,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 도봉구을"
+        "lang:ko": "서울특별시 도봉구을"
       },
       "parent_id": "Q8684"
     },
@@ -6267,7 +6267,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 강서구갑"
+        "lang:ko": "서울특별시 강서구갑"
       },
       "parent_id": "Q8684"
     },
@@ -6291,7 +6291,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 고양시을"
+        "lang:ko": "경기도 고양시을"
       },
       "parent_id": "Q20937"
     },
@@ -6315,7 +6315,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 북구강서구을"
+        "lang:ko": "부산광역시 북구강서구을"
       },
       "parent_id": "Q16520"
     },
@@ -6339,7 +6339,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 남구을"
+        "lang:ko": "인천광역시 남구을"
       },
       "parent_id": "Q20934"
     },
@@ -6363,7 +6363,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "충청남도 아산시을"
+        "lang:ko": "충청남도 아산시을"
       },
       "parent_id": "Q41070"
     },
@@ -6387,7 +6387,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 해운대구갑"
+        "lang:ko": "부산광역시 해운대구갑"
       },
       "parent_id": "Q16520"
     },
@@ -6411,7 +6411,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 산청군함양군거창군합천군"
+        "lang:ko": "경상남도 산청군함양군거창군합천군"
       },
       "parent_id": "Q41151"
     },
@@ -6435,7 +6435,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "전라남도 해남군완도군진도군"
+        "lang:ko": "전라남도 해남군완도군진도군"
       },
       "parent_id": "Q41161"
     },
@@ -6459,7 +6459,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "인천광역시 연수구갑"
+        "lang:ko": "인천광역시 연수구갑"
       },
       "parent_id": "Q20934"
     },
@@ -6483,8 +6483,8 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "비례대표 국회의원 선거구",
-        "lang:en_US": "PR assembly constituency in South Korea"
+        "lang:ko": "비례대표 국회의원 선거구",
+        "lang:en": "PR assembly constituency in South Korea"
       },
       "parent_id": null
     },
@@ -6508,7 +6508,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "제주특별자치도 서귀포시"
+        "lang:ko": "제주특별자치도 서귀포시"
       },
       "parent_id": "Q41164"
     },
@@ -6532,7 +6532,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 동구"
+        "lang:ko": "울산광역시 동구"
       },
       "parent_id": "Q41278"
     },
@@ -6556,7 +6556,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상남도 거제시"
+        "lang:ko": "경상남도 거제시"
       },
       "parent_id": "Q41151"
     },
@@ -6580,7 +6580,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경상북도 경주시"
+        "lang:ko": "경상북도 경주시"
       },
       "parent_id": "Q41154"
     },
@@ -6604,7 +6604,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 구리시"
+        "lang:ko": "경기도 구리시"
       },
       "parent_id": "Q20937"
     },
@@ -6628,7 +6628,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "경기도 하남시"
+        "lang:ko": "경기도 하남시"
       },
       "parent_id": "Q20937"
     },
@@ -6652,7 +6652,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "울산광역시 북구"
+        "lang:ko": "울산광역시 북구"
       },
       "parent_id": "Q41278"
     },
@@ -6676,7 +6676,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "서울특별시 용산구"
+        "lang:ko": "서울특별시 용산구"
       },
       "parent_id": "Q8684"
     },
@@ -6700,7 +6700,7 @@
         "lang:en": "Constituency of the National Assembly of South Korea"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 서구"
+        "lang:ko": "대구광역시 서구"
       },
       "parent_id": "Q20927"
     },
@@ -6724,8 +6724,8 @@
         "lang:en": "special city of South Korea"
       },
       "name": {
-        "lang:en_US": "Seoul",
-        "lang:ko_KR": "서울특별시"
+        "lang:en": "Seoul",
+        "lang:ko": "서울특별시"
       },
       "parent_id": "Q884"
     },
@@ -6748,8 +6748,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }
