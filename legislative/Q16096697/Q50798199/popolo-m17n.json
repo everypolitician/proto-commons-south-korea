@@ -233,8 +233,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Busan",
-        "lang:ko_KR": "부산광역시"
+        "lang:en": "Busan",
+        "lang:ko": "부산광역시"
       },
       "parent_id": "Q884"
     },
@@ -258,7 +258,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "동구제2선거구"
+        "lang:ko": "동구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -282,7 +282,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "동래구제3선거구"
+        "lang:ko": "동래구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -306,7 +306,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "해운대구제4선거구"
+        "lang:ko": "해운대구제4선거구"
       },
       "parent_id": "Q16520"
     },
@@ -330,7 +330,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "남구제1선거구"
+        "lang:ko": "남구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -354,7 +354,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "북구제3선거구"
+        "lang:ko": "북구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -378,7 +378,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사하구제2선거구"
+        "lang:ko": "사하구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -402,7 +402,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "금정구제2선거구"
+        "lang:ko": "금정구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -426,7 +426,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "수영구제2선거구"
+        "lang:ko": "수영구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -450,7 +450,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "연제구제2선거구"
+        "lang:ko": "연제구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -474,7 +474,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "강서구제1선거구"
+        "lang:ko": "강서구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -498,7 +498,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "동래구제1선거구"
+        "lang:ko": "동래구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -522,7 +522,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "기장군제1선거구"
+        "lang:ko": "기장군제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -546,7 +546,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "동구제1선거구"
+        "lang:ko": "동구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -570,7 +570,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사상구제1선거구"
+        "lang:ko": "사상구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -594,7 +594,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "북구제4선거구"
+        "lang:ko": "북구제4선거구"
       },
       "parent_id": "Q16520"
     },
@@ -618,7 +618,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사하구제4선거구"
+        "lang:ko": "사하구제4선거구"
       },
       "parent_id": "Q16520"
     },
@@ -642,7 +642,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "영도구제1선거구"
+        "lang:ko": "영도구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -666,7 +666,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "남구제2선거구"
+        "lang:ko": "남구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -690,7 +690,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "해운대구제2선거구"
+        "lang:ko": "해운대구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -714,7 +714,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "부산진구제4선거구"
+        "lang:ko": "부산진구제4선거구"
       },
       "parent_id": "Q16520"
     },
@@ -738,7 +738,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "북구제1선거구"
+        "lang:ko": "북구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -762,7 +762,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "영도구제2선거구"
+        "lang:ko": "영도구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -786,7 +786,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "기장군제2선거구"
+        "lang:ko": "기장군제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -810,7 +810,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "부산진구제1선거구"
+        "lang:ko": "부산진구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -834,7 +834,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사하구제3선거구"
+        "lang:ko": "사하구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -858,7 +858,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "서구제2선거구"
+        "lang:ko": "서구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -882,7 +882,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "남구제4선거구"
+        "lang:ko": "남구제4선거구"
       },
       "parent_id": "Q16520"
     },
@@ -906,7 +906,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "부산진구제2선거구"
+        "lang:ko": "부산진구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -930,7 +930,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "중구선거구"
+        "lang:ko": "중구선거구"
       },
       "parent_id": "Q16520"
     },
@@ -954,7 +954,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "남구제3선거구"
+        "lang:ko": "남구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -978,7 +978,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "수영구제1선거구"
+        "lang:ko": "수영구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1002,7 +1002,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "동래구제2선거구"
+        "lang:ko": "동래구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1026,7 +1026,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "서구제1선거구"
+        "lang:ko": "서구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1050,7 +1050,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "해운대구제1선거구"
+        "lang:ko": "해운대구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1074,7 +1074,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "강서구제2선거구"
+        "lang:ko": "강서구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1098,7 +1098,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "해운대구제3선거구"
+        "lang:ko": "해운대구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1122,7 +1122,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "부산진구제3선거구"
+        "lang:ko": "부산진구제3선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1146,7 +1146,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "연제구제1선거구"
+        "lang:ko": "연제구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1170,7 +1170,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사하구제1선거구"
+        "lang:ko": "사하구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1194,7 +1194,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "북구제2선거구"
+        "lang:ko": "북구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1218,7 +1218,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "사상구제2선거구"
+        "lang:ko": "사상구제2선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1242,7 +1242,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "금정구제1선거구"
+        "lang:ko": "금정구제1선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1266,7 +1266,7 @@
         "lang:en": "FLACS Council Constituency of Busan"
       },
       "name": {
-        "lang:ko_KR": "부산광역시 비례대표 선거구"
+        "lang:ko": "부산광역시 비례대표 선거구"
       },
       "parent_id": "Q16520"
     },
@@ -1289,8 +1289,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

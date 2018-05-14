@@ -244,8 +244,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Gangwon-do",
-        "lang:ko_KR": "강원도"
+        "lang:en": "Gangwon-do",
+        "lang:ko": "강원도"
       },
       "parent_id": "Q884"
     },
@@ -269,7 +269,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "횡성군제2선거구"
+        "lang:ko": "횡성군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -293,7 +293,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "평창군제2선거구"
+        "lang:ko": "평창군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -317,7 +317,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "춘천시제4선거구"
+        "lang:ko": "춘천시제4선거구"
       },
       "parent_id": "Q41071"
     },
@@ -341,7 +341,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "평창군제1선거구"
+        "lang:ko": "평창군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -365,7 +365,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "동해시제2선거구"
+        "lang:ko": "동해시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -389,7 +389,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "강릉시제3선거구"
+        "lang:ko": "강릉시제3선거구"
       },
       "parent_id": "Q41071"
     },
@@ -413,7 +413,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "강릉시제1선거구"
+        "lang:ko": "강릉시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -437,7 +437,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제5선거구"
+        "lang:ko": "원주시제5선거구"
       },
       "parent_id": "Q41071"
     },
@@ -461,7 +461,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제4선거구"
+        "lang:ko": "원주시제4선거구"
       },
       "parent_id": "Q41071"
     },
@@ -485,7 +485,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "홍천군제1선거구"
+        "lang:ko": "홍천군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -509,7 +509,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제3선거구"
+        "lang:ko": "원주시제3선거구"
       },
       "parent_id": "Q41071"
     },
@@ -533,7 +533,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제2선거구"
+        "lang:ko": "원주시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -557,7 +557,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "태백시제1선거구"
+        "lang:ko": "태백시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -581,7 +581,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "양구군선거구"
+        "lang:ko": "양구군선거구"
       },
       "parent_id": "Q41071"
     },
@@ -605,7 +605,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "철원군제2선거구"
+        "lang:ko": "철원군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -629,7 +629,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "고성군선거구"
+        "lang:ko": "고성군선거구"
       },
       "parent_id": "Q41071"
     },
@@ -653,7 +653,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "태백시제2선거구"
+        "lang:ko": "태백시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -677,7 +677,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "정선군제2선거구"
+        "lang:ko": "정선군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -701,7 +701,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "속초시제1선거구"
+        "lang:ko": "속초시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -725,7 +725,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "삼척시제1선거구"
+        "lang:ko": "삼척시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -749,7 +749,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "속초시제2선거구"
+        "lang:ko": "속초시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -773,7 +773,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "춘천시제3선거구"
+        "lang:ko": "춘천시제3선거구"
       },
       "parent_id": "Q41071"
     },
@@ -797,7 +797,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "강릉시제4선거구"
+        "lang:ko": "강릉시제4선거구"
       },
       "parent_id": "Q41071"
     },
@@ -821,7 +821,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "정선군제1선거구"
+        "lang:ko": "정선군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -845,7 +845,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "춘천시제1선거구"
+        "lang:ko": "춘천시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -869,7 +869,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "홍천군제2선거구"
+        "lang:ko": "홍천군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -893,7 +893,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "횡성군제1선거구"
+        "lang:ko": "횡성군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -917,7 +917,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "화천군선거구"
+        "lang:ko": "화천군선거구"
       },
       "parent_id": "Q41071"
     },
@@ -941,7 +941,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제6선거구"
+        "lang:ko": "원주시제6선거구"
       },
       "parent_id": "Q41071"
     },
@@ -965,7 +965,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "삼척시제2선거구"
+        "lang:ko": "삼척시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -989,7 +989,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "영월군제1선거구"
+        "lang:ko": "영월군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1013,7 +1013,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "영월군제2선거구"
+        "lang:ko": "영월군제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1037,7 +1037,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "동해시제1선거구"
+        "lang:ko": "동해시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1061,7 +1061,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "춘천시제5선거구"
+        "lang:ko": "춘천시제5선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1085,7 +1085,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "양양군선거구"
+        "lang:ko": "양양군선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1109,7 +1109,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "원주시제1선거구"
+        "lang:ko": "원주시제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1133,7 +1133,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "인제군선거구"
+        "lang:ko": "인제군선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1157,7 +1157,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "철원군제1선거구"
+        "lang:ko": "철원군제1선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1181,7 +1181,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "강릉시제2선거구"
+        "lang:ko": "강릉시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1205,7 +1205,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "춘천시제2선거구"
+        "lang:ko": "춘천시제2선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1229,7 +1229,7 @@
         "lang:en": "FLACS Council Constituency of Gangwon Province"
       },
       "name": {
-        "lang:ko_KR": "강원도 비례대표 선거구"
+        "lang:ko": "강원도 비례대표 선거구"
       },
       "parent_id": "Q41071"
     },
@@ -1252,8 +1252,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

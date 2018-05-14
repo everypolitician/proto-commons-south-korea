@@ -26,8 +26,8 @@
         "lang:en": "province of South Korea"
       },
       "name": {
-        "lang:en_US": "Chungcheongnam-do",
-        "lang:ko_KR": "충청남도"
+        "lang:en": "Chungcheongnam-do",
+        "lang:ko": "충청남도"
       },
       "parent_id": "Q884"
     },
@@ -50,8 +50,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

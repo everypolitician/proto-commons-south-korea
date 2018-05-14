@@ -244,8 +244,8 @@
         "lang:en": "special autonomous city in South Korea"
       },
       "name": {
-        "lang:en_US": "Sejong Special Self-Governing City",
-        "lang:ko_KR": "세종특별자치시"
+        "lang:en": "Sejong Special Self-Governing City",
+        "lang:ko": "세종특별자치시"
       },
       "parent_id": "Q884"
     },
@@ -269,7 +269,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제13선거구"
+        "lang:ko": "세종특별자치시제13선거구"
       },
       "parent_id": "Q20929"
     },
@@ -293,7 +293,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제9선거구"
+        "lang:ko": "세종특별자치시제9선거구"
       },
       "parent_id": "Q20929"
     },
@@ -317,7 +317,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제4선거구"
+        "lang:ko": "세종특별자치시제4선거구"
       },
       "parent_id": "Q20929"
     },
@@ -341,7 +341,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제2선거구"
+        "lang:ko": "세종특별자치시제2선거구"
       },
       "parent_id": "Q20929"
     },
@@ -365,7 +365,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제11선거구"
+        "lang:ko": "세종특별자치시제11선거구"
       },
       "parent_id": "Q20929"
     },
@@ -389,7 +389,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제7선거구"
+        "lang:ko": "세종특별자치시제7선거구"
       },
       "parent_id": "Q20929"
     },
@@ -413,7 +413,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제5선거구"
+        "lang:ko": "세종특별자치시제5선거구"
       },
       "parent_id": "Q20929"
     },
@@ -437,7 +437,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제8선거구"
+        "lang:ko": "세종특별자치시제8선거구"
       },
       "parent_id": "Q20929"
     },
@@ -461,7 +461,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제6선거구"
+        "lang:ko": "세종특별자치시제6선거구"
       },
       "parent_id": "Q20929"
     },
@@ -485,7 +485,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제1선거구"
+        "lang:ko": "세종특별자치시제1선거구"
       },
       "parent_id": "Q20929"
     },
@@ -509,7 +509,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제3선거구"
+        "lang:ko": "세종특별자치시제3선거구"
       },
       "parent_id": "Q20929"
     },
@@ -533,7 +533,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제10선거구"
+        "lang:ko": "세종특별자치시제10선거구"
       },
       "parent_id": "Q20929"
     },
@@ -557,7 +557,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시제12선거구"
+        "lang:ko": "세종특별자치시제12선거구"
       },
       "parent_id": "Q20929"
     },
@@ -581,7 +581,7 @@
         "lang:en": "FLACS Council Constituency of Sejong City"
       },
       "name": {
-        "lang:ko_KR": "세종특별자치시 비례대표 선거구"
+        "lang:ko": "세종특별자치시 비례대표 선거구"
       },
       "parent_id": "Q20929"
     },
@@ -604,8 +604,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

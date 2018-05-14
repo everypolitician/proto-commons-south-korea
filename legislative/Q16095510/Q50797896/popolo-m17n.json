@@ -252,8 +252,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Daejeon",
-        "lang:ko_KR": "대전광역시"
+        "lang:en": "Daejeon",
+        "lang:ko": "대전광역시"
       },
       "parent_id": "Q884"
     },
@@ -277,7 +277,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "동구제2선거구"
+        "lang:ko": "동구제2선거구"
       },
       "parent_id": "Q20921"
     },
@@ -301,7 +301,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "중구제1선거구"
+        "lang:ko": "중구제1선거구"
       },
       "parent_id": "Q20921"
     },
@@ -325,7 +325,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제6선거구"
+        "lang:ko": "서구제6선거구"
       },
       "parent_id": "Q20921"
     },
@@ -349,7 +349,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "대덕구제3선거구"
+        "lang:ko": "대덕구제3선거구"
       },
       "parent_id": "Q20921"
     },
@@ -373,7 +373,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "유성구제1선거구"
+        "lang:ko": "유성구제1선거구"
       },
       "parent_id": "Q20921"
     },
@@ -397,7 +397,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "유성구제2선거구"
+        "lang:ko": "유성구제2선거구"
       },
       "parent_id": "Q20921"
     },
@@ -421,7 +421,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제2선거구"
+        "lang:ko": "서구제2선거구"
       },
       "parent_id": "Q20921"
     },
@@ -445,7 +445,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "대덕구제2선거구"
+        "lang:ko": "대덕구제2선거구"
       },
       "parent_id": "Q20921"
     },
@@ -469,7 +469,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "동구제1선거구"
+        "lang:ko": "동구제1선거구"
       },
       "parent_id": "Q20921"
     },
@@ -493,7 +493,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "중구제3선거구"
+        "lang:ko": "중구제3선거구"
       },
       "parent_id": "Q20921"
     },
@@ -517,7 +517,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "동구제3선거구"
+        "lang:ko": "동구제3선거구"
       },
       "parent_id": "Q20921"
     },
@@ -541,7 +541,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제1선거구"
+        "lang:ko": "서구제1선거구"
       },
       "parent_id": "Q20921"
     },
@@ -565,7 +565,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제3선거구"
+        "lang:ko": "서구제3선거구"
       },
       "parent_id": "Q20921"
     },
@@ -589,7 +589,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "대덕구제1선거구"
+        "lang:ko": "대덕구제1선거구"
       },
       "parent_id": "Q20921"
     },
@@ -613,7 +613,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "유성구제3선거구"
+        "lang:ko": "유성구제3선거구"
       },
       "parent_id": "Q20921"
     },
@@ -637,7 +637,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "유성구제4선거구"
+        "lang:ko": "유성구제4선거구"
       },
       "parent_id": "Q20921"
     },
@@ -661,7 +661,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제5선거구"
+        "lang:ko": "서구제5선거구"
       },
       "parent_id": "Q20921"
     },
@@ -685,7 +685,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "서구제4선거구"
+        "lang:ko": "서구제4선거구"
       },
       "parent_id": "Q20921"
     },
@@ -709,7 +709,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "중구제2선거구"
+        "lang:ko": "중구제2선거구"
       },
       "parent_id": "Q20921"
     },
@@ -733,7 +733,7 @@
         "lang:en": "FLACS Council Constituency of Daejeon"
       },
       "name": {
-        "lang:ko_KR": "대전광역시 비례대표 선거구"
+        "lang:ko": "대전광역시 비례대표 선거구"
       },
       "parent_id": "Q20921"
     },
@@ -756,8 +756,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }

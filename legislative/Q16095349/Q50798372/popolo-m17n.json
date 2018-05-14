@@ -236,8 +236,8 @@
         "lang:en": "metropolitan city of South Korea"
       },
       "name": {
-        "lang:en_US": "Daegu",
-        "lang:ko_KR": "대구광역시"
+        "lang:en": "Daegu",
+        "lang:ko": "대구광역시"
       },
       "parent_id": "Q884"
     },
@@ -261,7 +261,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "수성구제2선거구"
+        "lang:ko": "수성구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -285,7 +285,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제4선거구"
+        "lang:ko": "달서구제4선거구"
       },
       "parent_id": "Q20927"
     },
@@ -309,7 +309,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "수성구제1선거구"
+        "lang:ko": "수성구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -333,7 +333,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "중구제1선거구"
+        "lang:ko": "중구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -357,7 +357,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "북구제3선거구"
+        "lang:ko": "북구제3선거구"
       },
       "parent_id": "Q20927"
     },
@@ -381,7 +381,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "수성구제3선거구"
+        "lang:ko": "수성구제3선거구"
       },
       "parent_id": "Q20927"
     },
@@ -405,7 +405,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "수성구제4선거구"
+        "lang:ko": "수성구제4선거구"
       },
       "parent_id": "Q20927"
     },
@@ -429,7 +429,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제6선거구"
+        "lang:ko": "달서구제6선거구"
       },
       "parent_id": "Q20927"
     },
@@ -453,7 +453,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "동구제1선거구"
+        "lang:ko": "동구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -477,7 +477,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제1선거구"
+        "lang:ko": "달서구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -501,7 +501,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "북구제4선거구"
+        "lang:ko": "북구제4선거구"
       },
       "parent_id": "Q20927"
     },
@@ -525,7 +525,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "중구제2선거구"
+        "lang:ko": "중구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -549,7 +549,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "동구제2선거구"
+        "lang:ko": "동구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -573,7 +573,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "남구제1선거구"
+        "lang:ko": "남구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -597,7 +597,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "북구제1선거구"
+        "lang:ko": "북구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -621,7 +621,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제2선거구"
+        "lang:ko": "달서구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -645,7 +645,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "서구제2선거구"
+        "lang:ko": "서구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -669,7 +669,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제3선거구"
+        "lang:ko": "달서구제3선거구"
       },
       "parent_id": "Q20927"
     },
@@ -693,7 +693,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "북구제5선거구"
+        "lang:ko": "북구제5선거구"
       },
       "parent_id": "Q20927"
     },
@@ -717,7 +717,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "동구제4선거구"
+        "lang:ko": "동구제4선거구"
       },
       "parent_id": "Q20927"
     },
@@ -741,7 +741,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "서구제1선거구"
+        "lang:ko": "서구제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -765,7 +765,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달성군제2선거구"
+        "lang:ko": "달성군제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -789,7 +789,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달서구제5선거구"
+        "lang:ko": "달서구제5선거구"
       },
       "parent_id": "Q20927"
     },
@@ -813,7 +813,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "달성군제1선거구"
+        "lang:ko": "달성군제1선거구"
       },
       "parent_id": "Q20927"
     },
@@ -837,7 +837,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "북구제2선거구"
+        "lang:ko": "북구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -861,7 +861,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "동구제3선거구"
+        "lang:ko": "동구제3선거구"
       },
       "parent_id": "Q20927"
     },
@@ -885,7 +885,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "남구제2선거구"
+        "lang:ko": "남구제2선거구"
       },
       "parent_id": "Q20927"
     },
@@ -909,7 +909,7 @@
         "lang:en": "FLACS Council Constituency of Daegu"
       },
       "name": {
-        "lang:ko_KR": "대구광역시 비례대표 선거구"
+        "lang:ko": "대구광역시 비례대표 선거구"
       },
       "parent_id": "Q20927"
     },
@@ -932,8 +932,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:ko_KR": "대한민국",
-        "lang:en_US": "Republic of Korea"
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
       },
       "parent_id": null
     }
