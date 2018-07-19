@@ -4,18 +4,38 @@
     "executive_item_id": "Q12585780",
     "positions": [
       {
-        "comment": "President of South Korea",
+        "comment": "Prime Minister of South Korea",
+        "position_item_id": "Q15407843"
+      }
+    ]
+  },
+  {
+    "comment": "State Council of South Korea",
+    "executive_item_id": "Q12585780",
+    "positions": [
+      {
+        "comment": "president of South Korea",
         "position_item_id": "Q6296418"
       }
     ]
   },
   {
-    "comment": "Gangwon Provincial Government",
-    "executive_item_id": "Q12583023",
+    "comment": "Constitutional institution in South Korea",
+    "executive_item_id": "Q26318539",
     "positions": [
       {
-        "comment": "governor of gangwon province",
-        "position_item_id": "Q12583022"
+        "comment": "Prime Minister of South Korea",
+        "position_item_id": "Q15407843"
+      }
+    ]
+  },
+  {
+    "comment": "Constitutional institution in South Korea",
+    "executive_item_id": "Q26318539",
+    "positions": [
+      {
+        "comment": "president of South Korea",
+        "position_item_id": "Q6296418"
       }
     ]
   },
@@ -24,18 +44,8 @@
     "executive_item_id": "Q12583547",
     "positions": [
       {
-        "comment": "governor of gyeonggi province",
+        "comment": "Governor of Gyeonggi Province",
         "position_item_id": "Q12583545"
-      }
-    ]
-  },
-  {
-    "comment": "Gyeongnam Provincial Government",
-    "executive_item_id": "Q16093739",
-    "positions": [
-      {
-        "comment": "governor of south gyeongsang province",
-        "position_item_id": "Q50619685"
       }
     ]
   },
@@ -44,7 +54,7 @@
     "executive_item_id": "Q12583737",
     "positions": [
       {
-       "comment": "governor of north gyeongsang province",
+        "comment": "Governor of North Gyeongsang Province",
         "position_item_id": "Q50619415"
       }
     ]
@@ -54,68 +64,8 @@
     "executive_item_id": "Q12585108",
     "positions": [
       {
-        "comment": "mayor of gwangju",
+        "comment": "Mayor of Gwangju",
         "position_item_id": "Q50616327"
-      }
-    ]
-  },
-  {
-    "comment": "Daegu Metropolitan Government",
-    "executive_item_id": "Q16095354",
-    "positions": [
-      {
-        "comment": "mayor of daegu",
-        "position_item_id": "Q50614705"
-      }
-    ]
-  },
-  {
-    "comment": "Daejeon Metropolitan Government",
-    "executive_item_id": "Q16095517",
-    "positions": [
-      {
-        "comment": "mayor of daejeon",
-        "position_item_id": "Q50615886"
-      }
-    ]
-  },
-  {
-    "comment": "Busan Metropolitan Government",
-    "executive_item_id": "Q16097618",
-    "positions": [
-      {
-        "comment": "mayors of busan",
-        "position_item_id": "Q50265926"
-      }
-    ]
-  },
-  {
-    "comment": "Seoul Metropolitan Government",
-    "executive_item_id": "Q623789",
-    "positions": [
-      {
-        "comment": "mayor of seoul",
-        "position_item_id": "Q488289"
-      }
-    ]
-  },
-  {
-    "comment": "Sejong Special City Government",
-    "executive_item_id": "Q16097915",
-    "positions": [
-      {
-        "comment": "mayor of sejong city",
-        "position_item_id": "Q50274663"
-      }
-    ]
-  },
-  {
-    "comment": "Ulsan Metropolitan Government",
-    "executive_item_id": "Q16099053",
-    "positions": [
-      {
-        "comment": "mayor of ulsan",
-        "position_item_id": "Q50619818"
       }
     ]
   },
@@ -124,7 +74,7 @@
     "executive_item_id": "Q12613488",
     "positions": [
       {
-        "comment": "mayor of incheon",
+        "comment": "Mayor of Incheon",
         "position_item_id": "Q50617475"
       }
     ]
@@ -134,7 +84,7 @@
     "executive_item_id": "Q12615100",
     "positions": [
       {
-        "comment": "governor of south jeolla province",
+        "comment": "Governor of South Jeolla Province",
         "position_item_id": "Q12615101"
       }
     ]
@@ -144,7 +94,7 @@
     "executive_item_id": "Q12615114",
     "positions": [
       {
-        "comment": "governor of north jeolla province",
+        "comment": "Governor of North Jeolla Province",
         "position_item_id": "Q50619493"
       }
     ]
@@ -154,7 +104,7 @@
     "executive_item_id": "Q12616502",
     "positions": [
       {
-        "comment": "governor of jeju",
+        "comment": "Governor of Jeju",
         "position_item_id": "Q50275066"
       }
     ]
@@ -164,7 +114,7 @@
     "executive_item_id": "Q12620195",
     "positions": [
       {
-        "comment": "governor of south chungcheong province",
+        "comment": "Governor of South Chungcheong Province",
         "position_item_id": "Q50619614"
       }
     ]
@@ -174,8 +124,78 @@
     "executive_item_id": "Q12620207",
     "positions": [
       {
-        "comment": "governor of north chungcheong province",
+        "comment": "Governor of North Chungcheong Province",
         "position_item_id": "Q50619326"
+      }
+    ]
+  },
+  {
+    "comment": "Gyeongnam Provincial Government",
+    "executive_item_id": "Q16093739",
+    "positions": [
+      {
+        "comment": "Governor of South Gyeongsang Province",
+        "position_item_id": "Q50619685"
+      }
+    ]
+  },
+  {
+    "comment": "Daegu Metropolitan Government",
+    "executive_item_id": "Q16095354",
+    "positions": [
+      {
+        "comment": "Mayor of Daegu",
+        "position_item_id": "Q50614705"
+      }
+    ]
+  },
+  {
+    "comment": "Daejeon Metropolitan Government",
+    "executive_item_id": "Q16095517",
+    "positions": [
+      {
+        "comment": "Mayor of Daejeon",
+        "position_item_id": "Q50615886"
+      }
+    ]
+  },
+  {
+    "comment": "Busan Metropolitan Government",
+    "executive_item_id": "Q16097618",
+    "positions": [
+      {
+        "comment": "Mayors of Busan",
+        "position_item_id": "Q50265926"
+      }
+    ]
+  },
+  {
+    "comment": "Sejong Special City Government",
+    "executive_item_id": "Q16097915",
+    "positions": [
+      {
+        "comment": "Mayor of Sejong City",
+        "position_item_id": "Q50274663"
+      }
+    ]
+  },
+  {
+    "comment": "Ulsan Metropolitan Government",
+    "executive_item_id": "Q16099053",
+    "positions": [
+      {
+        "comment": "Mayor of Ulsan",
+        "position_item_id": "Q50619818"
+      }
+    ]
+  },
+  {
+    "comment": "Seoul Metropolitan Government",
+    "executive_item_id": "Q623789",
+    "positions": [
+      {
+        "comment": "Mayor of Seoul",
+        "position_item_id": "Q488289"
       }
     ]
   }
