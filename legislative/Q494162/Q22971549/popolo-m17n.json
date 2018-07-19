@@ -59,6 +59,22 @@
     },
     {
       "name": {
+        "lang:ko": "추미애",
+        "lang:en": "Choo Mi-ae"
+      },
+      "id": "Q11274387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11274387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:ko": "박맹우",
         "lang:en": "Bak Maeng-woo"
       },
@@ -67,6 +83,150 @@
         {
           "scheme": "wikidata",
           "identifier": "Q11986047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "강길부",
+        "lang:en": "Kang Ghil-boo"
+      },
+      "id": "Q12582750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12582750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "김선동 (1963년)",
+        "lang:en": "Kim Seon-dong"
+      },
+      "id": "Q12587661",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12587661"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "민병두",
+        "lang:en": "Min Byung-doo"
+      },
+      "id": "Q12596213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12596213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "서영교",
+        "lang:en": "Seo Young-kyo"
+      },
+      "id": "Q12601044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12601044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "유승희",
+        "lang:en": "You Seung-hee"
+      },
+      "id": "Q12609873",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12609873"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "정양석",
+        "lang:en": "Cheong Yang-seog"
+      },
+      "id": "Q12615823",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12615823"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "지상욱",
+        "lang:en": "Ji Sang-wook"
+      },
+      "id": "Q12617992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12617992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "진영",
+        "lang:en": "Chin Young"
+      },
+      "id": "Q12618296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12618296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "홍익표",
+        "lang:en": "Hong Ihk-pyo"
+      },
+      "id": "Q12625469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12625469"
         }
       ],
       "links": [
@@ -94,6 +254,70 @@
     },
     {
       "name": {
+        "lang:ko": "박홍근",
+        "lang:en": "Park Hong-keun"
+      },
+      "id": "Q16082619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16082619"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "안규백",
+        "lang:en": "Ahn Gyu-baek"
+      },
+      "id": "Q16168735",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16168735"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "전혜숙",
+        "lang:en": "Jeon Hye-sook"
+      },
+      "id": "Q16174531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16174531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "박용진",
+        "lang:en": "Park Yong-jin"
+      },
+      "id": "Q16175227",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16175227"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:ko": "이수혁",
         "lang:en": "Lee Soo-hyuck"
       },
@@ -102,6 +326,38 @@
         {
           "scheme": "wikidata",
           "identifier": "Q22974711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "기동민",
+        "lang:en": "Ki Dong-min"
+      },
+      "id": "Q23894231",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23894231"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "인재근",
+        "lang:en": "In Jae-keun"
+      },
+      "id": "Q2947463",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2947463"
         }
       ],
       "links": [
@@ -6745,6 +7001,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -6760,7 +7017,7 @@
       "person_id": "Q10855142",
       "on_behalf_of_id": "Q15978686",
       "organization_id": "Q494162",
-      "area_id": "Q50249398",
+      "area_id": "Q31178892",
       "start_date": "2016-05-30",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6796,7 +7053,24 @@
       "person_id": "Q11270093",
       "on_behalf_of_id": "Q15978686",
       "organization_id": "Q494162",
-      "area_id": "Q50241354",
+      "area_id": "Q31180193",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11274387-1C551C20-7BB8-42D5-9E7D-7AB08AE0FDB7",
+      "person_id": "Q11274387",
+      "organization_id": "Q494162",
+      "area_id": "Q31180243",
       "start_date": "2016-05-30",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6825,11 +7099,232 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q12582750-2372D848-9328-48DB-9FE0-53900D463E60",
+      "person_id": "Q12582750",
+      "organization_id": "Q494162",
+      "area_id": "Q31179314",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12587661-42F99D1F-7116-438E-BB24-F7B5BE178593",
+      "person_id": "Q12587661",
+      "organization_id": "Q494162",
+      "area_id": "Q31180310",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12596213-A44EE201-0FFF-4ADA-A3F2-19E08A73A723",
+      "person_id": "Q12596213",
+      "organization_id": "Q494162",
+      "area_id": "Q31180275",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12601044-16656932-1692-42C1-AD0D-F0844AC73F9F",
+      "person_id": "Q12601044",
+      "organization_id": "Q494162",
+      "area_id": "Q31180272",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12609873-35144EE7-5AB3-4FB2-B1B7-C1C31294EEAA",
+      "person_id": "Q12609873",
+      "organization_id": "Q494162",
+      "area_id": "Q31180342",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12615823-B79E3A85-8C56-45FC-B965-F52F8C44E177",
+      "person_id": "Q12615823",
+      "organization_id": "Q494162",
+      "area_id": "Q31180333",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12617992-1cb640c5-4038-e895-4d8e-7303275b34ad",
+      "person_id": "Q12617992",
+      "organization_id": "Q494162",
+      "area_id": "Q31180356",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12618296-76F30859-996A-4951-9110-A8FFE0F060C3",
+      "person_id": "Q12618296",
+      "organization_id": "Q494162",
+      "area_id": "Q31180236",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12625469-6AA51FE3-9591-4F30-9CCB-3F4E07C2A0B6",
+      "person_id": "Q12625469",
+      "organization_id": "Q494162",
+      "area_id": "Q31180365",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16080285-38BA3B74-87F3-46E3-B12C-F8E82D841821",
       "person_id": "Q16080285",
       "on_behalf_of_id": "Q20916",
       "organization_id": "Q494162",
-      "area_id": "Q50242833",
+      "area_id": "Q31179733",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16082619-18EAFF58-1A32-448B-A73B-AC6AC7DC81BE",
+      "person_id": "Q16082619",
+      "organization_id": "Q494162",
+      "area_id": "Q31180354",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16168735-21665E27-6AC1-4284-AC50-81DE310903CF",
+      "person_id": "Q16168735",
+      "organization_id": "Q494162",
+      "area_id": "Q31180279",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16174531-3C4FC172-BB59-47F1-93DC-3BAE3AD38166",
+      "person_id": "Q16174531",
+      "organization_id": "Q494162",
+      "area_id": "Q31180287",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16175227-D510217C-521B-460E-BEAE-8F966C3B9768",
+      "person_id": "Q16175227",
+      "organization_id": "Q494162",
+      "area_id": "Q31180334",
       "start_date": "2016-05-30",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -6847,6 +7342,40 @@
       "person_id": "Q22974711",
       "organization_id": "Q494162",
       "start_date": "2017-06-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23894231-0DC794FF-8A7D-4F05-AC93-6347FFF8BD70",
+      "person_id": "Q23894231",
+      "organization_id": "Q494162",
+      "area_id": "Q31180336",
+      "start_date": "2016-05-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:ko": "국회의원",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q14850694",
+      "role": {
+        "lang:ko": "대한민국의 국회의원",
+        "lang:en": "Member of National Assembly of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2947463-8B859B33-583D-41BA-8C8B-7574ED0160D3",
+      "person_id": "Q2947463",
+      "organization_id": "Q494162",
+      "area_id": "Q31180316",
+      "start_date": "2016-05-30",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:ko": "국회의원",
@@ -6877,7 +7406,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q319920-E5662C5C-BCC6-481C-991C-E95A0DC90D55",
       "person_id": "Q319920",
       "organization_id": "Q494162",
-      "area_id": "Q50243082",
+      "area_id": "Q31180738",
       "start_date": "2016-05-30",
       "role_superclass_code": "Q486839",
       "role_superclass": {

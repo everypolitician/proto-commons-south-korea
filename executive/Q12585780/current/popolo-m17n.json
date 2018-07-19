@@ -68,6 +68,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -88,12 +89,12 @@
       "role_superclass_code": "Q6296418",
       "role_superclass": {
         "lang:ko": "대한민국의 대통령",
-        "lang:en": "President of South Korea"
+        "lang:en": "president of South Korea"
       },
       "role_code": "Q6296418",
       "role": {
         "lang:ko": "대한민국의 대통령",
-        "lang:en": "President of South Korea"
+        "lang:en": "president of South Korea"
       }
     }
   ]

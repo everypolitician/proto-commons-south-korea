@@ -18,6 +18,25 @@
           "url": "https://www.facebook.com/NamKyungpil"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:ko": "이재명",
+        "lang:en": "Lee Jae-myung"
+      },
+      "id": "Q12612463",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12612463"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jaemyunglee"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -35,6 +54,20 @@
         }
       ],
       "area_id": "Q20937"
+    },
+    {
+      "name": {
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
+      },
+      "id": "Q15978686",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15978686"
+        }
+      ]
     },
     {
       "name": {
@@ -93,6 +126,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -110,6 +144,25 @@
       "organization_id": "Q12583547",
       "area_id": "Q20937",
       "start_date": "2014-07-01",
+      "role_superclass_code": "Q12583545",
+      "role_superclass": {
+        "lang:ko": "경기도지사",
+        "lang:en": "Governor of Gyeonggi Province"
+      },
+      "role_code": "Q12583545",
+      "role": {
+        "lang:ko": "경기도지사",
+        "lang:en": "Governor of Gyeonggi Province"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12612463-782668fa-4772-f454-957f-90d21705e339",
+      "person_id": "Q12612463",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q12583547",
+      "area_id": "Q20937",
+      "start_date": "2018-07-01",
+      "end_date": "2022-06-30",
       "role_superclass_code": "Q12583545",
       "role_superclass": {
         "lang:ko": "경기도지사",

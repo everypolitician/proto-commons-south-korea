@@ -18,22 +18,6 @@
     },
     {
       "name": {
-        "lang:ko": "최선희",
-        "lang:en": "Choe Son Hui"
-      },
-      "id": "Q30436217",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q30436217"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:ko": "박희진"
       },
       "id": "Q50809507",
@@ -753,6 +737,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -769,24 +754,6 @@
       "on_behalf_of_id": "Q15978686",
       "organization_id": "Q16095510",
       "area_id": "Q50573259",
-      "start_date": "2014-07-01",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:ko": "참사관",
-        "lang:en": "councillor"
-      },
-      "role_code": "Q50559446",
-      "role": {
-        "lang:ko": "대전광역시의원동정",
-        "lang:en": "Daejeon councilor"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q30436217-C8B69732-4871-4F89-BB83-50B16EA407B1",
-      "person_id": "Q30436217",
-      "on_behalf_of_id": "Q20916",
-      "organization_id": "Q16095510",
-      "area_id": "Q50737036",
       "start_date": "2014-07-01",
       "role_superclass_code": "Q708492",
       "role_superclass": {
