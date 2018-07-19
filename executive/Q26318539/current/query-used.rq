@@ -8,7 +8,7 @@ SELECT ?statement
        ?org ?org_ko ?org_en ?org_jurisdiction
 WHERE {
   VALUES ?role_superclass { wd:Q6296418 }
-  BIND(wd:Q12585780 AS ?org)
+  BIND(wd:Q26318539 AS ?org)
   OPTIONAL {
   ?org rdfs:label ?org_ko
   FILTER(LANG(?org_ko) = "ko")

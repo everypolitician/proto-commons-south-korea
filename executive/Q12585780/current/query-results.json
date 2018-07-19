@@ -47,7 +47,7 @@
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Korea"
+        "value" : "president of South Korea"
       },
       "role_superclass_ko" : {
         "xml:lang" : "ko",
@@ -57,7 +57,7 @@
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Korea"
+        "value" : "president of South Korea"
       },
       "role_ko" : {
         "xml:lang" : "ko",
