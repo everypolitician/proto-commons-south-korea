@@ -2,7 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:ko": "김동일"
+        "lang:ko": "김동일",
+        "lang:en": "Kim Dong-il"
       },
       "id": "Q50809438",
       "identifiers": [
@@ -1249,6 +1250,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {

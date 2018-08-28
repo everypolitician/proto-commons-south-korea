@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/hope2gether"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Kim Sang Dong"
+      },
+      "id": "Q55720287",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720287"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -93,6 +108,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -104,16 +120,32 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q22803-7abed12f-4ddf-dd40-ce90-5ebee27839a0",
+      "id": "http://www.wikidata.org/entity/statement/Q22803-0d735f5b-430e-4143-26f5-d71f83d22ced",
       "person_id": "Q22803",
       "on_behalf_of_id": "Q15978686",
       "organization_id": "Q623789",
       "area_id": "Q8684",
-      "start_date": "2014-07-01",
-      "role_superclass_code": "Q488289",
+      "start_date": "2018-07-01",
+      "role_superclass_code": "Q50615478",
       "role_superclass": {
+        "lang:ko": "특별시시장",
+        "lang:en": "special city mayor of South Korea"
+      },
+      "role_code": "Q488289",
+      "role": {
         "lang:ko": "서울특별시장",
         "lang:en": "Mayor of Seoul"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55720287-0ba827ef-41ce-8c67-535e-af771da8ac01",
+      "person_id": "Q55720287",
+      "organization_id": "Q623789",
+      "area_id": "Q8684",
+      "role_superclass_code": "Q50615478",
+      "role_superclass": {
+        "lang:ko": "특별시시장",
+        "lang:en": "special city mayor of South Korea"
       },
       "role_code": "Q488289",
       "role": {

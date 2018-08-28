@@ -1,16 +1,5 @@
 [
   {
-    "comment": "National Assembly",
-    "house_item_id": "Q494162",
-    "position_item_id": "Q14850694",
-    "terms": [
-      {
-        "comment": "20th Legislative Assembly",
-        "term_item_id": "Q22971549"
-      }
-    ]
-  },
-  {
     "comment": "Seoul municipal council",
     "house_item_id": "Q12601388",
     "position_item_id": "Q50257366",
@@ -90,7 +79,7 @@
   {
     "comment": "Busan municipal council",
     "house_item_id": "Q16096697",
-    "position_item_id": "Q50559275",
+    "position_item_id": "Q50279057",
     "terms": [
       {
         "comment": "7th Councilor in Busan",
@@ -194,6 +183,17 @@
       {
         "comment": "10th Councilor in North Jeolla Province",
         "term_item_id": "Q50798429"
+      }
+    ]
+  },
+  {
+    "comment": "National Assembly",
+    "house_item_id": "Q494162",
+    "position_item_id": "Q14850694",
+    "terms": [
+      {
+        "comment": "20th Legislative Assembly",
+        "term_item_id": "Q22971549"
       }
     ]
   }

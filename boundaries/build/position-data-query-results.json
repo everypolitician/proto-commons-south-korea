@@ -1,0 +1,1609 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_ko", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_ko", "admin_area_en", "positionSuperclass", "position_superclass_ko", "position_superclass_en", "body", "body_ko", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12583022"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도지사"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of Gangwon Province"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41071"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gangwon Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50616117"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "지사"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "province governor of South Korea"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12583023"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도청"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gangwon Provincial Government"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14850694"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 국회의원"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of National Assembly of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "국회의원"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q494162"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국 국회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14850694"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 국회의원"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of National Assembly of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "국회의원"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26318539"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 헌법기관"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Constitutional institution in South Korea"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15407843"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 국무총리"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "행정부 수반"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26318539"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 헌법기관"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Constitutional institution in South Korea"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50257366"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8684"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12601388"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50277114"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41283"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094335"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광주광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gwangju municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50279057"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부산광역시시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Busan councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16520"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부산광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Busan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16096697"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부산광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Busan municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50558073"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청남도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Chungcheong Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41070"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청남도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Chungcheong Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16100275"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청남도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Chungcheong Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50558615"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "울산광역시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulsan councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41278"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "울산광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulsan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16099049"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "울산광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulsan municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559021"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gangwon Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41071"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gangwon Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16093243"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "강원도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gangwon Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559074"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejong City councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20929"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejong City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16097908"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "세종특별자치시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sejong City municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559168"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyeonggi Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20937"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyeonggi Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20779829"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경기도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gyeonggi Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559246"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청북도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Chungcheong Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41066"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청북도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Chungcheong Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16100304"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "충청북도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Chungcheong Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559328"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상북도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Gyeongsang Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41154"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상북도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Gyeongsang Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16093885"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상북도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Gyeongsang Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559353"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상남도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Gyeongsang Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41151"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상남도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Gyeongsang Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16094835"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "경상남도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Gyeongsang Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559371"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라북도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Jeolla Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41157"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라북도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Jeolla Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21060148"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라북도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Jeolla Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559384"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "제주특별자치도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeju councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41164"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "제주특별자치도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeju"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16100817"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "제주특별자치도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeju municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559426"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라남도의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Jeolla Province councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41161"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라남도"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Jeolla Province"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16099669"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "전라남도의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Jeolla Province municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559446"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대전광역시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daejeon councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20921"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대전광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daejeon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16095510"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대전광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daejeon municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559472"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "인천광역시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Incheon councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20934"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "인천광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Incheon"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16099448"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "인천광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Incheon municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50559494"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대구광역시의원동정"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daegu councilor"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20927"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대구광역시"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daegu"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "참사관"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16095349"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대구광역시의회"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daegu municipal council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6296418"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 대통령"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q248577"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "공화국 대통령"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Republic"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12585780"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "국무회의"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State Council of South Korea"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6296418"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 대통령"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q248577"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "공화국 대통령"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of the Republic"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26318539"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 헌법기관"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Constitutional institution in South Korea"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6296418"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 대통령"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "행정부 수반"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12585780"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "국무회의"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "State Council of South Korea"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6296418"
+      },
+      "position_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 대통령"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of South Korea"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "admin_area_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "행정부 수반"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26318539"
+      },
+      "body_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "대한민국의 헌법기관"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Constitutional institution in South Korea"
+      }
+    } ]
+  }
+}

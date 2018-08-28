@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8031676-8b676669-4041-d382-e2a4-90ca8e6d5b62"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8031676"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "원희룡"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Won Hee-ryong"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20916"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberty Korea Party"
       },
       "party_name_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "자유한국당"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8031676"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberty Korea Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q41164"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jeju"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "제주특별자치도"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeju"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50275066"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50275066"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Governor of Jeju"
-      },
-      "role_superclass_ko" : {
+      "role_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "제주특별자치도지사"
@@ -59,43 +64,6 @@
         "type" : "literal",
         "value" : "Governor of Jeju"
       },
-      "role_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "제주특별자치도지사"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Won Hee-ryong"
-      },
-      "name_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "원희룡"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12616502"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jeju Self-governing Provincial Government"
-      },
-      "org_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "제주특별자치도청"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8031676-8b676669-4041-d382-e2a4-90ca8e6d5b62"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q41164"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -104,6 +72,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "happywon"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50616117"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "지사"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "province governor of South Korea"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12616502"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "제주특별자치도청"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jeju Self-governing Provincial Government"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41164"
       }
     } ]
   }

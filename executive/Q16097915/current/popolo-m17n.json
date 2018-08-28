@@ -93,6 +93,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -110,10 +111,10 @@
       "organization_id": "Q16097915",
       "area_id": "Q20929",
       "start_date": "2014-07-01",
-      "role_superclass_code": "Q50274663",
+      "role_superclass_code": "Q50732172",
       "role_superclass": {
-        "lang:ko": "세종특별자치시시장",
-        "lang:en": "Mayor of Sejong City"
+        "lang:ko": "특별자치시장",
+        "lang:en": "special autonomous city mayor in South Korea"
       },
       "role_code": "Q50274663",
       "role": {

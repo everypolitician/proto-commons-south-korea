@@ -1,2 +1,4 @@
-WARNING: the district 강서구제1선거구 (Q50573490) wasn't found in the boundary data for position 부산광역시의원동정 (Q50559275)
+WARNING: the district 강서구제1선거구 (Q50573490) wasn't found in the boundary data for position 부산광역시시의원동정 (Q50279057)
 WARNING: the district 서구제3선거구 (Q50573262) wasn't found in the boundary data for position 인천광역시의원동정 (Q50559472)
+WARNING: Position 대한민국의 국무총리 (Q15407843) not in boundary associated_wikidata_positions
+WARNING: Position 대한민국의 국무총리 (Q15407843) not in boundary associated_wikidata_positions
