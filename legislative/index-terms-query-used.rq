@@ -1,5 +1,30 @@
-SELECT DISTINCT ?house ?houseLabel ?legislature ?legislatureLabel ?term ?termLabel ?termStart ?termEnd WHERE {
-  VALUES ?house { wd:Q494162 wd:Q12601388 wd:Q16093243 wd:Q16093885 wd:Q16094335 wd:Q16094835 wd:Q16095349 wd:Q16095510 wd:Q16096697 wd:Q16097908 wd:Q16099049 wd:Q16099448 wd:Q16099669 wd:Q16100275 wd:Q16100304 wd:Q16100817 wd:Q20779829 wd:Q21060148 }
+SELECT DISTINCT
+  ?house ?houseLabel
+  ?legislature ?legislatureLabel
+  ?term ?termLabel
+  ?termStart ?termEnd
+  ?termSpecificPosition
+WHERE {
+  VALUES (?house ?position) {
+    (wd:Q494162 wd:Q14850694)
+    (wd:Q12601388 wd:Q50257366)
+    (wd:Q16093243 wd:Q50559021)
+    (wd:Q16093885 wd:Q50559328)
+    (wd:Q16094335 wd:Q50277114)
+    (wd:Q16094835 wd:Q50559353)
+    (wd:Q16095349 wd:Q50559494)
+    (wd:Q16095510 wd:Q50559446)
+    (wd:Q16096697 wd:Q50279057)
+    (wd:Q16097908 wd:Q50559074)
+    (wd:Q16099049 wd:Q50558615)
+    (wd:Q16099448 wd:Q50559472)
+    (wd:Q16099669 wd:Q50559426)
+    (wd:Q16100275 wd:Q50558073)
+    (wd:Q16100304 wd:Q50559246)
+    (wd:Q16100817 wd:Q50559384)
+    (wd:Q20779829 wd:Q50559168)
+    (wd:Q21060148 wd:Q50559371)
+  }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
@@ -10,8 +35,13 @@ SELECT DISTINCT ?house ?houseLabel ?legislature ?legislatureLabel ?term ?termLab
   OPTIONAL { ?term (wdt:P582|wdt:P576) ?termEnd. }
   OPTIONAL { ?term (wdt:P155|wdt:P1365) ?termReplaces }
   OPTIONAL { ?term (wdt:P156|wdt:P1366) ?termReplacedBy }
+  OPTIONAL {
+    ?termSpecificPosition wdt:P31/wdt:P279* wd:Q4164871 ;
+                          p:P279 [ ps:P279 ?position ;
+                                   pq:P2937 ?term ] .
+  }
 
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
   FILTER (!BOUND(?termReplacedBy))
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,ko". }
 } ORDER BY ?termStart ?term
