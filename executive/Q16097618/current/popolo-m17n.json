@@ -93,6 +93,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -110,15 +111,15 @@
       "organization_id": "Q16097618",
       "area_id": "Q16520",
       "start_date": "2014-07-01",
-      "role_superclass_code": "Q50265926",
+      "role_superclass_code": "Q50615690",
       "role_superclass": {
-        "lang:ko": "부산광역시장",
-        "lang:en": "Mayors of Busan"
+        "lang:ko": "광역시시장",
+        "lang:en": "metropolitan city mayor of South Korea"
       },
       "role_code": "Q50265926",
       "role": {
         "lang:ko": "부산광역시장",
-        "lang:en": "Mayors of Busan"
+        "lang:en": "Mayor of Busan"
       }
     }
   ]

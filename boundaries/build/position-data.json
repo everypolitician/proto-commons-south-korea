@@ -1,0 +1,401 @@
+[
+  {
+    "role_id": "Q12583022",
+    "role_name": {
+      "lang:ko": "강원도지사",
+      "lang:en": "Governor of Gangwon Province"
+    },
+    "generic_role_id": "Q50616117",
+    "generic_role_name": {
+      "lang:ko": "지사",
+      "lang:en": "province governor of South Korea"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q12583023",
+    "organization_name": {
+      "lang:ko": "강원도청",
+      "lang:en": "Gangwon Provincial Government"
+    }
+  },
+  {
+    "role_id": "Q14850694",
+    "role_name": {
+      "lang:ko": "대한민국의 국회의원",
+      "lang:en": "Member of National Assembly of South Korea"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:ko": "국회의원",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q494162",
+    "organization_name": {
+      "lang:ko": "대한민국 국회",
+      "lang:en": "National Assembly"
+    }
+  },
+  {
+    "role_id": "Q15407843",
+    "role_name": {
+      "lang:ko": "대한민국의 국무총리",
+      "lang:en": "Prime Minister of South Korea"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:ko": "행정부 수반",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q26318539",
+    "organization_name": {
+      "lang:ko": "대한민국의 헌법기관",
+      "lang:en": "Constitutional institution in South Korea"
+    }
+  },
+  {
+    "role_id": "Q50257366",
+    "role_name": {
+      "lang:ko": "서울특별시의원동정",
+      "lang:en": "Seoul councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q12601388",
+    "organization_name": {
+      "lang:ko": "서울특별시의회",
+      "lang:en": "Seoul municipal council"
+    }
+  },
+  {
+    "role_id": "Q50277114",
+    "role_name": {
+      "lang:ko": "광주광역시의원동정",
+      "lang:en": "Gwangju councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16094335",
+    "organization_name": {
+      "lang:ko": "광주광역시의회",
+      "lang:en": "Gwangju municipal council"
+    }
+  },
+  {
+    "role_id": "Q50279057",
+    "role_name": {
+      "lang:ko": "부산광역시시의원동정",
+      "lang:en": "Busan councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16096697",
+    "organization_name": {
+      "lang:ko": "부산광역시의회",
+      "lang:en": "Busan municipal council"
+    }
+  },
+  {
+    "role_id": "Q50558073",
+    "role_name": {
+      "lang:ko": "충청남도의원동정",
+      "lang:en": "South Chungcheong Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16100275",
+    "organization_name": {
+      "lang:ko": "충청남도의회",
+      "lang:en": "South Chungcheong Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50558615",
+    "role_name": {
+      "lang:ko": "울산광역시의원동정",
+      "lang:en": "Ulsan councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16099049",
+    "organization_name": {
+      "lang:ko": "울산광역시의회",
+      "lang:en": "Ulsan municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559021",
+    "role_name": {
+      "lang:ko": "강원도의원동정",
+      "lang:en": "Gangwon Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16093243",
+    "organization_name": {
+      "lang:ko": "강원도의회",
+      "lang:en": "Gangwon Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559074",
+    "role_name": {
+      "lang:ko": "세종특별자치시의원동정",
+      "lang:en": "Sejong City councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16097908",
+    "organization_name": {
+      "lang:ko": "세종특별자치시의회",
+      "lang:en": "Sejong City municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559168",
+    "role_name": {
+      "lang:ko": "경기도의원동정",
+      "lang:en": "Gyeonggi Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q20779829",
+    "organization_name": {
+      "lang:ko": "경기도의회",
+      "lang:en": "Gyeonggi Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559246",
+    "role_name": {
+      "lang:ko": "충청북도의원동정",
+      "lang:en": "North Chungcheong Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16100304",
+    "organization_name": {
+      "lang:ko": "충청북도의회",
+      "lang:en": "North Chungcheong Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559328",
+    "role_name": {
+      "lang:ko": "경상북도의원동정",
+      "lang:en": "North Gyeongsang Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16093885",
+    "organization_name": {
+      "lang:ko": "경상북도의회",
+      "lang:en": "North Gyeongsang Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559353",
+    "role_name": {
+      "lang:ko": "경상남도의원동정",
+      "lang:en": "South Gyeongsang Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16094835",
+    "organization_name": {
+      "lang:ko": "경상남도의회",
+      "lang:en": "South Gyeongsang Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559371",
+    "role_name": {
+      "lang:ko": "전라북도의원동정",
+      "lang:en": "North Jeolla Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21060148",
+    "organization_name": {
+      "lang:ko": "전라북도의회",
+      "lang:en": "North Jeolla Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559384",
+    "role_name": {
+      "lang:ko": "제주특별자치도의원동정",
+      "lang:en": "Jeju councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16100817",
+    "organization_name": {
+      "lang:ko": "제주특별자치도의회",
+      "lang:en": "Jeju municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559426",
+    "role_name": {
+      "lang:ko": "전라남도의원동정",
+      "lang:en": "South Jeolla Province councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16099669",
+    "organization_name": {
+      "lang:ko": "전라남도의회",
+      "lang:en": "South Jeolla Province municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559446",
+    "role_name": {
+      "lang:ko": "대전광역시의원동정",
+      "lang:en": "Daejeon councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16095510",
+    "organization_name": {
+      "lang:ko": "대전광역시의회",
+      "lang:en": "Daejeon municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559472",
+    "role_name": {
+      "lang:ko": "인천광역시의원동정",
+      "lang:en": "Incheon councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16099448",
+    "organization_name": {
+      "lang:ko": "인천광역시의회",
+      "lang:en": "Incheon municipal council"
+    }
+  },
+  {
+    "role_id": "Q50559494",
+    "role_name": {
+      "lang:ko": "대구광역시의원동정",
+      "lang:en": "Daegu councilor"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:ko": "참사관",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q16095349",
+    "organization_name": {
+      "lang:ko": "대구광역시의회",
+      "lang:en": "Daegu municipal council"
+    }
+  },
+  {
+    "role_id": "Q6296418",
+    "role_name": {
+      "lang:ko": "대한민국의 대통령",
+      "lang:en": "president of South Korea"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:ko": "행정부 수반",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q12585780",
+    "organization_name": {
+      "lang:ko": "국무회의",
+      "lang:en": "State Council of South Korea"
+    }
+  }
+]

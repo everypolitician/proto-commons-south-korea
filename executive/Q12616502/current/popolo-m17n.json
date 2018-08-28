@@ -93,6 +93,7 @@
         "Q6296418"
       ],
       "type": {
+        "lang:ko": "나라",
         "lang:en": "country"
       },
       "name": {
@@ -110,10 +111,10 @@
       "organization_id": "Q12616502",
       "area_id": "Q41164",
       "start_date": "2014-07-01",
-      "role_superclass_code": "Q50275066",
+      "role_superclass_code": "Q50616117",
       "role_superclass": {
-        "lang:ko": "제주특별자치도지사",
-        "lang:en": "Governor of Jeju"
+        "lang:ko": "지사",
+        "lang:en": "province governor of South Korea"
       },
       "role_code": "Q50275066",
       "role": {

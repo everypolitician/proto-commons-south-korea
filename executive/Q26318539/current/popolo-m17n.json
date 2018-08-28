@@ -2,8 +2,24 @@
   "persons": [
     {
       "name": {
-        "lang:ko_KR": "문재인",
-        "lang:en_US": "Moon Jae-in"
+        "lang:ko": "이낙연",
+        "lang:en": "Lee Nak-yeon"
+      },
+      "id": "Q12611134",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12611134"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "문재인",
+        "lang:en": "Moon Jae-in"
       },
       "id": "Q21001",
       "identifiers": [
@@ -18,13 +34,45 @@
           "url": "https://www.facebook.com/moonbyun1"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:ko": "정홍원",
+        "lang:en": "Jung Hong-won"
+      },
+      "id": "Q4352214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4352214"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:ko": "남덕우",
+        "lang:en": "Nam Duck-woo"
+      },
+      "id": "Q624279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q624279"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:ko_KR": "대한민국의 헌법기관",
-        "lang:en_US": "Constitutional institution in South Korea"
+        "lang:ko": "대한민국의 헌법기관",
+        "lang:en": "Constitutional institution in South Korea"
       },
       "id": "Q26318539",
       "classification": "branch",
@@ -38,8 +86,8 @@
     },
     {
       "name": {
-        "lang:ko_KR": "더불어민주당",
-        "lang:en_US": "Democratic Party of Korea"
+        "lang:ko": "더불어민주당",
+        "lang:en": "Democratic Party of Korea"
       },
       "id": "Q15978686",
       "classification": "party",
@@ -49,12 +97,67 @@
           "identifier": "Q15978686"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:ko": "자유한국당",
+        "lang:en": "Liberty Korea Party"
+      },
+      "id": "Q20916",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20916"
+        }
+      ]
     }
   ],
   "areas": [
-
+    {
+      "id": "Q884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6296418"
+      ],
+      "type": {
+        "lang:ko": "나라",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:ko": "대한민국",
+        "lang:en": "Republic of Korea"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12611134-b0bb075b-407b-8ec4-467e-0de3a3e5c0c5",
+      "person_id": "Q12611134",
+      "organization_id": "Q26318539",
+      "area_id": "Q884",
+      "start_date": "2017-05-31",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:ko": "행정부 수반",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q15407843",
+      "role": {
+        "lang:ko": "대한민국의 국무총리",
+        "lang:en": "Prime Minister of South Korea"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q21001-9fa17aa3-4fbf-2c0c-a109-4534270c54dd",
       "person_id": "Q21001",
@@ -62,15 +165,66 @@
       "organization_id": "Q26318539",
       "area_id": "Q884",
       "start_date": "2017-05-10",
-      "role_superclass_code": "Q6296418",
+      "role_superclass_code": "Q248577",
       "role_superclass": {
-        "lang:ko_KR": "대한민국의 대통령",
-        "lang:en_US": "President of South Korea"
+        "lang:ko": "공화국 대통령",
+        "lang:en": "President of the Republic"
       },
       "role_code": "Q6296418",
       "role": {
-        "lang:ko_KR": "대한민국의 대통령",
-        "lang:en_US": "President of South Korea"
+        "lang:ko": "대한민국의 대통령",
+        "lang:en": "president of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21001-9fa17aa3-4fbf-2c0c-a109-4534270c54dd",
+      "person_id": "Q21001",
+      "on_behalf_of_id": "Q15978686",
+      "organization_id": "Q26318539",
+      "area_id": "Q884",
+      "start_date": "2017-05-10",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:ko": "행정부 수반",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q6296418",
+      "role": {
+        "lang:ko": "대한민국의 대통령",
+        "lang:en": "president of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4352214-7a81f845-4ad5-168b-e16b-242d175aaea0",
+      "person_id": "Q4352214",
+      "on_behalf_of_id": "Q20916",
+      "organization_id": "Q26318539",
+      "area_id": "Q884",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:ko": "행정부 수반",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q15407843",
+      "role": {
+        "lang:ko": "대한민국의 국무총리",
+        "lang:en": "Prime Minister of South Korea"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q624279-5f37ce0a-4641-74f9-04db-7fb46e5d8cd3",
+      "person_id": "Q624279",
+      "organization_id": "Q26318539",
+      "area_id": "Q884",
+      "role_superclass_code": "Q2285706",
+      "role_superclass": {
+        "lang:ko": "행정부 수반",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q15407843",
+      "role": {
+        "lang:ko": "대한민국의 국무총리",
+        "lang:en": "Prime Minister of South Korea"
       }
     }
   ]
