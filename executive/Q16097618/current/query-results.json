@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16083277-032cc047-412d-dfb2-6528-9ccc9c16da2c"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16083277"
+      },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서병수"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suh Byung-soo"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20916"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liberty Korea Party"
       },
       "party_name_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "자유한국당"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16083277"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberty Korea Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16520"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Busan"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "부산광역시"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Busan"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50265926"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50265926"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayors of Busan"
-      },
-      "role_superclass_ko" : {
+      "role_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "부산광역시장"
@@ -57,44 +62,7 @@
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayors of Busan"
-      },
-      "role_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "부산광역시장"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Suh Byung-soo"
-      },
-      "name_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "서병수"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16097618"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Busan Metropolitan Government"
-      },
-      "org_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "부산광역시청"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16083277-032cc047-412d-dfb2-6528-9ccc9c16da2c"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16520"
+        "value" : "Mayor of Busan"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -104,6 +72,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "suhbyungsoo"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50615690"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "광역시시장"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "metropolitan city mayor of South Korea"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16097618"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "부산광역시청"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Busan Metropolitan Government"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16520"
       }
     } ]
   }

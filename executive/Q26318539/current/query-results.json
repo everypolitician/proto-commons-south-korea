@@ -71,17 +71,17 @@
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12585780"
+        "value" : "http://www.wikidata.org/entity/Q26318539"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "국무회의"
+        "value" : "대한민국의 헌법기관"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Council of South Korea"
+        "value" : "Constitutional institution in South Korea"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -150,17 +150,17 @@
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12585780"
+        "value" : "http://www.wikidata.org/entity/Q26318539"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "국무회의"
+        "value" : "대한민국의 헌법기관"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Council of South Korea"
+        "value" : "Constitutional institution in South Korea"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -243,17 +243,17 @@
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12585780"
+        "value" : "http://www.wikidata.org/entity/Q26318539"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "국무회의"
+        "value" : "대한민국의 헌법기관"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Council of South Korea"
+        "value" : "Constitutional institution in South Korea"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -327,17 +327,17 @@
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12585780"
+        "value" : "http://www.wikidata.org/entity/Q26318539"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "국무회의"
+        "value" : "대한민국의 헌법기관"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Council of South Korea"
+        "value" : "Constitutional institution in South Korea"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -429,17 +429,17 @@
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q12585780"
+        "value" : "http://www.wikidata.org/entity/Q26318539"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "국무회의"
+        "value" : "대한민국의 헌법기관"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "State Council of South Korea"
+        "value" : "Constitutional institution in South Korea"
       },
       "org_jurisdiction" : {
         "type" : "uri",

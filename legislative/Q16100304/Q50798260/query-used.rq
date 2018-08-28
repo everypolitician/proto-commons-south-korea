@@ -8,50 +8,60 @@ SELECT ?statement
        ?org ?org_ko ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q50559246 as ?role) .
+  BIND(wd:Q50559246 as ?specific_role) .
   BIND(wd:Q16100304 as ?org) .
   OPTIONAL {
-          ?org rdfs:label ?org_ko
-          FILTER(LANG(?org_ko) = "ko")
-        }
+  ?org rdfs:label ?org_ko
+  FILTER(LANG(?org_ko) = "ko")
+}
+
 OPTIONAL {
-          ?org rdfs:label ?org_en
-          FILTER(LANG(?org_en) = "en")
-        }
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
   OPTIONAL {
     ?org wdt:P1342 ?org_seat_count
   }
-  ?item p:P39 ?statement .
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
   OPTIONAL {
-          ?item rdfs:label ?name_ko
-          FILTER(LANG(?name_ko) = "ko")
-        }
+  ?item rdfs:label ?name_ko
+  FILTER(LANG(?name_ko) = "ko")
+}
+
 OPTIONAL {
-          ?item rdfs:label ?name_en
-          FILTER(LANG(?name_en) = "en")
-        }
-  ?statement ps:P39 ?role .
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
+  ?statement ps:P39/wdt:P279* ?specific_role .
   OPTIONAL {
-          ?role rdfs:label ?role_ko
-          FILTER(LANG(?role_ko) = "ko")
-        }
+  ?role rdfs:label ?role_ko
+  FILTER(LANG(?role_ko) = "ko")
+}
+
 OPTIONAL {
-          ?role rdfs:label ?role_en
-          FILTER(LANG(?role_en) = "en")
-        }
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
   OPTIONAL {
     ?role wdt:P279 ?role_superclass .
     ?role_superclass wdt:P279+ wd:Q4175034
     OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_ko
-          FILTER(LANG(?role_superclass_ko) = "ko")
-        }
+  ?role_superclass rdfs:label ?role_superclass_ko
+  FILTER(LANG(?role_superclass_ko) = "ko")
+}
+
 OPTIONAL {
-          ?role_superclass rdfs:label ?role_superclass_en
-          FILTER(LANG(?role_superclass_en) = "en")
-        }
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
   }
   ?statement pq:P2937 wd:Q50798260 .
   OPTIONAL { ?statement pq:P580 ?start }
@@ -59,24 +69,28 @@ OPTIONAL {
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
-          ?district rdfs:label ?district_name_ko
-          FILTER(LANG(?district_name_ko) = "ko")
-        }
+  ?district rdfs:label ?district_name_ko
+  FILTER(LANG(?district_name_ko) = "ko")
+}
+
 OPTIONAL {
-          ?district rdfs:label ?district_name_en
-          FILTER(LANG(?district_name_en) = "en")
-        }
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
   }
   OPTIONAL {
     ?statement pq:P4100 ?party.
     OPTIONAL {
-          ?party rdfs:label ?party_name_ko
-          FILTER(LANG(?party_name_ko) = "ko")
-        }
+  ?party rdfs:label ?party_name_ko
+  FILTER(LANG(?party_name_ko) = "ko")
+}
+
 OPTIONAL {
-          ?party rdfs:label ?party_name_en
-          FILTER(LANG(?party_name_en) = "en")
-        }
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
   

@@ -475,6 +475,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-07-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "kimyongbeom"
       }
     }, {
       "statement" : {

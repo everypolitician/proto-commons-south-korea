@@ -4,52 +4,38 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15978686"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party of Korea"
-      },
-      "party_name_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "더불어민주당"
+        "value" : "http://www.wikidata.org/entity/statement/Q55720287-0ba827ef-41ce-8c67-535e-af771da8ac01"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22803"
+        "value" : "http://www.wikidata.org/entity/Q55720287"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kim Sang Dong"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8684"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Seoul"
       },
       "district_name_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "서울특별시"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q488289"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q488289"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Seoul"
-      },
-      "role_superclass_ko" : {
+      "role_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "서울특별시장"
@@ -59,47 +45,135 @@
         "type" : "literal",
         "value" : "Mayor of Seoul"
       },
-      "role_ko" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50615478"
+      },
+      "role_superclass_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
-        "value" : "서울특별시장"
+        "value" : "특별시시장"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Park Won-soon"
-      },
-      "name_ko" : {
-        "xml:lang" : "ko",
-        "type" : "literal",
-        "value" : "박원순"
+        "value" : "special city mayor of South Korea"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q623789"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Seoul Metropolitan Government"
       },
       "org_ko" : {
         "xml:lang" : "ko",
         "type" : "literal",
         "value" : "서울특별시청"
       },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul Metropolitan Government"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8684"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22803-7abed12f-4ddf-dd40-ce90-5ebee27839a0"
+        "value" : "http://www.wikidata.org/entity/statement/Q22803-0d735f5b-430e-4143-26f5-d71f83d22ced"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22803"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Park Won-soon"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8684"
+      },
+      "district_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q488289"
+      },
+      "role_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시장"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Seoul"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50615478"
+      },
+      "role_superclass_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "특별시시장"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "special city mayor of South Korea"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623789"
+      },
+      "org_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "서울특별시청"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul Metropolitan Government"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8684"
       },
+      "name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "박원순"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15978686"
+      },
+      "party_name_ko" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "더불어민주당"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party of Korea"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2014-07-01T00:00:00Z"
+        "value" : "2018-07-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
